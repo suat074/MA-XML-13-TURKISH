@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="HomePageTabTitle">
+    <item>Sağlık</item>
+    <item>Egzersiz</item>
+  </string-array>
+  <string-array name="SportTabTitle">
+    <item>Koşu</item>
+    <item>Yürüyüş</item>
+    <item>Bisiklet sürme</item>
+    <item>İp atlama</item>
+	<item>Egzersiz</item>
+  </string-array>
+  <string-array name="arr_prompt_label">
+    <item>Makul</item>
+    <item>Uzun</item>
+    <item>Çok uzun</item>
+  </string-array>
+  <string-array name="arr_sedentary_reminder">
+    <item>Hareket zamanı!</item>
+    <item>Daha fazla bilgi alın</item>
+    <item>Biraz su için ve bir yürüyüşe çıkın.</item>
+    <item>Daha fazla bilgi alın</item>
+    <item>Birkaç merdiven çıkın</item>
+    <item>Daha fazla bilgi alın</item>
+    <item>Çok uzun süre oturmayın</item>
+    <item>Daha fazla bilgi alın</item>
+  </string-array>
+  <string-array name="arr_time_label">
+    <item>1 saat</item>
+    <item>2 saat</item>
+  </string-array>
+  <string-array name="contact_relation_array">
+    <item>Ayarlanmadı</item>
+    <item>Ebeveyn</item>
+    <item>Kız kardeş</item>
+    <item>Erkek kardeş</item>
+    <item>Eş</item>
+    <item>Ortak</item>
+    <item>Arkadaş</item>
+    <item>İş arkadaşı</item>
+    <item>Sınıf arkadaşı</item>
+  </string-array>
+  <string-array name="gender_array">
+    <item>Ayarlanmadı</item>
+    <item>Erkek</item>
+    <item>Kadın</item>
+  </string-array>
+  <string-array name="normal_blood_types">
+    <item>Ayarlanmadı</item>
+    <item>A</item>
+    <item>B</item>
+    <item>AB</item>
+    <item>O</item>
+  </string-array>
+  <string-array name="rh_blood_array">
+    <item>Ayarlanmadı</item>
+    <item>Negatif</item>
+    <item>Pozitif</item>
+  </string-array>
+  <string-array name="yes_no_array">
+    <item>Ayarlanmadı</item>
+    <item>Evet</item>
+    <item>Hayır</item>
+  </string-array>
+  <string-array name="pager_titles">
+    <item>Gün</item>
+    <item>Hafta</item>
+    <item>Ay</item>
+  </string-array>
+  <string-array name="run_in_background_state">
+    <item>Kısıtlama yok</item>
+    <item>Arka plan etkinliğini kısıtla</item>
+    <item>10 dakika sonra durdur</item>
+    <item>Asla</item>
+  </string-array>
+  <string-array name="ShareTabTitle">
+    <item>Resim</item>
+    <item>Rota</item>
+    <item>Kart</item>
+  </string-array>
+  <string-array name="stand_guide_page_content1">
+    <item>Oturmak sağlığınıza fayda sağlamaz. Otururken harcadığınız zamanı azaltamasanız bile, arada bir ayakta durmak iyi bir fikirdir.</item>
+    <item>Bu özellik, her saat için en az 1 dakika ayakta durmanızı hatırlatır. Her gün 12 saatlik ayakta durma hareketi ile hareketsiz yaşam tarzının risklerinden kaçınmanıza yardımcı olacaktır.</item>
+    <item>Daha fazla bilgi edinmek ve bu özelliği açmak için \"Devam\" düğmesine dokunun.</item>
+  </string-array>
+  <string-array name="stand_guide_page_content2">
+    <item>Xiaomi Sağlık ayağa kalktığınızda bunu tespit edip kaydedebilir. Ayrıca 1 saatlik hareketsizlikten sonra ayağa kalkmanız için hatırlatıcılar alabilirsiniz.</item>
+    <item>Bu özellik, hareketlerinizi izler ve sonuçlara göre hatırlatıcılar gönderir.</item>
+  </string-array>
+  <string-array name="week">
+    <item>Pazar</item>
+    <item>Pazartesi</item>
+    <item>Salı</item>
+    <item>Çarşamba</item>
+    <item>Perşembe</item>
+    <item>Cuma</item>
+    <item>Cumartesi</item>
+  </string-array>
+  <string-array name="week_label">
+    <item>Paz</item>
+    <item>Pts</item>
+    <item>Sal</item>
+    <item>Çar</item>
+    <item>Per</item>
+    <item>Cum</item>
+    <item>Cts</item>
+  </string-array>
+  <string-array name="week_short">
+    <item>Paz</item>
+    <item>Pzt</item>
+    <item>Sal</item>
+    <item>Çar</item>
+    <item>Per</item>
+    <item>Cum</item>
+    <item>Cmt</item>
+  </string-array>
+</resources>
