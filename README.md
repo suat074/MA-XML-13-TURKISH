@@ -1,5 +1,6 @@
+[![MIUI13 logo](https://i.imgur.com/G9wfOYe.png)](https://xiaomi.eu/)
+
 # MA-XML-13-TURKISH
-MIUI V13 Turkish Translation https://github.com/suat074/MA-XML-13-TURKISH/issues Introduction This repository contains the Turkish Translation of the MIUI Weekly ROM Releases from xiaomi.eu.  Main Translator: Suat SARIOĞLU (suatsari) :: suatsarioglu@gmail.com  Reporting issues Use the Github Issue tracker to report a bug or the following forum thread  Current improvements Daily updates are made. All Xiaomi models added Spelling errors corrected MiPAD language translation added Some of the problems have been fixed All of Xiaomi phones etc... Changes will be added This is MIUI 13 Turkish Language Project supported all of models... Check Contributing to a project for further informations.  For all problems: Administrator :: ingbrzy (ingbrzy@miuios.cz) TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com)  I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
 
 [![Issue Stats](https://img.shields.io/github/issues-raw/suat074/MA-XML-13-TURKISH.svg)](https://github.com/suat074/MA-XML-13-TURKISH/issues)
 
@@ -33,7 +34,7 @@ Check [Contributing to a project](https://guides.github.com/activities/forking) 
 
 ## For all problems:
 
-- Administrator :: ingbrzy (ingbrzy@miuios.cz)
+- Administrator :: [ingbrzy](https://github.com/ingbrzy)
 - TR Translator : Suat SARIOĞLU :: suatsari (suatsarioglu@gmail.com)
 
 I want to thank everyone for their help, dont forget: "If you do not fly, run; If you do not run, walk; if you can not walk, crawl, but do not give up."
