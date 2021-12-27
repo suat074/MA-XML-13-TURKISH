@@ -132,7 +132,7 @@
   <string name="childrens_day">çocuk bayramı</string>
   <string name="chinese_youth_day">gençlik festivali</string>
   <string name="chip_text">Çentik metni</string>
-  <string name="clear_net_mock_success">Net sahte net başarı</string>
+  <string name="clear_net_mock_success">Sahte ağ başarıyla temizlendi</string>
   <string name="clear_text_end_icon_content_description">Metni temizle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="click_for_create_event">%s için etkinlik oluştur\'u tıklayın</string>
@@ -690,7 +690,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="pull_refresh_progress_loading">Sadece bir saniye…</string>
   <string name="pull_refresh_progress_release_to_load">Yüklemek için bırakın</string>
   <string name="pull_to_refresh_hint">%1$d konumundan etkinlikleri yüklemek için çekin</string>
-  <string name="receive_net_mock_success">Net alay başarı alındı</string>
+  <string name="receive_net_mock_success">Sahte ağ başarıyla alındı</string>
   <string name="recommend_card_add">Abone ol</string>
   <string name="recommend_card_adding">Abonelikler</string>
   <string name="recommend_card_close_hint">Benzer abonelikleri azalt</string>

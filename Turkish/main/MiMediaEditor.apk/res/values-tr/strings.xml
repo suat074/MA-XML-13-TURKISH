@@ -388,7 +388,7 @@
   <string name="home_menu_cleaner">Alan boşalt</string>
   <string name="home_menu_collage">Kolaj</string>
   <string name="home_menu_id_photo">Kimlik</string>
-  <string name="home_menu_magic_matting">Sihir</string>
+  <string name="home_menu_magic_matting">Kesme</string>
   <string name="home_menu_photo_movie">Klip</string>
   <string name="home_menu_print">Fotoğrafları yazdır</string>
   <string name="home_menu_video_post">Video efektleri</string>
@@ -433,7 +433,7 @@
   <string name="magic_eraser">Silgi</string>
   <string name="magic_error_adding_filter">Filtre uygulanamadı</string>
   <string name="magic_exporting">Kaydediliyor…</string>
-  <string name="magic_filter">Sihir</string>
+  <string name="magic_filter">Kesme</string>
   <string name="magic_filter_dsc">Çarpıcı arka planlara sahip portreler oluşturun</string>
   <string name="magic_galery">Galeri</string>
   <string name="magic_hight">Yükseklik</string>
@@ -460,14 +460,14 @@
   <string name="magic_matting_download_failed_for_notwork">İndirilemedi.  Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="magic_matting_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil.  Eklenti mobil veri kullanılarak indirilsin mi?</string>
   <string name="magic_matting_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız WLAN\'a bağlı değil.  Eklenti mobil veri kullanılarak indirilsin mi?</string>
-  <string name="magic_matting_download_sdk_without_wifi_title">\"Sihir\" eklentisini indir</string>
+  <string name="magic_matting_download_sdk_without_wifi_title">\"Kesme\" eklentisini indir</string>
   <string name="magic_matting_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir.  Yine de indirilsin mi?</string>
   <string name="magic_matting_download_with_metered_network_title">Ücretli ağ</string>
   <string name="magic_matting_error_px">Bu görsel boyutu desteklenmiyor</string>
   <string name="magic_matting_face_fail">Yüz işlenemedi</string>
   <string name="magic_matting_load_data_fail">Veri yüklenemedi</string>
-  <string name="magic_matting_module_finish">\"Sihir\" eklentisi başarıyla indirildi</string>
-  <string name="magic_matting_module_loading">\"Sihir\" eklentisi indiriliyor…</string>
+  <string name="magic_matting_module_finish">\"Kesme\" eklentisi başarıyla indirildi</string>
+  <string name="magic_matting_module_loading">\"Kesme\" eklentisi indiriliyor…</string>
   <string name="magic_max_px">Bu resim çok büyük</string>
   <string name="magic_mix_px">Resim çok küçük</string>
   <string name="magic_more_fact">Görünüşe göre bu fotoğrafta birden fazla kişi var</string>
@@ -1497,4 +1497,18 @@
   <string name="saf_requester_title">Galeri Düzenleyicisi için \"%s\" erişimine izin verin</string>
   <string name="saf_secret_album">Özel albüm</string>
   <string name="saf_secret_album_guide">Bu uygulamanın, özel albümünüzdeki öğeleri görüntüleyebilmesi için izinlere ihtiyacı var.</string>
+  <string name="filter_popular_grey_gold">Palladium</string>
+  <string name="filter_popular_light_brown">Bej</string>
+  <string name="filter_popular_morandi">Morandi</string>
+  <string name="filter_sky_ai_sunny">Temiz gün</string>
+  <string name="filter_sky_ai_sunny_next_effect">Sonraki</string>
+  <string name="filter_sky_ai_sunny_scene_city">Şehir</string>
+  <string name="filter_sky_ai_sunny_scene_prairie">Otlak</string>
+  <string name="filter_sky_ai_sunny_scene_seaside">Sahil</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="text_edit_dialog_font_default_text">Varsayılan</string>
+  <string name="text_edit_dialog_toast_server_error">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
 </resources>

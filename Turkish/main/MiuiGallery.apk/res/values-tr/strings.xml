@@ -890,7 +890,7 @@ mevcut"</string>
   <string name="image_with_time">Fotoğraf %s tarihinde çekilmiş</string>
   <string name="image_with_time_and_location">Fotoğraf %1$s tarihinde çekilmiş. Yer: %2$s.</string>
   <string name="impunity_declaration_settings">İnternet bağlantısı bildirimi</string>
-  <string name="impunity_declaration_summary">Galeri\’yi her açtığınızda internet bağlantısı bildirimini göster</string>
+  <string name="impunity_declaration_summary">Galeriyi bir sonraki açışınızda internet bağlantı bildirimini göster</string>
   <string name="initializing_cloud">Başlatılıyor…</string>
   <string name="input_a_name">Adı girin</string>
   <string name="input_baby_name">Adı girin</string>
@@ -2474,7 +2474,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
     <string name="filter_texture_shadow">Alacakaranlık</string>
     <string name="home_menu_art_still">Sanat</string>
     <string name="home_menu_id_photo">Kimlik</string>
-    <string name="home_menu_magic_matting">Sihir</string>
+    <string name="home_menu_magic_matting">Kesme</string>
     <string name="home_menu_video_post">Video efektleri</string>
     <string name="id_photo_cancel_download">İptal</string>
     <string name="id_photo_download">İndir</string>
@@ -2505,7 +2505,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
     <string name="magic_eraser">Silgi</string>
     <string name="magic_error_adding_filter">Filtre uygulanamadı</string>
     <string name="magic_exporting">Kaydediliyor…</string>
-    <string name="magic_filter">Sihir</string>
+    <string name="magic_filter">Kesme</string>
     <string name="magic_filter_dsc">Çarpıcı arka planlara sahip portreler oluşturun</string>
     <string name="magic_galery">Galeri</string>
     <string name="magic_hight">Yükseklik</string>
@@ -2532,13 +2532,13 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
     <string name="magic_matting_download_failed_for_notwork">İndirilemedi.  Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
     <string name="magic_matting_download_sdk_without_wifi_msg">Görünüşe göre cihazınız kablosuz ağa bağlı değil.  Eklenti mobil veri kullanılarak indirilsin mi?</string>
     <string name="magic_matting_download_sdk_without_wifi_msg_china">Görünüşe göre cihazınız WLAN\'a bağlı değil.  Eklenti mobil veri kullanılarak indirilsin mi?</string>
-    <string name="magic_matting_download_sdk_without_wifi_title">\"Sihir\" eklentisini indir</string>
+    <string name="magic_matting_download_sdk_without_wifi_title">\"Kesme\" eklentisini indir</string>
     <string name="magic_matting_download_with_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir.  Yine de indirilsin mi?</string>
     <string name="magic_matting_download_with_metered_network_title">Ücretli ağ</string>
     <string name="magic_matting_face_fail">Yüz işlenemedi</string>
     <string name="magic_matting_load_data_fail">Veri yüklenemedi</string>
-    <string name="magic_matting_module_finish">\"Sihir\" eklentisi başarıyla indirildi</string>
-    <string name="magic_matting_module_loading">\"Sihir\" eklentisi indiriliyor…</string>
+    <string name="magic_matting_module_finish">\"Kesme\" eklentisi başarıyla indirildi</string>
+    <string name="magic_matting_module_loading">\"Kesme\" eklentisi indiriliyor…</string>
     <string name="magic_metered_network_msg">Görünüşe göre cihazınız ücretli bir ağa bağlı. Orijinal dosyaların indirilmesi ek ücretlere neden olabilir.  Yine de indirilsin mi?</string>
     <string name="magic_metered_network_title">Ücretli ağ</string>
     <string name="magic_mix_px">Resim çok küçük</string>
@@ -3131,4 +3131,23 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="watermark_enter">Koruyucu filigran</string>
   <string name="watermark_summary">Bu cihazda saklanan kimliklerin fotoğraflarını tanıyın ve koruyucu filigran eklemek için istemler alın</string>
   <string name="watermark_title">Koruyucu filigran</string>
+  <string name="download_delete_error_desc">Bu öğeyi cihazdan ve buluttan sildiğiniz için geri yüklenemiyor. Boş dosya şimdi kaldırılsın mı?</string>
+  <string name="download_delete_error_positive">Kaldır</string>
+  <string name="download_delete_error_title">Kayıp öğe</string>
+  <string name="group_header_title_media_group">Medya türleri</string>
+  <string name="map_privacy_dialog_content"><Data>Bu hizmet, konum bilgisine sahip fotoğrafları ve videoları bir harita üzerinde görüntülemenizi sağlar. Size bu hizmeti sağlamak için Baidu Map Open SDK kullanıyoruz. Devam etmeden önce &lt;a href=\"%1$s\">Galeri Haritası Üçüncü Taraf Veri Paylaşımı Bildirimi&lt;/a> okuyun ve kabul edin.</Data></string>
+  <string name="media_type_burst_photo">Seri çekimler</string>
+  <string name="media_type_clone_photo">Klonlar</string>
+  <string name="media_type_doc_photo">Dokümanlar</string>
+  <string name="media_type_fast_motion_video">Hızlı çekim</string>
+  <string name="media_type_front_photo">Özçekimler</string>
+  <string name="media_type_live_vv">Vlog</string>
+  <string name="media_type_motion_photo">Hareketli</string>
+  <string name="media_type_pano_photo">Panoramalar</string>
+  <string name="media_type_portrait_photo">Portre</string>
+  <string name="media_type_slow_motion_video">Ağır çekim</string>
+  <string name="privacy_map_detail_content_new">Galeri Haritası Üçüncü Taraf Veri Paylaşım Bildirimi</string>
+  <string name="privacy_reject_map_detail_new"><Data>"&lt;a href=\"%1$s\">Galeri Haritası Üçüncü Taraf Veri Paylaşımı Bildirimi&lt;/a> ile ilgili onayınızı geri çekmeniz, Galeri Haritası hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Diğer Galeri özelliklerini normal şekilde kullanmaya devam edebileceksiniz. Onayınız şimdi geri çekilsin mi?"</Data></string>
+  <string name="privacy_rejected_map_new">Galeri Haritası Üçüncü Taraf Veri Paylaşım Beyanı onayının geri çekilmesi</string>
+  <string name="privacy_rejected_pos_btn">Geri çek</string>
 </resources>

@@ -1037,4 +1037,13 @@ Yukarıda belirtilen hizmetleri kullanmayı kabul etmezseniz, bu uygulamanın ba
   <string name="music_quality">Ses kalitesi</string>
   <string name="no_lyrics">Şarkı sözü yok</string>
   <string name="toast_hungama_vip_song">Bu şarkı sadece PRO üyelere açıktır. Bu şarkıyı indirmek için bir abonelik alın.</string>
+  <string name="autoplay_is_off">Otomatik oynatma kapalı</string>
+  <string name="autoplay_is_on">Otomatik oynatma açık</string>
+  <string name="offline_notification_text">Reklamı açmak için dokunun</string>
+  <string name="offline_notification_title">Çevrimdışıyken kaydettiğiniz reklamı görüntüleyin</string>
+  <string name="offline_opt_in_confirm">Tamam</string>
+  <string name="offline_opt_in_confirmation">Tekrar çevrimiçi olduğunuzda bağlantıyla birlikte bir bildirim alacaksınız</string>
+  <string name="offline_opt_in_decline">Hayır teşekkürler</string>
+  <string name="offline_opt_in_message">Size reklamı veren sitenin bağlantısını içeren bir bildirim göndereceğiz.</string>
+  <string name="offline_opt_in_title">Tekrar çevrimiçi olduğunuzda reklamı açın.</string>
 </resources>

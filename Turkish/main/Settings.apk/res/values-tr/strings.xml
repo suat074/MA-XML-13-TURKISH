@@ -2761,13 +2761,13 @@ Xiaomi Bulut\'u açın ve oradan öğeleri geri yükleyin."</string>
   <string name="install_other_apps">Bilinmeyen uygulamaları yükle</string>
   <string name="install_preinstall_app">Bölge değiştiriliyor…</string>
   <string name="install_text">Yükle</string>
-  <string name="install_type_instant">Anında uygulama</string>
+  <string name="install_type_instant">Hazır uygulama</string>
   <string name="install_unknown_applications">Bilinmeyen kaynaklardan uygulama yüklemeye izin ver</string>
   <string name="install_whole_rom">ROM İndir</string>
   <string name="installed">Yüklendi</string>
   <string name="instant_app_details_summary">%1$s hakkında daha fazla bilgi</string>
-  <string name="instant_apps_settings">Anında uygulama tercihleri</string>
-  <string name="instant_apps_account">Anında uygulama hesabı</string>
+  <string name="instant_apps_settings">Hazır uygulama tercihleri</string>
+  <string name="instant_apps_account">Hazır uygulama hesabı</string>
   <string name="instruction_privacy_password">Bu şifre aşağıdaki öğeleri korur</string>
   <string name="instruction_title">Önemli güvenlik bilgileri</string>
   <string name="insufficient_storage">Yetersiz depolama alanı.</string>
@@ -6642,8 +6642,8 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wapi_yes">Evet</string>
   <string name="warm_color">Sıcak</string>
   <string name="web_action_enable_summary">Bağlantıları, yüklü olmasalar bile uygulamalarda açın</string>
-  <string name="web_action_enable_title">Anında uygulamalar</string>
-  <string name="web_action_section_title">Anında uygulamalar</string>
+  <string name="web_action_enable_title">Hazır uygulamalar</string>
+  <string name="web_action_section_title">Hazır uygulamalar</string>
   <string name="webview_disabled_for_user">(%s için devre dışı bırakıldı)</string>
   <string name="webview_license_title">Sistem WebView Lisansı</string>
   <string name="webview_uninstalled_for_user">(%s için yükleme kaldırıldı)</string>

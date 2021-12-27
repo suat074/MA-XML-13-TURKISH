@@ -48,6 +48,10 @@
   <string name="add_slide_hint">Yeni slayt oluşturmak için dokunun</string>
   <string name="add_smiley">İfade Ekle</string>
   <string name="add_timing">Zamanlanmış</string>
+  <string name="add_to_block_by_number">"%s engelli
+listesine eklendi"</string>
+  <string name="add_to_block_by_tag">"\"%s\" içeren mesajlar
+engelli listesine eklendi"</string>
   <string name="add_to_browser_favorite_failed">Eklenemedi</string>
   <string name="add_to_browser_favorite_success">Başarıyla eklendi</string>
   <string name="add_video">Video Ekle</string>
@@ -1096,6 +1100,10 @@ Mobil veriyi açın ve bu sayfayı tekrar açın."</string>
   <string name="sunday">Pazar</string>
   <string name="sunday_short">Paz</string>
   <string name="sunday_shortest">Paz</string>
+  <string name="suspected_fraud_action">Bildirmek için dokunun.</string>
+  <string name="suspected_fraud_action_tip">"Olası dolandırıcılık. "</string>
+  <string name="suspected_fraud_link_tip">"Güvensiz URL. "</string>
+  <string name="suspected_fraud_tip">Olası dolandırıcılık</string>
   <string name="switch_to_editor">Düzenleyici modu</string>
   <string name="switch_to_menu">Menü modu</string>
   <string name="system_permission_declare_agree">Kabul et</string>
