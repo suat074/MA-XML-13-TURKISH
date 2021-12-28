@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_display_daltonizer_preference_subtitle">Renklerin cihazınızda nasıl görüntüleneceğini düzenleyin. Bu, şunları yapmak istediğinizde kullanışlı olur:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Renkleri daha doğru görmek&lt;/li> &lt;li>&amp;nbsp;Odaklanmanıza yardımcı olması için renkleri kaldırmak&lt;/li> &lt;/ol></string>
+</resources>
