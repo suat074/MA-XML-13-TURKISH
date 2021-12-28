@@ -407,8 +407,12 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="toast_invisible_mode1">Gizli olduğunuzda oyuncu seçimi çalışmaz</string>
   <string name="wifi_connect_btn_text">Yapılandır</string>
   <string name="wifi_other">Diğer ağlar</string>
-  <string name="wifi_passwd_et_hint">Şifre girin</string>
+  <string name="wifi_passwd_et_hint">Şifre</string>
   <string name="wifi_recommendation">Daha iyi yansıtma deneyimi için %1$d GHz ağları seçin</string>
   <string name="wifi_scan_btn_text">Tekrar tara</string>
-  <string name="wifi_username_et_hint">Hesap kimliğini girin</string>
+  <string name="wifi_username_et_hint">Hesap kimliği</string>
+  <string name="current_wifi_tv">Mevcut ağ</string>
+  <string name="notify_wifiap_dialog_msg">Kodu taramak ve ağı yapılandırmak için önce internet paylaşım noktasını kapatın.</string>
+  <string name="notify_wifiap_dialog_negative">Anladım</string>
+  <string name="notify_wifiap_dialog_title">Ağı yapılandır</string>
 </resources>

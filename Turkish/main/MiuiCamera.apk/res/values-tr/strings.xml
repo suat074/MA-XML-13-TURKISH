@@ -1230,6 +1230,8 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_camera_tilt_shift_title">Minyatür etkisi</string>
   <string name="pref_camera_touchafaec_entry_off">Kapalı</string>
   <string name="pref_camera_touchafaec_entry_on">Açık</string>
+  <string name="pref_camera_track_focus_intro_description">Hareketli nesnelerle fotoğraf çektiğinizde veya video çektiğinizde bu özellik insanları, kedileri ve köpekleri algılar ve onları otomatik olarak odakta tutar. Ek olarak, hareketi izlemek için herhangi bir konuya iki kez de dokunabilirsiniz.</string>
+  <string name="pref_camera_track_focus_intro_goto">Aç</string>
   <string name="pref_camera_ubifocus_title">Yeniden odakla</string>
   <string name="pref_camera_ultra_wide_ldc_description">Bozuk nesneleri otomatik olarak düzelt</string>
   <string name="pref_camera_ultra_wide_ldc_title">Ultra geniş çekimlerdeki bozulmayı düzeltin</string>
@@ -1786,8 +1788,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="dd_frn_f_t">Ön kamerayı kullanmak için cihazınızı katlayın</string>
   <string name="esp_tip">Dış ekran önizlemesi</string>
   <string name="pref_camera_esp">Arka ekran önizlemesi</string>
-  <string name="pref_camera_track_focus_preferred_description">İnsanlara ve hayvanlara otomatik olarak odaklanmak için açın. Ayrıca manuel izleme için öğeleri seçmek mümkün olacak.</string>
-  <string name="pref_camera_track_focus_preferred_title">Odak takibi</string>
+  <string name="pref_camera_track_focus_preferred_description">Hareket eden insanları, kedileri ve köpekleri otomatik olarak odakta tutun veya izlemek için herhangi bir konuya iki kez dokunun</string>
+  <string name="pref_camera_track_focus_preferred_title">Hareket izleme odağı</string>
   <string name="prep_video_ai_audio_new_desc_tip_alone">Odaktaki nesneden gelen sesler manzara modunda geliştirilir</string>
   <string name="prep_video_ai_audio_single_desc_tip_alone">Ekranın arkasından gelen sesler yatay modda filtrelenir</string>
   <string name="process_tips_1">Video kaydedilene kadar cihazı katlamayın</string>

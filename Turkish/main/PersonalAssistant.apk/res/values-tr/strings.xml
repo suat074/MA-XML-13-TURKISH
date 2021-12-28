@@ -1926,5 +1926,9 @@ yükleme durumuna erişmesi gerekir. "</string>
   <string name="pa_sports_widget_empty_game">Kralların Onuru</string>
   <string name="pa_sports_widget_empty_recommend">Önerilen</string>
   <string name="pa_edit_apply">Uygula</string>
-  <string name="pa_picker_suit_list_activity_title">Kişisel</string>
+  <string name="pa_accessibility_picker_suit_item_add_to_desktop">Widget mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Widget mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_suit_item_add_to_third">Widget mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun.</string>
+  <string name="pa_picker_maml_list_activity_title">Widget ekle</string>
+  <string name="pa_picker_suit_list_activity_title">Kişiselleştirme paketleri</string>
 </resources>

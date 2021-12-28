@@ -836,4 +836,12 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir."</string>
   <string name="cloud_service_open_authorization">Xiaomi Bulut hizmetlerine hoş geldiniz! Notlarınızı, fotoğraflarınızı ve videolarınızı, kayıtlarınızı ve diğer öğelerinizi bağlı tüm cihazlarda sistem uygulamalarından eşitlemek için Xiaomi Bulut\'u kullanabilirsiniz. Ana ekran düzeni yedeklemeleri de Xiaomi Bulut\'ta saklanır. Eşitlenen tüm öğeleri i.mi.com adresinden görüntüleyebilirsiniz.</string>
   <string name="cloud_service_title">Xiaomi Bulut</string>
   <string name="open_service_title">Aç</string>
+  <string name="accept_all_permission_content">Cihazı bul izinler olmadan düzgün çalışmayabilir. Cihazı bul tam özellikli kullanabilmek için listelenen tüm izinleri seçin.</string>
+  <string name="accept_all_permission_title">Gerekli izinler</string>
+  <string name="accept_all_positive">Seç</string>
+  <string name="accept_use_permissions">Onayla</string>
+  <string name="find_device_permissions_footer">Seçtiğiniz izinleri vermek için \"Onayla\" öğesine dokunun.</string>
+  <string name="find_device_permissions_header">Cihazı bul özelliğine hoş geldiniz! Cihazınızı bulmak, izlemek ve kaybolduğunda kilitlemek için bu uygulamayı kullanabilirsiniz. Cihazı bul için aşağıdaki izinler gereklidir:</string>
+  <string name="revoke_permission_content">İzinleri geri çekerseniz, Cihazı bul özelliğini kullanmaya devam edemezsiniz. Cihazı bul özelliği kapatılır. Geri çekmeden önce şifrenizi doğrulamanız istenecek.</string>
+  <string name="revoke_permission_title">Dikkat</string>
 </resources>

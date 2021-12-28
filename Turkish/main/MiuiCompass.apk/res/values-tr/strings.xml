@@ -89,6 +89,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="mobiledata_alert_dialog_message">Rakım kalibrasyonu için internete bağlanılsın mı?</string>
   <string name="mobiledata_alert_dialog_title">Veri kullanım uyarısı</string>
+  <string name="new_cta_app_purpose">yönleri ve koordinatları görüntüle</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="open_perm_msg">Pusula için konum bilgisi ve kameraya erişim gerekli. Bu koordinatları belirlemek ve canlı önizleme sağlamak için lazım. İzin verilsin mi?</string>
   <string name="open_perm_title">İzin gerekli</string>

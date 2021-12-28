@@ -84,6 +84,10 @@
     <item quantity="other">%d gün kaldı</item>
     <item quantity="one">%d gün kaldı</item>
   </plurals>
+  <plurals name="clean_time">
+    <item quantity="other">%d saniye</item>
+    <item quantity="one">%d saniye</item>
+  </plurals>
   <plurals name="color_game_led_freq_entries">
     <item quantity="other">Her %d saniyede bir</item>
     <item quantity="one">Her %d saniyede bir</item>

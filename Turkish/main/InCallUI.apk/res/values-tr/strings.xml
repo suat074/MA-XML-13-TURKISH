@@ -234,7 +234,7 @@
   <string name="user_locked_prompt">Kişilere erişmek için cihazın kilidini açın.</string>
   <string name="video_call_downgrade_insufficient_bandwidth">Yetersiz bant genişliği, sesli çağrıya geçiş</string>
   <string name="video_conference_caller_info_name">%1$s için görüntülü konferans çağrısı</string>
-  <string name="video_crbt_title">Diğer tarafın video geri arama tonu çalıyor</string>
+  <string name="video_crbt_title">Profil videosu oynatılıyor…</string>
   <string name="voicemail">Sesli mesaj</string>
   <string name="volte_call">VoLTE çağrısı</string>
   <string name="volume_boost_text">Ses seviyesi başarıyla artırıldı</string>

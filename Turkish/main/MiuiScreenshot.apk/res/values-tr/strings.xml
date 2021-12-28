@@ -63,4 +63,7 @@ görüntüsü almak için dokunun"</string>
     <string name="partial_screenshot_failed_to_save_title">Kaydedilemedi.  Yeterli depolama alanı yok.</string>
     <string name="partial_screenshot_insert_failed">Kaydedilemedi</string>
     <string name="take_screenshot">Tüm ekran</string>
+	<string name="can_drag">Eklemek veya göndermek için sürükleyin</string>
+    <string name="save_success">Başarıyla kaydedildi</string>
+    <string name="screenshot_save">Kaydet</string>
 </resources>

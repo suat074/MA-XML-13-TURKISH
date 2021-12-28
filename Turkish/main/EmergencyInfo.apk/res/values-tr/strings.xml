@@ -88,7 +88,6 @@
   <string name="battery_info_status_charging_ac_short">Doldurma</string>
   <string name="battery_info_status_charging_usb">USB üzerinden şarj etme</string>
   <string name="battery_info_status_charging_usb_short">Doldurma</string>
-  <string name="battery_info_status_charging_wireless">Kablosuz olarak şarj etme</string>
   <string name="battery_info_status_charging_wireless">Kablosuz şarj</string>
   <string name="battery_info_status_charging_wireless_short">Doldurma</string>
   <string name="battery_info_status_discharging">Şarj olmuyor</string>

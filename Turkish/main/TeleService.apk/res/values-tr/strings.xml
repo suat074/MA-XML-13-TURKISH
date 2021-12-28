@@ -2084,4 +2084,6 @@ Lütfen operatörünüzle iletişime geçin"</string>
   <string name="smart_multinetwork_acceleration_title">Akıllı ağ hızlandırma</string>
   <string name="mtn_simlock_text_tip">Takılan SIM kart gereksinimi karşılamıyor. Telefonu kullanmadan önce sözleşmenin gerektirdiği bir SIM kartı takmanız gerekir. Ayrıntılar için lütfen yerel operatörünüzle iletişime geçin.</string>
   <string name="sim_can_not_read">%d kart yuvası yalnızca MTN operatörünün SIM kartını okuyabilir</string>
+  <string name="emergency_medical_records">Tıbbi kayıtlar</string>
+  <string name="fiveg_switch_per_slot_summary">Mobil veri bağlantı hızını artırmak için 5G kullanın</string>
 </resources>

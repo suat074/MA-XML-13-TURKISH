@@ -36,7 +36,7 @@
   <string name="congratulation_swipe">Sisteme girmek için yukarı kaydırın</string>
   <string name="congratulation_title">Kurulum tamamlandı</string>
   <string name="content_description_complete">Tamamlandı</string>
-  <string name="content_description_miui_version">MIUI 12</string>
+  <string name="content_description_miui_version">MIUI 13</string>
   <string name="content_description_start">Başlat</string>
   <string name="content_introduction">İçerik Merkezi, birden çok kanaldan içerik ve hizmetleri toplar. Burada makaleleri okuyabilir, videoları izleyebilir, günlük öne çıkan öğeleri görüntüleyebilir ve içerik önerileri alabilirsiniz.</string>
   <string name="continue_to_enable_accessibility">Erişilebilirliği sağlamak için iki parmağınızı basılı tutun.</string>
@@ -443,10 +443,12 @@ Bu özelliği kullanmadan önce Mint Klavye Gizlilik Politikasını kabul etmeli
   <string name="disagreement_terminate_bluetooth">Bu izinleri vermek istemezseniz Bluetooth\'u kullanamazsınız. Ayarlar\'dan Bluetooth\'u açıp kapatabilir ve Bluetooth cihazları ekleyebilirsiniz.</string>
   <string name="permission_call_records_describe_bluetooth_summary">Bu cihaza bağladığınız diğer uyumlu cihazlarınızın çağrı geçmişine erişmesine izin vermek için. Bu, yalnızca başka bir cihaz aracılığıyla çağrı geçmişini proaktif olarak kullanmanız gerektiğinde gerçekleşir. Sistem tarafından Bluetooth aracılığıyla paylaşılan çağrı geçmişi ve kişiler, yalnızca yerel olarak cihazlarınızda önbelleğe alınır ve izninizle onlarla paylaşılır.</string>
   <string name="permission_contact_describe_bluetooth_summary">Bu cihaza bağladığınız diğer uyumlu cihazlarınızın kişilere erişmesine izin vermek için. Bu, yalnızca Bluetooth\'u açtığınızda veya Bluetooth açıkken kişilerinizi düzenlediğinizde gerçekleşir.</string>
- <string name="exclusive_member_merchandise">Özel ürünler</string>
- <string name="member_exclusive_medal">Üyelik rozeti</string>
- <string name="membership_rights_tip">Özel avantajlar elde etmek için Mi Hesabınızda oturum açın</string>
- <string name="xiaomi_game_discounts">Oyun promosyonları</string>
- <string name="xiaomi_membership_rights">Xiaomi Bulut Üyeliği</string>
- <string name="xiaomi_video_discount">Mi Video teklifleri</string>
+  <string name="exclusive_member_merchandise">Özel ürünler</string>
+  <string name="member_exclusive_medal">Üyelik rozeti</string>
+  <string name="membership_rights_tip">Özel avantajlar elde etmek için Mi Hesabınızda oturum açın</string>
+  <string name="xiaomi_game_discounts">Oyun promosyonları</string>
+  <string name="xiaomi_membership_rights">Xiaomi Bulut Üyeliği</string>
+  <string name="xiaomi_video_discount">Mi Video teklifleri</string>
+  <string name="other_settings_ad_dialog_content_for_global">Kişiselleştirilmiş reklam önerileri kapalıyken, özellik açıkken olduğu gibi MIUI sistem uygulamalarında aynı miktarda reklam görürsünüz. Bununla birlikte, Xiaomi ve üçüncü taraf platformlarından gelen reklamlar artık kişisel tercihlerinize dayanmayacağından alakalı olmayacaktır.</string>
+  <string name="start_up_slogan_thirteen_china">Her şeyin birleştiği yer</string>
 </resources>

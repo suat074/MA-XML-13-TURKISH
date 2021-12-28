@@ -1272,7 +1272,7 @@ Delta güncelleme boyutu: %2$s"</string>
   <string name="privacy_pad_important_prompt_content">Görünüşe göre Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı henüz kabul etmediniz. Ancak, Duvar Kağıdı ve kişiselleştirmenin temel özellikleri ve hizmetleri sizin için hala kullanılabilir.\nBu cihazda saklanan öğeleri kişiselleştirme için her kullandığınızda (ör. bunları duvar kağıtları veya zil sesleri olarak ayarlayın), bu uygulamanın cihaz depolamasına erişmesine izin vermenizi isteyeceğiz.</string>
   <string name="privacy_permission_management_description">İzin ayrıntıları</string>
   <string name="privacy_permission_related_content">İzinler</string>
-  <string name="privacy_permit_privacy_policy_content">You won\'t be able to keep using our unless you agree to the new version of &lt;font color ='#37A5FF'>&lt;a href=\'%1$s\'>Privacy Policy&lt;/font>&lt;/a>. Agree to the updated Privacy Policy now?</string>
+  <string name="privacy_permit_privacy_policy_content">"&lt;font color ='#37A5FF'>&lt;a href='%1$s'>Gizlilik Politikası&lt;/font>&lt;/a>yeni sürümünü kabul etmediğiniz sürece, sitemizi kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</string>
   <string name="privacy_phone_important_prompt_content">Görünüşe göre Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı henüz kabul etmediniz. Ancak, Temaların temel özellikleri ve hizmetleri sizin için hala kullanılabilir.\nBu cihazda saklanan öğeleri kişiselleştirme için her kullandığınızda (ör. bunları duvar kağıtları veya zil sesleri olarak ayarlayın), bu uygulamanın cihaz depolamasına erişmesine izin vermenizi isteyeceğiz.</string>
   <string name="privacy_phone_logoff_service_content">Temalar hizmetlerini iptal et</string>
   <string name="privacy_phone_logoff_theme_content_3">3. Bu cihaza indirilen tüm temalar, duvar kağıtları, hareketli duvar kağıtları, yazı tipleri, simgeler ve zil sesleri.</string>
@@ -1335,4 +1335,7 @@ Bu izni Ayarlar > Gizlilik bölümünden verebilirsiniz."</string>
   <string name="read_and_agree_account_privacy"><Data>"Mi Hesabı &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı Sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Gizlilik Politikası&lt;/a>&lt;/font> okudum ve kabul ediyorum."</Data></string>
   <string name="trans_wallpaper_offline_notice">Şeffaf duvar kağıtları mevcut değil</string>
   <string name="voice_input">Ses girişi</string>
+  <string name="show_theme_community">Topluluk kısayolu</string>
+  <string name="show_theme_community_desc">Temalar topluluk kısayolunu göster veya gizle</string>
+  <string name="supersave_mode_toast_message">Bu özellik, Ultra pil tasarrufu kullanılırken kullanılamaz. Kullanabilmek için Ultra pil tasarrufunu kapatın.</string>
 </resources>

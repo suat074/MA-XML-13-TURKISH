@@ -350,6 +350,9 @@
   <string name="voice_button_action_up">Konuşmak için basın</string>
   <string name="voice_input_error_network">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edip tekrar deneyin.</string>
   <string name="voice_input_error_other">Bir hata oluştu. Bir ya da iki dakika bekleyin ve tekrar deneyin.</string>
+  <string name="wallpaper_group_black_gobi_title">Gobi Kumları</string>
+  <string name="wallpaper_group_crystallization_subtitle">Bilimin güzelliği</string>
+  <string name="wallpaper_group_crystallization_title">Kristalizasyon</string>
   <string name="wifi_assistant_wifi_no_internet">Bu WLAN ağının internet erişimi yok</string>
   <string name="wifi_assistant_wifi_no_internet_detail">Ayrıntıları görmek için dokunun</string>
   <string name="wireless_charging_notification_message1">Şarj edilecek kablosuz cihazlar bulunamadı. Ters kablosuz şarj şimdi kapatıldı.</string>

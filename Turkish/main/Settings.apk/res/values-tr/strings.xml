@@ -8221,7 +8221,7 @@ Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazı
   <string name="freeform_vedio_description_pad">Yüzer pencerede açmak için öğeleri yuvanın dışına sürükleyin</string>
   <string name="security_check_progress_dialog_message">Güvenlik sorunları kontrol ediliyor…</string>
   <string name="speed_mode">Hız modu</string>
-  <string name="speed_mode_summary">Açıldığında, performans artacak, ancak bu güç tüketimini artıracak ve ısı üretecektir. Lütfen dikkatli bir şekilde açın</string>
+  <string name="speed_mode_summary">Güç tüketimi ve sıcaklık kontrolü üzerinde performansa öncelik verin</string>
   <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
   <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
   <string name="multi_window_cvw_title">Yüzer pencere</string>
@@ -8230,11 +8230,23 @@ Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazı
   <string name="bluetooth_enable_pts_test_summary">Bluetooth testi için PTS\'yi devre dışı bırak/etkinleştir</string>
   <string name="menu_item_notification_power_text">Pil optimizasyonu</string>
   <string name="p2p_summary_enable_GPS">Bu özellik, konum servisleri açıkken çalışır</string>
-  <string name="speed_mode_noti_summary">Hız modu güç tüketimini ve ısı üretimini artıracaktır</string>
-  <string name="speed_mode_noti_title">Hız modu açık</string>
+  <string name="speed_mode_noti_summary">Cihazınız ısınacak ve daha fazla güç tüketecektir.</string>
+  <string name="speed_mode_noti_title">Hız moduna geçildi</string>
   <string name="detailed_wifi_logging_disabled">Ayrıntılı WLAN günlüğü kapalı</string>
   <string name="detailed_wifi_logging_enabled">Ayrıntılı WLAN günlüğü açık</string> 
   <string name="connection_control">Bağlantıları yönet</string>
   <string name="environmental_speech_recognition">Ortam sesi tanıma</string>
   <string name="interconnection">Ara bağlantı</string>
+  <string name="about_ad_service_instructions_for_global">MIUI sistem uygulamalarındaki reklam hizmetleri ve gizlilik hakkında</string>
+  <string name="auto_clean_summary_new">Hoparlörü temizlemek için %d-saniyelik bir ses çalın. Önemli miktarda kir için bu özelliği arka arkaya birden çok kez kullanın.</string>
+  <string name="dialog_speaker_auto_clean_content_new">Hoparlörü temizleyecek sesi çalmak üzeresiniz. En iyi etki için sesi maksimuma ayarlayın.</string>
+  <string name="dialog_speaker_auto_clean_title_new">Hoparlörü temizle</string>
+  <string name="external_ram_dialog_icon_confirm">Anladım</string>
+  <string name="external_ram_dialog_icon_info">Sistem, RAM\'i %1$s %2$s genişletecek.</string>
+  <string name="external_ram_dialog_icon_title">Bellek genişletme açık</string>
+  <string name="progress_dialog_speaker_auto_clean_button">Durdur</string>
+  <string name="progress_dialog_speaker_auto_clean_title">Hoparlör temizleniyor…</string>
+  <string name="reset_network_title_noSim">WLAN ve Bluetooth\'u sıfırla</string>
+  <string name="use_personalized_ad_service_summary_for_global">Kişiselleştirilmiş reklam önerileri kapalıyken, özellik açıkken olduğu gibi MIUI sistem uygulamalarında da aynı miktarda reklam görürsünüz. Bununla birlikte, Xiaomi ve üçüncü taraf platformlarından gelen reklamlar artık kişisel tercihlerinize dayanmayacağından alakalı olmayacaktır.</string>
+  <string name="toast_disconnect_earphone">Kulaklıkların bağlantısını kesin ve tekrar deneyin</string>
 </resources>

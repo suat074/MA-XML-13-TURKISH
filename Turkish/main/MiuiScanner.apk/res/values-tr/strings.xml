@@ -557,4 +557,10 @@
   <string name="user_notification">Onayın geri çekilmesi</string>
   <string name="version_code">"Sürüm: "</string>
   <string name="picture_original_image">Orijinal (%1$s)</string>
+  <string name="camera_permissions_text">Bu özelliği kullanabilmek için Tarayıcının kameraya erişmesine izin verin.</string>
+  <string name="format_error">Geçersiz şifre</string>
+  <string name="label_flash_light_off">El feneri kapalı</string>
+  <string name="label_flash_light_on">El feneri açık</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="storage_permissions_text">Bu özelliği kullanabilmek için Tarayıcının cihaz deposuna erişmesine izin verin.</string>
 </resources>

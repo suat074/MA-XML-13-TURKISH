@@ -40,6 +40,7 @@
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
   <string name="no_net">Ağa bağlanılamadı</string>
+  <string name="no_support_modify_path">Güvenlik nedeniyle indirilen öğelerin konumu değiştirilemiyor</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="search_menu_title">Ara</string>
