@@ -1,5 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="app_launch_supported_links_title">
+    <item quantity="other">%d desteklenen bağlantı</item>
+    <item quantity="one">%d desteklenen bağlantı</item>
+  </plurals>
+  <plurals name="app_launch_verified_links_message">
+    <item quantity="other">Bağlantılar doğrulanmıştır ve bu uygulamada otomatik olarak açılır.</item>
+    <item quantity="one">Bağlantı doğrulanmıştır ve bu uygulamada otomatik olarak açılır.</item>
+  </plurals>
+  <plurals name="app_launch_verified_links_title">
+    <item quantity="other">%d doğrulanmış bağlantı</item>
+    <item quantity="one">%d doğrulanmış bağlantı</item>
+  </plurals>
+  <plurals name="autofill_passwords_count">
+    <item quantity="other">%1$d şifre</item>
+    <item quantity="one">%1$d şifre</item>
+  </plurals>
+  <plurals name="mtrl_badge_content_description">
+    <item quantity="other">%d yeni bildirim</item>
+    <item quantity="one">%d yeni bildirim</item>
+  </plurals>
+  <plurals name="number_of_urls">
+    <item quantity="other">%d URL</item>
+    <item quantity="one">%d URL</item>
+  </plurals>
+  <plurals name="unused_apps_summary">
+    <item quantity="other">%d kullanılmayan uygulama</item>
+    <item quantity="one">%d kullanılmayan uygulama</item>
+  </plurals>
   <plurals name="abc_slice_duration_days">
     <item quantity="other">%d gün önce</item>
     <item quantity="one">%d gün önce</item>

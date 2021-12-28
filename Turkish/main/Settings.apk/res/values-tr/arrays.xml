@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <string-array name="accessibility_button_gesture_selector_titles">
+    <item>Düğme</item>
+    <item>Hareket</item>
+  </string-array>
+  <string-array name="accessibility_button_location_selector_titles">
+    <item>Diğer uygulamaların üzerinde kayan</item>
+    <item>Gezinme çubuğu</item>
+  </string-array>
+  <string-array name="accessibility_button_size_selector_titles">
+    <item>Küçük</item>
+    <item>Büyük</item>
+  </string-array>
+  <string-array name="long_press_timeout_selector_list_titles">
+    <item>Kısa</item>
+    <item>Orta</item>
+    <item>Uzun</item>
+  </string-array>
+  <string-array name="wifitrackerlib_wifi_status">
+    <item />
+    <item>Taranıyor…</item>
+    <item>Bağlanıyor…</item>
+    <item>Kimlik doğrulanıyor…</item>
+    <item>IP adresi alınıyor…</item>
+    <item>Bağlı</item>
+    <item>Askıya alındı</item>
+    <item>Bağlantı kesiliyor…</item>
+    <item>Bağlı değil</item>
+    <item>Başarısız</item>
+    <item>Engellendi</item>
+    <item>Zayıf bağlantıdan geçici olarak kaçınılıyor</item>
+  </string-array>
   <string-array name="agps_network_entries">
     <item>Ev Ağı</item>
     <item>Tüm Ağ</item>
