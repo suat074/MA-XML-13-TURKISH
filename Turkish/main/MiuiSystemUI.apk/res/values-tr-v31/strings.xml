@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_display_daltonizer_preference_subtitle">Renklerin cihazınızda nasıl görüntüleneceğini düzenleyin Bu, şunları yapmak istediğinizde kullanışlı olur:&lt;br/>&lt;br/> &lt;ol> &lt;li>&amp;nbsp;Renkleri daha doğru görmek&lt;/li> &lt;li>&amp;nbsp;Odaklanmanıza yardımcı olması için renkleri kaldırmak&lt;/li> &lt;/ol></string>
+    <string name="controls_added_tooltip">"Yeni kontrolleri görmek için Hızlı Ayarlar'ı açın"</string>
+    <string name="controls_favorite_subtitle">"Hızlı Ayarlar'dan erişmek istediğiniz kontrolleri seçin"</string>
+    <string name="controls_media_close_session">Bu medya oturumu gizlensin mi?</string>
+    <string name="controls_media_dismiss_button">Kapat</string>
+    <string name="high_temp_notif_message">"Telefon soğurken bazı özellikler sınırlı olarak kullanılabilir.
+Daha fazla bilgi için dokunun"</string>
+    <string name="kg_invalid_sim_puk_hint">PUK kodu 8 veya daha çok basamaklı bir sayı olmalıdır.</string>
+    <string name="media_transfer_this_device_name">Telefon hoparlörü</string>
+    <string name="quick_controls_title">Cihaz denetimleri</string>
+    <string name="screenshot_failed_to_save_text">Ekran görüntüsü kaydedilemiyor</string>
+    <string name="thermal_shutdown_message">"Telefonunuz şu anda normal bir şekilde çalışıyor.
+Daha fazla bilgi için dokunun"</string>
+    <string name="tts_engine_security_warning">Bu konuşma sentezi motoru, şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil konuşulan tüm metni toplayabilir. %s motorundan gelmektedir. Bu konuşma sentezi motorunun kullanımı etkinleştirilsin mi?</string>
+</resources>
