@@ -2049,11 +2049,6 @@ Lütfen operatörünüzle iletişime geçin"</string>
   <string name="bluetooth_profile_vcp">Ses kontrolü</string>
   <string name="bluetooth_talkback_group">Grup Cihazları</string>
   <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
-  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
-  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
-  <string name="radio_info_nr_available">NR Mevcut:</string>
-  <string name="radio_info_nr_frequency">NR Frekansı:</string>
-  <string name="radio_info_nr_state">NR Durumu:</string>
   <string name="wifi_connected_low_quality">Düşük kalite</string>
   <string name="according_to_carrier">Tercihleri ​​göster</string>
   <string name="dsda_summary">5G+4G çift SIM bekleme modu seçili ağlar tarafından desteklenir</string>
@@ -2085,4 +2080,26 @@ Lütfen operatörünüzle iletişime geçin"</string>
   <string name="mtn_simlock_text_tip">Takılan SIM kart gereksinimi karşılamıyor. Telefonu kullanmadan önce sözleşmenin gerektirdiği bir SIM kartı takmanız gerekir. Ayrıntılar için lütfen yerel operatörünüzle iletişime geçin.</string>
   <string name="sim_can_not_read">%d kart yuvası yalnızca MTN operatörünün SIM kartını okuyabilir</string>
   <string name="fiveg_switch_per_slot_summary">Mobil veri bağlantı hızını artırmak için 5G kullanın</string>
+  <string name="call_quality_notification_bluetooth_details">Bluetooth sinyaliniz zayıf. Hoparlöre geçmeyi deneyin.</string>
+  <string name="call_quality_notification_name">Arama Kalitesiyle İlgili Bildirim</string>
+  <string name="cdma_call_waiting">Arama bekletme etkinleştirilsin mi?</string>
+  <string name="cdma_call_waiting_in_ims_off">IMS altında CDMA Arama Bekletme Devre Dışı</string>
+  <string name="cdma_call_waiting_in_ims_on">IMS altında CDMA Arama Bekletme Etkin</string>
+  <string name="disable_cdma_cw">İptal</string>
+  <string name="enable_cdma_call_waiting_setting">Bir arama sırasında gelen aramalarla ilgili olarak bilgilendirilirsiniz</string>
+  <string name="enable_cdma_cw">Etkinleştir</string>
+  <string name="notification_channel_sip_account">Kullanımdan kaldırılan SIP hesapları</string>
+  <string name="puk2_locked">PUK2 kilitlendi. Kilidi açmak için servis sağlayıcıyla iletişime geçin.</string>
+  <string name="radio_info_dcnr_restricted">DCNR Kısıtlanmış:</string>
+  <string name="radio_info_endc_available">EN-DC Kullanılabilir:</string>
+  <string name="radio_info_network_slicing_config">Ağ dilimleme yapılandırması:</string>
+  <string name="radio_info_nr_available">NR Kullanılabilir:</string>
+  <string name="radio_info_nr_frequency">NR Frekansı:</string>
+  <string name="radio_info_nr_state">NR Durumu:</string>
+  <string name="registration_cf_forbidden">Operatörünüz arama yönlendirmeyi desteklemiyor.</string>
+  <string name="sip_accounts_removed_notification_action">Ayarlara git</string>
+  <string name="sip_accounts_removed_notification_message">"SIP araması, Android platformunda artık desteklenmemektedir.
+Mevcut SIP hesaplarınız %s kaldırıldı.
+Lütfen varsayılan arama hesabı ayarınızı onaylayın."</string>
+  <string name="sip_accounts_removed_notification_title">Kullanımdan kaldırılmış SIP hesapları bulundu ve kaldırıldı</string>
 </resources>

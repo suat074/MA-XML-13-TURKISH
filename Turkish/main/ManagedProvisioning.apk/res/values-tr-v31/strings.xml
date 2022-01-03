@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="admin_has_ability_to_monitor_device">"IT yöneticiniz cihazınızın konumu, çağrı geçmişi ve kişi arama geçmişinin yanı sıra ağ etkinliğinizi de içerecek şekilde bu cihazla ilişkilendirilen ayarları, şirket erişimini, uygulamaları, izinleri ve verileri izleyebilir ve yönetebilir.
+  
+Kuruluşunuzun gizlilik politikalarını da içeren daha fazla bilgi için IT yöneticinizle iletişime geçin."</string>
+  <string name="admin_has_ability_to_monitor_profile">"IT yöneticiniz cihazınızın konumu, çağrı geçmişi ve kişi arama geçmişinin yanı sıra ağ etkinliğinizi de içerecek şekilde bu profille ilişkilendirilen ayarları, şirket erişimini, uygulamaları, izinleri ve verileri izleyebilir ve yönetebilir.
+  
+Kuruluşunuzun gizlilik politikalarını da içeren daha fazla bilgi için IT yöneticinizle iletişime geçin."</string>
+  <string name="fully_managed_device_provisioning_summary">İş uygulamalarınıza kolayca erişmek için bu cihazı kullanın. Bu cihaz gizli olmadığından BT yöneticiniz verilerinizi ve etkinliklerinizi görebilir.</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="accessibility_shortcut_multiple_service_warning_title">Erişilebilirlik özellikleri için kısayol açılsın mı?</string>
+  <string name="accessibility_shortcut_single_service_warning_title">%1$s kısayolu açılsın mı?</string>
+  <string name="battery_saver_description">Pil Tasarrufu, Koyu temayı açıp arka plan etkinliğini, bazı görsel efektleri, belirli özellikleri ve bazı ağ bağlantılarını sınırlandırır veya kapatır.</string>
+  <string name="battery_saver_description_with_learn_more">Pil Tasarrufu, Koyu temayı açıp arka plan etkinliğini, bazı görsel efektleri, belirli özellikleri ve bazı ağ bağlantılarını sınırlandırır veya kapatır.</string>
+  <string name="fingerprint_acquired_imager_dirty">Sensörü temizleyin</string>
+  <string name="fingerprint_acquired_partial">Parmak izinin tümü algılanamadı</string>
+  <string name="fingerprint_acquired_too_fast">Biraz daha uzun basılı tutun</string>
+  <string name="fingerprint_error_no_space">Parmak izi ayarlanamıyor</string>
+  <string name="permdesc_camera">Bu uygulama, kullanıldığı sırada kamerayı kullanarak fotoğraf ve video çekebilir.</string>
+  <string name="permdesc_recordAudio">Bu uygulama, kullanıldığı sırada mikrofonu kullanarak ses kaydedebilir.</string>
+  <string name="resolver_cant_access_personal_apps_explanation">Bu içerik, kişisel uygulamalarla açılamaz</string>
+  <string name="resolver_cant_access_work_apps_explanation">Bu içerik, iş uygulamalarıyla açılamaz</string>
+  <string name="resolver_cant_share_with_personal_apps_explanation">Bu içerik, kişisel uygulamalarla paylaşılamaz</string>
+  <string name="resolver_cant_share_with_work_apps_explanation">Bu içerik, iş uygulamalarıyla paylaşılamaz</string>
+  <string name="work_mode_off_message">İş uygulamalarınıza ve bildirimlerinize erişin</string>
+  <string name="work_mode_off_title">İş uygulamaları açılsın mı?</string>
+</resources>
