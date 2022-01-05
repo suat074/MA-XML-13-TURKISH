@@ -46,6 +46,14 @@
   <string name="friday">Cuma</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">Cum</string>
+  <string name="invisible_mode_dialog_cancel">İptal</string>
+  <string name="invisible_mode_dialog_message">Gizli moddayken MIUI+ Screen Combo kullanamazsınız. Önce Gizli modu kapatın.</string>
+  <string name="invisible_mode_dialog_positive">Kapat</string>
+  <string name="invisible_mode_dialog_title">Gizlisiniz</string>
+  <string name="invisible_mode_toast">Önce Gizli modu kapatın</string>
+  <string name="loading_view_abort_close_text">Kapat</string>
+  <string name="loading_view_abort_text">"Bağlantı zaman aşımı.
+Bu sayfayı kapatın ve tekrar deneyin."</string>
   <string name="midnight">Gece</string>
   <string name="miuix_appcompat_cloud_state_disabled">Bulut ile eşitleme kapalı</string>
   <string name="miuix_appcompat_cloud_state_finished">Bulut ile başarıyla eşitlendi</string>

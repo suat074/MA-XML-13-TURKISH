@@ -36,7 +36,8 @@
   <string name="calibrate_rotate_again">Tekrar dene</string>
   <string name="calibrate_success">Kalibrasyon yapıldı</string>
   <string name="calibrate_tip">Cihazınızı eğin ve dairenin etrafında topu döndürün</string>
-  <string name="calibrate_title">Pusulayı Kalibre Et</string>
+  <string name="calibrate_title">Pusulayı kalibre et</string>
+  <string name="calibrating">Pusulayı kalibre et</string>
   <string name="cancel">İptal</string>
   <string name="compass_settings">Ayarlar</string>
   <string name="copy">Kopyala</string>

@@ -198,4 +198,9 @@ Bu özellik OPPO, vivo, realme ve diğer akıllı telefon üreticileri tarafınd
   <string name="custom_define_permission_desc_android.permission_group.LOCATION">Bluetooth ve WLAN kullanarak dosya aktarmak için</string>
   <string name="custom_define_permission_desc_android.permission_group.STORAGE">Dosya göndermek ve almak için</string>
   <string name="menu_item_permission_title">İzin ayrıntıları</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="pc_redmi_device_model_name">Redmi laptop</string>
+  <string name="pc_xiaomi_device_model_name">Xiaomi laptop</string>
+  <string name="seize_content">Öğeleri aktarabilmek için ekranınızı paylaşmayı durdurun. Paylaşım şimdi durdurulsun mu?</string>
+  <string name="seize_title">Ekranı paylaşmayı durdur</string>
 </resources>

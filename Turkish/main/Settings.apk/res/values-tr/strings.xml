@@ -9178,4 +9178,25 @@ Bu işlem, cihazınızda depolanan parmak izi modelini siler. Yüz modeliniz de 
   <string name="zen_mode_starred_contacts_empty_name">(Adsız)</string>
   <string name="zen_mode_starred_contacts_summary_contacts">{count,plural,offset:2 =0{Yok}=1{{contact_1}}=2{{contact_1} ve {contact_2}}=3{{contact_1}, {contact_2} ve {contact_3}}other{{contact_1}, {contact_2} ve # kişi daha}}</string>
   <string name="zen_settings_general">Genel</string>
+  <string name="inputdebuglog_select_level">Giriş günlük seviyesi</string>
+  <string name="inputdebuglog_select_level_show">Seviye %d</string>
+  <string name="inputdebuglog_select_level_summary">Seviye seç</string>
+  <string name="ks_add_title">Kısayol ekle</string>
+  <string name="ks_back_home">Ana ekran</string>
+  <string name="ks_category_app">Uygulamaları aç</string>
+  <string name="ks_category_key">Klavye kısayolları</string>
+  <string name="ks_category_system">Sistem kısayolları</string>
+  <string name="ks_dialog_add_text">Kısayol eklemek için bir tuş kombinasyonu girin.</string>
+  <string name="ks_dialog_conflict">Bu kısayol \"%s\" için zaten kullanılıyor</string>
+  <string name="ks_dialog_modify_text">Bu kısayolu düzenlemek için bir tuş kombinasyonu girin.</string>
+  <string name="ks_dialog_reset_btn">Geri yükle</string>
+  <string name="ks_dialog_reset_text_app">Uygulama açma için varsayılan kısayol tercihleri geri yüklenecek. Özel kısayollarınız silinecek. Yine de geri yüklensin mi?</string>
+  <string name="ks_dialog_reset_text_system">Varsayılan sistem kısayolu tercihleri şimdi geri yüklensin mi?</string>
+  <string name="ks_dialog_title">%s aç</string>
+  <string name="ks_launch_control_center">Kontrol merkezi</string>
+  <string name="ks_launch_notification_center">Bildirim alanı</string>
+  <string name="ks_reset_title">Varsayılan tercihleri geri yükle</string>
+  <string name="ks_screenshot">Ekran görüntüsü</string>
+  <string name="ks_search_summary">Ara</string>
+  <string name="ks_title">Klavye kısayolları</string>
 </resources>

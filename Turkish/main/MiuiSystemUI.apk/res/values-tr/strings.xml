@@ -1110,6 +1110,10 @@
   <string name="miui_guide_dialog_button_negative_text">Ayarlar</string>
   <string name="miui_guide_dialog_button_positive_text">Anladım</string>
   <string name="miui_guide_dialog_message">Medya sesleri (müzik, videolar, vb.) Sessiz modda oynatılmaya devam eder. Bunu Ayarlar\'dan değiştirebilirsiniz.</string>
+  <string name="miui_keyboard_shortcut_click">Bas</string>
+  <string name="miui_keyboard_shortcut_double_click">Çift bas</string>
+  <string name="miui_keyboard_shortcut_system_dock">Uygulama yuvasını göster</string>
+  <string name="miui_keyboard_shortcut_system_quickly_recent">Son uygulamalar arasında geçiş yap</string>
   <string name="miui_keyguard_ble_unlock_succeed_msg">Bluetooth cihazı ile kilit açıldı</string>
   <string name="miui_ringer_count_down">Geri sayım</string>
   <string name="miui_ringer_standard">Sessiz</string>

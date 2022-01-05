@@ -498,6 +498,10 @@
   <string name="recents_title_market">Uygulamaları bul</string>
   <string name="recents_title_security_scan">Güvenlik taraması</string>
   <string name="recents_tv_small_window_text">Yüzer pencereler</string>
+  <string name="recents_worldcirculate_text">Seçmek için bırakın</string>
+  <string name="recnets_worldcirculate_display_computer_info">Uygulama %s üzerinde çalışıyor.</string>
+  <string name="recnets_worldcirculate_display_default_info">Buraya getirmek için dokunun.</string>
+  <string name="recnets_worldcirculate_display_pad_info">Uygulama %s üzerinde çalışıyor.</string>
   <string name="recommend_app">Uygulama önerileri</string>
   <string name="recommend_apps_default_title">Boş</string>
   <string name="recommend_apps_no_data">Veri yok</string>

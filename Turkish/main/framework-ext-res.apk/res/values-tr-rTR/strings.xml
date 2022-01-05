@@ -487,4 +487,15 @@
   <string name="wallpaper_group_sgn_mountain_title">Siguniang dağı</string>
   <string name="waterdrop_preview">Damlacıklar</string>
   <string name="windchime">Rüzgar çanları</string>
+  <string name="ks_back_home">Ana ekran</string>
+  <string name="ks_close_window">Geçerli pencereyi kapat</string>
+  <string name="ks_launch_control_center">Kontrol merkezi</string>
+  <string name="ks_launch_notification_center">Bildirim alanı</string>
+  <string name="ks_launch_recents_tasks">Son kullanılanları aç</string>
+  <string name="ks_lock_screen">Kilit ekranı</string>
+  <string name="ks_regional_screen_shot">Ekran görüntüsü (kısmi)</string>
+  <string name="ks_screenshot">Ekran görüntüsü (tam ekran)</string>
+  <string name="small_freeform_check_memory_exception_message">%1$s bir bellek hatasına neden oldu. Gecikmeyi önlemek için bu uygulamayı kapatın.</string>
+  <string name="small_freeform_check_memory_exception_negative_message">İptal</string>
+  <string name="small_freeform_check_memory_exception_positive_message">Kapat</string>
 </resources>

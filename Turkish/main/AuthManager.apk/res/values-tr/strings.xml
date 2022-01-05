@@ -55,7 +55,7 @@
   <string name="HIPS_Perm_get_tasks">Görevleri alma</string>
   <string name="HIPS_Perm_get_tasks_Desc">görevleri alır</string>
   <string name="HIPS_Perm_install_shortcut">Ana ekran kısayolları</string>
-  <string name="HIPS_Perm_install_shortcut_Desc">ana ekrana kısayol ekler</string>
+  <string name="HIPS_Perm_install_shortcut_Desc">Ana ekrana kısayol ekler</string>
   <string name="HIPS_Perm_Intl_group_desc_audio_recorder">Ses kaydetme ve çağrı yapma</string>
   <string name="HIPS_Perm_Intl_group_desc_auto_start">Uygulamaları arka planda otomatik başlatma</string>
   <string name="HIPS_Perm_Intl_group_desc_calendar">Takvim etkinliklerine erişme</string>

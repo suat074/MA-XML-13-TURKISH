@@ -122,8 +122,11 @@ EEE"</string>
   <string name="vip_login">Oturum açmak için dokunun</string>
   <string name="vip_not_login">Oturum açılamadı</string>
   <string name="vip_sign">İmza:</string>
+  <string name="wallpaper_group_black_gobi_title">Gobi Kumları</string>
   <string name="wallpaper_group_black_white_title">Siyah ve beyaz</string>
   <string name="wallpaper_group_color_move_title">Sıvı renkler</string>
+  <string name="wallpaper_group_crystallization_subtitle">Bilimin güzelliği</string>
+  <string name="wallpaper_group_crystallization_title">Kristalizasyon</string>
   <string name="wallpaper_group_dynamic_nebula_subtitle">Teun van der Zalm</string>
   <string name="wallpaper_group_dynamic_nebula_title">Dinamik bulutsu</string>
   <string name="wallpaper_group_geometric_subtitle">Rutger Paulusse</string>

@@ -759,6 +759,9 @@ kullanabilirsiniz"</string>
   <string name="live_sticker_network_error_hint">Ağ hatası</string>
   <string name="live_sticker_tab_name">TikTok Sihirli Etiket</string>
   <string name="live_sticker_updating">Güncelleniyor…</string>
+  <string name="live_workspace_title_pause">Durdur</string>
+  <string name="live_workspace_title_play">Oynat</string>
+  <string name="live_workspace_title_pre_edit">Silinecek öğeleri seçin</string>
   <string name="local_music">Yerel müzikler</string>
   <string name="location_access_allow">Kabul et</string>
   <string name="location_permission_des">Fotoğraflar ve videolar için konumlarını hatırla</string>

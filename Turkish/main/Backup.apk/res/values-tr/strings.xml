@@ -778,4 +778,17 @@ Bağlantı kurulmadan önce sayfayı kapatmayın."</string>
   <string name="permission_write_contacts">Kişileri düzenle</string>
   <string name="privacy_settings">Gizlilik</string>
   <string name="privacy_settings_title">Gizlilik Politikası</string>
+  <string name="agree_button">Kabul et</string>
+  <string name="agree_revoke_permission_title">Withdrawing permissions</string>
+  <string name="alternative_ui_content">Bu özellik, mobil cihazınızı ve bilgisayarınızı kullanarak öğeleri yedeklemenizi ve geri yüklemenizi sağlar. Bu özelliğin normal şekilde çalışabilmesi için internete bağlanması ve aşağıdaki zorunlu izinleri alması gerekir:</string>
+  <string name="grant_all_permission_content">Öğeleri yedekleyebilmek ve geri yükleyebilmek için tüm zorunlu izinleri verin.</string>
+  <string name="grant_all_permission_title">Gerekli izinler</string>
+  <string name="permission_management_entrance">İzinleri yönet</string>
+  <string name="permission_read_storage_global">Depolama alanına erişim</string>
+  <string name="permission_write_storage">Öğeleri depoya kaydetme</string>
+  <string name="privacy_policy_link"><Data>"Devam etmeden önce veri işleme uygulamalarımız ve kullanıcı olarak haklarınız hakkında daha fazla bilgi edinmek için &lt;a href='%1s'>Gizlilik Politikamızı&lt;/a> okuyun ve kabul edin."</Data></string>
+  <string name="private_policy_text">Gizlilik Politikası</string>
+  <string name="restore_files">Öğeleri geri yüklemek için</string>
+  <string name="revoke_permission_dialog_content">Tüm zorunlu izinler olmadan öğeleri yedekleyemez veya geri yükleyemezsiniz. Yine de izinler geri çekilsin mi?</string>
+  <string name="user_know_button_text">Anladım</string>
 </resources>

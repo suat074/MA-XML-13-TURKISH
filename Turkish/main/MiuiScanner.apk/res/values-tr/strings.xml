@@ -563,4 +563,15 @@
   <string name="label_flash_light_on">El feneri açık</string>
   <string name="miuix_indexer_collect">Koleksiyonlar</string>
   <string name="storage_permissions_text">Bu özelliği kullanabilmek için Tarayıcının cihaz deposuna erişmesine izin verin.</string>
+  <string name="language_translate_entry_auto">Oto.</string>
+  <string name="screenshot_copy_text">Metni kopyala</string>
+  <string name="screenshot_save_image">Resmi kaydet</string>
+  <string name="screenshot_save_image_error">Resim kaydedilemedi</string>
+  <string name="screenshot_save_image_success">Resim başarıyla kaydedildi</string>
+  <string name="screenshot_shared_image">Resmi paylaş</string>
+  <string name="screenshot_translation_running">Çeviriliyor…</string>
+  <string name="switchover">Değiştir</string>
+  <string name="translate_export">Dışa aktar</string>
+  <string name="translate_long_screen">Kaydırmalı çeviri</string>
+  <string name="view_origin_text">Orjinal metin</string>
 </resources>
