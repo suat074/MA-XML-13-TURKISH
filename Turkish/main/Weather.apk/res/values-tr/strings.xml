@@ -348,6 +348,7 @@
   <string name="save_to_gallery_icon_name">Galeriye kaydet</string>
   <string name="save_to_gallery_success_message">Galeriye başarıyla kaydedildi</string>
   <string name="search_menu_title">Ara</string>
+  <string name="select_show_city">Konum seçin</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_atmospheric_pressure_atm">Standart atmosfer (atm)</string>
   <string name="settings_atmospheric_pressure_hpa">Hektopaskal (hPa)</string>

@@ -860,6 +860,7 @@
   <string name="input_pin_after_boot_msg">Cihaz yeniden başlatıldığında PIN\'inizi girmeniz gerekir</string>
   <string name="input_pin_code">PIN kodunu girin</string>
   <string name="input_puk_code">PUK kodunu girin</string>
+  <string name="input_second_pattern_after_restart_msg">Devam etmek için İkinci alan şifresini onaylayın</string>
   <string name="install_other_apps">Bilinmeyen uygulamaları yükle</string>
   <string name="installer_cd_button_title">Mac için Android Dosya Aktarımı uygulamasını yükle</string>
   <string name="instant_apps">Anlık uygulamalar</string>

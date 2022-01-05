@@ -4190,8 +4190,8 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin."</string>
   <string name="power_mgr">Pil optimizasyonu</string>
   <string name="power_mode">Güç Ayarları</string>
   <string name="power_mode_balanced_title">Dengeli Güç</string>
-  <string name="power_monitor_summary">Gücü izlemek için kullanılan araçlar.</string>
-  <string name="power_monitor_title">Güç monitörü</string>
+  <string name="power_monitor_summary">Güç tüketimini izlemek için araçlar</string>
+  <string name="power_monitor_title">Güç tüketimi</string>
   <string name="power_optimize">Pil Tasarrufu</string>
   <string name="power_overcounted">Aşırı Yüksek Sayaç</string>
   <string name="power_phone">Sesli Çağrılar</string>
@@ -9199,4 +9199,12 @@ Bu işlem, cihazınızda depolanan parmak izi modelini siler. Yüz modeliniz de 
   <string name="ks_screenshot">Ekran görüntüsü</string>
   <string name="ks_search_summary">Ara</string>
   <string name="ks_title">Klavye kısayolları</string>
+  <string name="deferred_setup_hintViewTitle">Kontrol ediliyor…</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
+  <string name="headset_ambient_sound">Ortam sesleri</string>
+  <string name="multi_window_cvw_summary_global">Yüzer bir pencereye geçmek ve boyutunu ayarlamak için köşeye sürükleyin</string>
+  <string name="string_KB_per_log_buffer">Günlük arabelleği başına %d KB</string>
+  <string name="string_MB_per_log_buffer">Günlük arabelleği başına %d MB</string>
+  <string name="string_off">Kapalı</string>
+  <string name="string_offed">Kapalı</string>
 </resources>

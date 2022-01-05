@@ -5,6 +5,9 @@
   <string name="airplane_error_msg">Bluetooth\'u Uçak modunda kullanamazsınız.</string>
   <string name="airplane_error_title">Uçak modu</string>
   <string name="app_name">Bluetooth</string>
+  <string name="aptx_notification_aptx">Bu cihaz Qualcomm® aptX™ destekler</string>
+  <string name="aptx_notification_aptx_adaptive">Bu cihaz Qualcomm® aptX™ Adaptive destekler</string>
+  <string name="aptx_notification_aptx_hd">Bu cihaz Qualcomm® aptX™ HD destekler</string>
   <string name="auth_notif_message">%1$s için oturum anahtarını yazın</string>
   <string name="auth_notif_ticker">Obex kimlik doğrulama isteği</string>
   <string name="auth_notif_title">Oturum Anahtarı</string>

@@ -203,6 +203,7 @@
   <string name="micloud_space_duokan_title">Duokan depolama alanı</string>
   <string name="micloud_space_soundrecorder_detail">Mobil cihazınızda Kaydedici uygulamasını açın ve bulutta depolanan öğelerin bulunduğu klasörü seçin.\nGeçerli Mi Hesabını MIUI sistem hesabınız olarak kullandığınızdan emin olun.</string>
   <string name="micloud_space_soundrecorder_title">Ses kayıtları</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
