@@ -269,6 +269,7 @@
     <item>1xRTT</item>
     <item>IS95B</item>
     <item>IS95A</item>
+    <item>NR</item>
   </string-array>
   <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
     <item>Sistem tercihini kullan (Varsayılan)</item>
@@ -747,9 +748,8 @@
     <item>Yüksek mod</item>
   </string-array>
   <string-array name="dark_ui_mode_entries">
-    <item>Otomatik (günün saatine göre)</item>
-    <item>Her zaman açık</item>
-    <item>Her zaman kapalı</item>
+    <item>Karanlık</item>
+    <item>Aydınlık</item>
   </string-array>  
   <string-array name="data_usage_data_range">
     <item>Son 30 gün</item>
@@ -1212,6 +1212,9 @@
     <item>Önceden paylaşılan anahtarlara ve Xauth kimlik doğrulamasına sahip IPSec VPN</item>
     <item>Sertifikaları ve Xauth kimlik doğrulamasını içeren IPSec VPN</item>
     <item>Sertifikalı ve hibrid kimlik doğrulamalı IPSec VPN</item>
+    <item>Sertifikalı ve kullanıcı adı/parola kimlik doğrulaması ile IKEv2/IPSec VPN</item>
+    <item>Önceden paylaşılan anahtarlara sahip IKEv2/IPSec VPN</item>
+    <item>Sertifikalı IKEv2/IPSec VPN</item>	
   </string-array>
   <string-array name="wfd_status">
     <item>Oturum başlıyor ...</item>
@@ -1261,11 +1264,6 @@
     <item>Butona basın</item>
     <item>Akran cihazından PIN</item>
     <item>Bu cihazdan PIN</item>
-  </string-array>
-  <string-array name="wifi_peap_phase2_entries">
-    <item>Yok</item>
-    <item>MSCHAPV2</item>
-    <item>GTC</item>
   </string-array>
   <string-array name="wifi_phase2_entries">
     <item>Yok</item>

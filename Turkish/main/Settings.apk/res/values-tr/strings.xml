@@ -169,7 +169,7 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="accessibility_vibration_intensity_medium">Orta</string>
   <string name="accessibility_vibration_intensity_off">Kapalı</string>
   <string name="accessibility_vibration_settings_title">Titreşim</string>
-  <string name="accessibility_vibration_summary">Zil sesi %1$s, dokunma %2$s</string>
+  <string name="accessibility_vibration_summary">Zil sesi %1$s, bildirim %2$s, dokunma %3$s</string>
   <string name="accessibility_vibration_summary_high">Zil sesi &amp; bildirim yüksek olarak ayarlandı</string>
   <string name="accessibility_vibration_summary_low">Zil sesi &amp; bildirim düşük olarak ayarlandı</string>
   <string name="accessibility_vibration_summary_medium">Zil sesi &amp; bildirim orta olarak ayarlandı</string>
@@ -1206,9 +1206,9 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="call_records_name_1">Debbie Smith</string>
   <string name="call_records_name_2">Jason Lee</string>
   <string name="call_records_name_3">Tom Fowles</string>
-  <string name="call_records_summary_1">%1$d:%2$d ÖÖ | %3$d saniye</string>
-  <string name="call_records_summary_2">%1$d Ağustos | %2$dd %3$ds</string>
-  <string name="call_records_summary_3">%1$d Ağustos | %2$dd %3$ds</string>
+  <string name="call_records_summary_1">9:35 ÖÖ | 26 saniye</string>
+  <string name="call_records_summary_2">Ağustos 16 | 1d 16s</string>
+  <string name="call_records_summary_3">Ağustos 16 | 2d 24s</string>
   <string name="call_settings_primary_user_only">İlk Alanındaki Çağrı Ayarlarını Değiştir</string>
   <string name="call_settings_summary">Sesli mesaj, çağrı yönlendirme, çağrı bekletme ve arayan kimliğini ayarla</string>
   <string name="call_settings_title">Çağrı Ayarları</string>
@@ -1442,7 +1442,7 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="condition_turn_on">Aç</string>
   <string name="condition_work_summary">İş profilinizle alakalı uygulamalar, arkaplan eşitlemesi ve diğer özellikler kapalı.</string>
   <string name="condition_work_title">İş profili kapalı</string>
-  <string name="condition_zen_title">Rahatsız Etme açık (%1$s)</string>
+  <string name="condition_zen_title">Rahatsız Etme açık</string>
   <string name="config_charging_function_name">Şarj ediliyor...</string>
   <string name="config_list_label">Yapılandırılmış ağlar</string>
   <string name="configure">Yapılandır</string>
@@ -1887,7 +1887,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="disable_overlays_summary">Ekran oluşturma için her zaman GPU kullanın</string>
   <string name="disable_power_key_long_press_under_keyguard">Güç düğmesi menüsünü kapat</string>
   <string name="disable_quick_start">Hızlı başlatmayı kapat</string>
-  <string name="disable_service_message">Tamam\'a dokununca %1$s duracak.</string>
+  <string name="disable_service_message">%1$s öğesine dokunursanız %2$s durur.</string>
   <string name="disable_service_title">%1$s durdurulsun mu?</string>
   <string name="disable_text">Pasif</string>
   <string name="disabled">Pasif</string>
@@ -2056,7 +2056,7 @@ Bazı hesaplar, telefonda yaptığınız değişiklikleri Web\'e otomatik olarak
   <string name="dual_wifi_switching_prompt">Ağlar arasında geçiş yapılıyor</string>
   <string name="dual_wifi_switching_summary">Çift bant WLAN hız artışı için iki farklı WLAN bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız, yardımcı bağlantı kaybolur.</string>
   <string name="dump_log">Sorunla ilgili günlükleri alın</string>
-  <string name="dump_log_summary">"Bu özellik, MIUI\'nin Beta sürümlerinde 284 günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
+  <string name="dump_log_summary">"Bu özellik, MIUI\'nin Beta sürümlerinde %s günlüğünü oluşturmak için tasarlanmıştır. Dikkatli kullanın.
 Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</string>
   <string name="dump_log_title">Bu özellik hakkında</string>
   <string name="easymode_hint">Basit modu kapatmak için dokunun</string>
@@ -5305,8 +5305,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="sim_cards_changed_message_summary">Etkinlikleri ayarlamak için dokunun</string>
   <string name="sim_cellular_data_unavailable">Hücresel veri kullanılamaz</string>
   <string name="sim_cellular_data_unavailable_summary">Bir veri SIM kartı seçmek için dokunun</string>
-  <string name="sim_change_data_message">%1$s yerine %2$s hücresel verisi kullanılsın mı?</string>
-  <string name="sim_change_data_title">SIM verisi değiştirilsin mi?</string>
+  <string name="sim_change_data_message">Mobil veri için %2$s kullanıyorsunuz. %1$s geçerseniz, %2$s artık mobil veri için kullanılmayacak.</string>
+  <string name="sim_change_data_title">Mobil veri için %1$s kullanılsın mı?</string>
   <string name="sim_change_failed">PIN kodu değiştirilemiyor.\nPIN kodu yanlış olabilir.</string>
   <string name="sim_change_failed_enable_sim_lock">Şimdi SIM kilidini aç.</string>
   <string name="sim_change_pin">SIM PIN</string>
@@ -6730,7 +6730,7 @@ veya 3.5mm fişli kulaklık kullanın."</string>
   <string name="wifi_band_5ghz">5GHz</string>
   <string name="wifi_calling_mode_dialog_title">WLAN çağrı modu</string>
   <string name="wifi_calling_mode_title">Çağrı seçenekleri</string>
-  <string name="wifi_calling_off_explanation">WLAN araması açıldığında, telefonunuz WLAN ağı üzerinden veya mobil ağ üzerinden arama yapar. Burada sinyal önemli faktördür. Bu özelliği açmadan önce şebekenin bu işlemden dolayı ücret isteyip istemediğini ve diğer detayları araştırın.</string>
+  <string name="wifi_calling_off_explanation">WLAN araması açıldığında, telefonunuz WLAN ağı üzerinden veya mobil ağ üzerinden arama yapar. Burada sinyal önemli faktördür. Bu özelliği açmadan önce şebekenin bu işlemden dolayı ücret isteyip istemediğini ve diğer detayları araştırın.%1$s</string>
   <string name="wifi_calling_roaming_mode_dialog_title">Dolaşım tercihi</string>
   <string name="wifi_calling_roaming_mode_title">Dolaşım tercihi</string>
   <string name="wifi_calling_settings_activation_instructions">WLAN çağrısını etkinleştir</string>
