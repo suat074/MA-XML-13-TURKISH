@@ -8,6 +8,8 @@
   <string name="connecting_to">%1$s bağlanılıyor</string>
   <string name="connects_via_network">Mevcut ağ üzerinden %1$s ile bağlanır</string>
   <string name="connects_via_wifi_direct">WLAN Direkt ile bağlanır</string>
+  <string name="disable_wifi_direct">WLAN Direct devre dışı bırak</string>
+  <string name="enable_location">Konumu etkinleştir</string>
   <string name="failed_connection">%1$s ile bağlantı kurulamadı</string>
   <string name="failed_printer_connection">Yazıcıya bağlanılamadı</string>
   <string name="find_wifi_direct">WLAN Direkt yazıcılarını bulun</string>
@@ -42,5 +44,7 @@
   <string name="unreadable_input">Belge okunamadı</string>
   <string name="waiting_to_send">Gönderilmeyi bekliyor</string>
   <string name="wifi_direct">WLAN Direkt</string>
+  <string name="wifi_direct_location_rationale">Varsayılan Yazdırma Hizmetinin, yakındaki cihazları bulması için konum hizmetlerinin etkinleştirilmesi gerekir.</string>
   <string name="wifi_direct_printers">WLAN Direkt yazıcılar</string>
+  <string name="wifi_direct_problem">Varsayılan Yazdırma Hizmeti, WLAN Direct yazıcılarını bulamıyor</string>
 </resources>

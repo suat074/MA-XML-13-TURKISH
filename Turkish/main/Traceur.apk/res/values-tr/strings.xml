@@ -40,6 +40,11 @@
   <string name="apn_settings_not_available">Erişim Noktası Adı ayarları bu kullanıcı için mevcut değil.</string>
   <string name="app_process_limit_title">Arka plan işlem sınırı</string>
   <string name="applications">Uygulamalar</string>
+  <string name="attach_to_bug_report">Hata raporlarına izleri ekle</string>
+  <string name="attach_to_bug_report_summary">Hata raporu alındığında devam etmekte olan izleri otomatik olarak BetterBug\'a gönder</string>
+  <string name="attached_to_report">Hata raporuna iz eklendi</string>
+  <string name="attached_to_report_summary">BetterBug\'ı açmak için dokunun</string>
+  <string name="attaching_to_report">Hata raporuna iz ekleniyor</string>
   <string name="available_via_carrier">%1$s üzerinden ulaşılabilir</string>
   <string name="available_via_passpoint">%1$s üzerinden ulaşılabilir</string>
   <string name="battery_info_status_charging">Şarj oluyor</string>
@@ -53,6 +58,8 @@
   <string name="bluetooth_active_battery_level">Aktif, pil %1$s</string>
   <string name="bluetooth_active_no_battery_level">Aktif</string>
   <string name="bluetooth_battery_level">Pil %1$s</string>
+  <string name="bluetooth_bc_profile_summary_connected">BA sunucusuna bağlandı</string>
+  <string name="bluetooth_bc_profile_summary_use_for">BA için kullan</string>
   <string name="bluetooth_connected">Bağlandı%1$s</string>
   <string name="bluetooth_connected_battery_level">Bağlandı, pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)%1$s</string>
@@ -99,6 +106,8 @@
   <string name="bluetooth_profile_a2dp">Medya sesi</string>
   <string name="bluetooth_profile_a2dp_high_quality">HD ses: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD ses</string>
+  <string name="bluetooth_profile_bc">BC Profili</string>
+  <string name="bluetooth_profile_broadcast">Yayın</string>
   <string name="bluetooth_profile_dun">Çevirmeli Ağ Erişimi</string>
   <string name="bluetooth_profile_headset">Telefon çağrıları</string>
   <string name="bluetooth_profile_hearing_aid">İşitme cihazı</string>
@@ -110,6 +119,7 @@
   <string name="bluetooth_profile_pbap">Kişi paylaşımı</string>
   <string name="bluetooth_profile_pbap_summary">Kişi paylaşımı için kullanın</string>
   <string name="bluetooth_profile_sap">SIM Erişimi</string>
+  <string name="bluetooth_profile_vcp">Ses kontrolü</string>
   <string name="bluetooth_sap_profile_summary_connected">SAP ile bağlı</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIM erişimi için kullanın</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Örnek Başına Bluetooth Ses Biti</string>
@@ -129,6 +139,7 @@
   <string name="bluetooth_show_devices_without_names_summary">İsimsiz Bluetooth cihazları (sadece MAC adresleri) görüntülenecektir</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
   <string name="bluetooth_talkback_computer">Bilgisayar</string>
+  <string name="bluetooth_talkback_group">Grup Cihazları</string>
   <string name="bluetooth_talkback_headphone">Kulaklık</string>
   <string name="bluetooth_talkback_headset">Kulaklık</string>
   <string name="bluetooth_talkback_imaging">Görüntüleme</string>
@@ -272,6 +283,7 @@
   <string name="lb_search_bar_hint_speech">Aramak için konuş</string>
   <string name="lb_search_bar_hint_with_title">%1$s ara</string>
   <string name="lb_search_bar_hint_with_title_speech">%1$s aramak için konuş</string>
+  <string name="link_to_traces">İzleme dosyalarını göster</string>
   <string name="local_backup_password_summary_change">Masaüstü tam yedeklemeler için şifreyi kaldırmak veya değiştirmek için dokunun</string>
   <string name="local_backup_password_summary_none">Masaüstü tam yedeklemeleri şu anda korunmuyor</string>
   <string name="local_backup_password_title">Masaüstü yedekleme şifresi</string>
@@ -297,6 +309,7 @@
   <string name="pointer_location">İşaretleyici Konumu</string>
   <string name="pointer_location_summary">Dokunma koordinatlarını göster</string>
   <string name="power_charging_duration">%1$s - Tam Doluma: %2$s</string>
+  <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
   <string name="power_discharge_by">Yaklaşık %1$s (%2$s) kadar sürer</string>
   <string name="power_discharge_by_enhanced">Kullanımınıza göre yaklaşık %1$s kadar sürer (%2$s)</string>
   <string name="power_discharge_by_only">Yaklaşık %1$s kadar sürer</string>
@@ -318,6 +331,11 @@
   <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
   <string name="private_dns_mode_provider_failure">Bağlanamadı</string>
   <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcısı ana bilgisayar adını girin</string>
+  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
+  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
+  <string name="radio_info_nr_available">NR Mevcut:</string>
+  <string name="radio_info_nr_frequency">NR Frekansı:</string>
+  <string name="radio_info_nr_state">NR Durumu:</string>
   <string name="record_system_activity">Sistem etkinliğini kaydedin ve performansı iyileştirmek için daha sonra analiz edin</string>
   <string name="record_trace">Kayıt izleme</string>
   <string name="remaining_length_format">%1$s kaldı</string>
@@ -372,6 +390,8 @@
   <string name="speed_label_very_slow">Çok Yavaş</string>
   <string name="standby_bucket_summary">Uygulama bekleme durumu: %s</string>
   <string name="status_unavailable">Kullanım dışı</string>
+  <string name="stop_on_bugreport">Hata raporlarını izlemeyi durdur</string>
+  <string name="stop_on_bugreport_summary">Hata raporu başlatıldığında etkin izleme kayıtlarını sonlandırır</string>
   <string name="stop_tracing">İzlemeyi durdur</string>
   <string name="strict_mode">Sıkı mod etkin</string>
   <string name="strict_mode_summary">Uygulamalar ana iş parçacığında uzun işlemler yaptığında yanıp sönen ekran</string>
@@ -456,6 +476,7 @@
   <string name="wifi_cant_connect">Bağlanamıyor</string>
   <string name="wifi_cant_connect_to_ap">\'%1$s\' ile bağlantı kurulamıyor</string>
   <string name="wifi_check_password_try_again">Şifreyi kontrol et ve tekrar dene</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
   <string name="wifi_connected_mac_randomization">MAC Randomizasyonu bağlı</string>
   <string name="wifi_connected_mac_randomization_summary">WLAN ağlarına bağlanırken MAC adresini rastgele seç</string>
   <string name="wifi_connected_no_internet">Bağlandı, internet yok</string>
@@ -494,6 +515,7 @@
   <string name="wifi_wapi_psk_type">Şifre türü</string>
   <string name="wifi_wapi_user_certificate">Kullanıcı sertifikası</string>
   <string name="window_animation_scale_title">Pencere animasyonu ölçeği</string>
+  <string name="window_blurs">Pencere bulanıklaştırmaya izin ver</string>
   <string name="zen_alarm_warning">Bir sonraki %1$s alarmını duymayacaksın</string>
   <string name="zen_alarm_warning_indef">Bunu daha önce kapatmazsan bir sonraki %1$s alarmını duymayacaksın</string>
   <string name="zen_interruption_level_priority">Sadece öncelik</string>
@@ -502,17 +524,4 @@
   <string name="zen_mode_enable_dialog_turn_on">Aç</string>
   <string name="zen_mode_settings_summary_off">Asla</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız Etmeyin özelliğini açın</string>
-  <string name="bluetooth_bc_profile_summary_connected">BA sunucusuna bağlandı</string>
-  <string name="bluetooth_bc_profile_summary_use_for">BA için kullan</string>
-  <string name="bluetooth_profile_bc">BC Profili</string>
-  <string name="bluetooth_profile_broadcast">Yayın</string>
-  <string name="bluetooth_profile_vcp">Ses kontrolü</string>
-  <string name="bluetooth_talkback_group">Grup Cihazları</string>
-  <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
-  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
-  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
-  <string name="radio_info_nr_available">NR Mevcut:</string>
-  <string name="radio_info_nr_frequency">NR Frekansı:</string>
-  <string name="radio_info_nr_state">NR Durumu:</string>
-  <string name="wifi_connected_low_quality">Düşük kalite</string>
 </resources>

@@ -201,4 +201,12 @@
     <item quantity="other">Önbelleğe alınmış videoları olan %d uygulama</item>
     <item quantity="one">Önbelleğe alınmış videoları olan %d uygulama</item>
   </plurals>
+  <plurals name="every_x_day">
+    <item quantity="other">Her %d günde bir</item>
+    <item quantity="one">Her %d günde bir</item>
+  </plurals>
+  <plurals name="last_x_day">
+    <item quantity="other">Son %d gün</item>
+    <item quantity="one">Son %d gün</item>
+  </plurals>
 </resources>
