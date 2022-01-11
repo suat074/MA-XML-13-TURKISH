@@ -273,6 +273,8 @@
   <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
   <string name="mi_router_label">Yönlendirici</string>
   <string name="midnight">Gece</string>
+  <string name="midriver_install_button_text">Yükle</string>
+  <string name="midriver_not_install_title">Mi Drive kaldırıldı</string>
   <string name="midrop_msg_1">Diğer cihazda Mi Drop açık olmalı</string>
   <string name="midrop_msg_2">Mi Drop açıldığında, yakındaki diğer cihazları arayabilir ve gönderebilirsiniz</string>
   <string name="midrop_send_files">Gönderilecek dosyaları seçin</string>
@@ -499,6 +501,7 @@
   <string name="promot_enctypt_password">Cihazınızın kilidini açmak için kullanılan şifreyi girin</string>
   <string name="pull_to_enter_private">Özel klasörü açmak için aşağı çekin</string>
   <string name="refresh_success">Yenileme tamamlandı</string>
+  <string name="reinstall_midriver_message">Şimdi tekrar yüklensin mi?</string>
   <string name="release_enter_private">Özel klasörü açmak için bırakın</string>
   <string name="rename_alert">Bu dosyanın uzantısını değiştirirseniz, bunu açmak mümkün olmayabilir.</string>
   <string name="rename_alert2">Dosya gizli olacak.</string>

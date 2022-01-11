@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>  
+<resources>
   <string name="app_name">Yüzer pencereler</string>
   <string name="bottom_bar_smallwindow_text">Sabitlemek için bırakın</string>
   <string name="contentDescription">Pencereyi taşıma</string>
@@ -14,8 +14,11 @@
   <string name="freeform_demo_previous_tutorial">Geri</string>
   <string name="freeform_demo_title_finish">Güzel!</string>
   <string name="freeform_demo_title_skip">Atla</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
+  <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
   <string name="freeform_slide_to_small_freeform">Yüzer pencereyi küçültme</string>
   <string name="freeform_slide_to_small_freeform_summary">İşlem çubuğunu basılı tutun ve bir köşeye sürükleyin</string>
+  <string name="freeform_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
   <string name="fullscreen_slide_to_small_freeform">Bir uygulamayı küçültme</string>
   <string name="fullscreen_slide_to_small_freeform_summary">Ekranın altından sağ üst köşeye kaydırın</string>
   <string name="how_to_close_or_fullscreen_freeform">Yüzer pencereleri kapatma veya tam ekran moduna geçme</string>
@@ -33,13 +36,12 @@
   <string name="how_to_slide_up_to_close">Yüzer pencereyi kapat</string>
   <string name="how_to_slide_up_to_close_summary">Yüzer bir pencerenin eylem çubuğundan yukarı kaydırın</string>
   <string name="how_to_use_freeform">Yüzer pencereler nasıl kullanılır?</string>
+  <string name="multi_window_cvw">Yüzer pencere</string>
+  <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
+  <string name="multi_window_cvw_summary_global">Yüzer bir pencereye geçmek ve boyutunu ayarlamak için köşeyi sürükleyin</string>
+  <string name="multi_window_cvw_title">Yüzer pencere</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
-  <string name="freeform_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeye sürükleyin</string>
-  <string name="multi_window_cvw">Yüzer pencere</string>
-  <string name="multi_window_cvw_summary">Yüzer pencereye geçmek için köşeden sürükleyin ve boyutunu ayarlayın</string>
-  <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
-  <string name="multi_window_cvw_title">Yüzer pencere</string>
-</resources>
+</resources>  

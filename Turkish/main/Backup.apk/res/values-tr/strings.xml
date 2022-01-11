@@ -64,6 +64,7 @@
   <string name="backup_hint_onpad">Cihazınızı açık tutun</string>
   <string name="backup_is_running">Cihaz yedekleniyor</string>
   <string name="backup_new">Yeni:</string>
+  <string name="backup_notification_title">\"Yedekleme\" çalışıyor…</string>
   <string name="backup_progress">Yedekleniyor…</string>
   <string name="backup_report">Ayrıntıları görüntüle</string>
   <string name="backup_security_tips_message">Bazı uygulamalar yedeklenemeyebilir veya geri yüklenemeyebilir.</string>
