@@ -36,6 +36,7 @@
   <string name="account_settings_background_attachments_title">Ekleri otomatik olarak indir</string>
   <string name="account_settings_does_not_support_pop">POP3 protokolü bu öğenin ayarlanmasını desteklemiyor</string>
   <string name="account_settings_only_notify_inbox">Yalnızca gelen kutusu postaları için anlık bildirim al</string>
+  <string name="account_setup_domain_invalid_toast">Girdiğiniz e-posta alan adı yanlış, lütfen kontrol edin</string>
   <string name="action_filter">Filtre</string>
   <string name="app_uninstall_content">E-posta bir MIUI sistem uygulamasıdır. Kaldırma işleminden sonra, e-posta hesapları ekleyemez, e-posta gönderip alamaz ve e-postaları eşitleyemezsiniz.</string>
   <string name="app_uninstall_title">\"E-posta\" kaldırılsın mı?</string>

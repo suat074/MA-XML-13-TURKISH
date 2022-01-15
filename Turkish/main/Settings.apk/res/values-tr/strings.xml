@@ -390,8 +390,8 @@ Klavye veya gezinme çubuğunda yakınlaştırma yapamazsınız."</string>
   <string name="app_and_notification_dashboard_summary">İzinler, varsayılan uygulamalar</string>
   <string name="app_and_notification_dashboard_title">Uygulamalar ve bildirimler</string>
   <string name="app_backup">Yedekle</string>
-  <string name="ap_connect_failed">bağlantı başarısız</string>
-  <string name="ap_connected_battery_level">" | pil%1$s"</string>
+  <string name="ap_connect_failed">Bağlanılamadı</string>
+  <string name="ap_connected_battery_level">" | Pil %1$s"</string>
   <string name="app_data_usage">Uygulama veri kullanımı</string>
   <string name="app_default_dashboard_title">Varsayılan uygulamalar</string>
   <string name="app_detail">Ayrıntılar</string>

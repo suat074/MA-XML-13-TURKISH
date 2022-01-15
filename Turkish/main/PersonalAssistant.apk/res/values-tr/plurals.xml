@@ -133,6 +133,10 @@
   <plurals name="mins_ago">
     <item quantity="other">%1$ddak önce</item>
   </plurals>
+  <plurals name="pa_edit_text_limit">
+    <item quantity="one">En fazla %1$d karakter girin</item>
+    <item quantity="other">En fazla %1$d karakter girin</item>
+  </plurals>
   <plurals name="pa_edit_text_min_length">
     <item quantity="other">En az %1$d karakter</item>
     <item quantity="one">En az %1$d karakter</item>
