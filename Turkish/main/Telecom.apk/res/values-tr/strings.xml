@@ -48,6 +48,8 @@
   <string name="answering_ends_other_managed_calls">Cevaplama devam eden çağrılarınızı sonlandırır</string>
   <string name="answering_ends_other_managed_video_call">Cevaplama, devam eden görüntülü çağrınızı sonlandıracak</string>
   <string name="answering_ends_other_video_call">Cevaplama, %1$S görüntülü çağrınızı sonlandıracak</string>
+  <string name="anti_fraud_notification_msg">Telekom dolandırıcılığından kaçınmak için bu çağrıya geri dönün</string>
+  <string name="anti_fraud_notification_title">Dolandırıcılığa karşı uyarı</string>
   <string name="apn_settings_not_available">Erişim Noktası Adı ayarları bu kullanıcı için mevcut değil</string>
   <string name="app_process_limit_title">Arka plan işlem sınırı</string>
   <string name="available_via_carrier">%1$s aracılığıyla kullanılabilir</string>
@@ -74,6 +76,8 @@
   <string name="bluetooth_active_battery_level">Aktif, %1$s pil</string>
   <string name="bluetooth_active_no_battery_level">Aktif</string>
   <string name="bluetooth_battery_level">%1$s pil</string>
+  <string name="bluetooth_bc_profile_summary_connected">BA sunucusuna bağlandı</string>
+  <string name="bluetooth_bc_profile_summary_use_for">BA için kullan</string>
   <string name="bluetooth_connected">Bağlandı %1$s</string>
   <string name="bluetooth_connected_battery_level">Bağlandı, pil %1$s%2$s</string>
   <string name="bluetooth_connected_no_a2dp">Bağlandı (medya yok)%1$s</string>
@@ -120,6 +124,8 @@
   <string name="bluetooth_profile_a2dp">Medya sesi</string>
   <string name="bluetooth_profile_a2dp_high_quality">HD ses: %1$s</string>
   <string name="bluetooth_profile_a2dp_high_quality_unknown_codec">HD ses</string>
+  <string name="bluetooth_profile_bc">BC Profili</string>
+  <string name="bluetooth_profile_broadcast">Yayın</string>
   <string name="bluetooth_profile_dun">Çevirmeli Ağ Erişimi</string>
   <string name="bluetooth_profile_headset">Telefon çağrıları</string>
   <string name="bluetooth_profile_hearing_aid">İşitme cihazı</string>
@@ -131,6 +137,7 @@
   <string name="bluetooth_profile_pbap">Kişi paylaşımı</string>
   <string name="bluetooth_profile_pbap_summary">Kişi paylaşımı için kullanın</string>
   <string name="bluetooth_profile_sap">SIM Erişimi</string>
+  <string name="bluetooth_profile_vcp">Ses kontrolü</string>
   <string name="bluetooth_sap_profile_summary_connected">SAP ile bağlandı</string>
   <string name="bluetooth_sap_profile_summary_use_for">SIM erişimi için kullanın</string>
   <string name="bluetooth_select_a2dp_codec_bits_per_sample">Örnek Başına Bluetooth Ses Biti</string>
@@ -150,6 +157,7 @@
   <string name="bluetooth_show_devices_without_names_summary">İsimsiz Bluetooth cihazları (sadece MAC adresleri) görüntülenecektir</string>
   <string name="bluetooth_talkback_bluetooth">Bluetooth</string>
   <string name="bluetooth_talkback_computer">Bilgisayar</string>
+  <string name="bluetooth_talkback_group">Grup Cihazları</string>
   <string name="bluetooth_talkback_headphone">Kulaklık</string>
   <string name="bluetooth_talkback_headset">Kulaklık</string>
   <string name="bluetooth_talkback_imaging">Görüntüleme</string>
@@ -231,6 +239,7 @@
   <string name="disabled">Devre dışı</string>
   <string name="disabled_by_admin">Yönetici tarafından devre dışı bırakıldı</string>
   <string name="disabled_by_admin_summary_text">Yönetici tarafından kontrol edilir</string>
+  <string name="do_not_show_again">Tekrar gösterme</string>
   <string name="duplicate_video_call_not_allowed">Daha fazla çağrı eklenemiyor</string>
   <string name="enable_account_preference_title">Çağrı Hesapları</string>
   <string name="enable_adb">USB Hata Ayıklama</string>
@@ -289,6 +298,10 @@
   <string name="media_category">Medya</string>
   <string name="message_no_voice_capability">Bu cihazda çağrı yapılamıyor</string>
   <string name="missedcall_notification_public_version_title">Telefon</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="mobile_data_always_on">Hücresel veriler her zaman aktif</string>
   <string name="mobile_data_always_on_summary">WLAN etkin olsa bile (hızlı ağ geçişi için) mobil verileri daima aktif tut.</string>
   <string name="mock_location_app">Sahte konum uygulaması seçin</string>
@@ -339,6 +352,7 @@
   <string name="pointer_location">İşaretçi konumu</string>
   <string name="pointer_location_summary">Mevcut dokunmatik verileri gösteren ekran yerleşimi</string>
   <string name="power_charging_duration">"Tamamen şarj olmasına kalan %1$s - %2$s "</string>
+  <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
   <string name="power_discharge_by">Yaklaşık %1$s kadar sürmelidir (%2$s)</string>
   <string name="power_discharge_by_enhanced">Kullanımınıza göre yaklaşık %1$s kadar sürmelidir (%2$s)</string>
   <string name="power_discharge_by_only">Yaklaşık %1$s kadar sürmelidir</string>
@@ -360,6 +374,11 @@
   <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
   <string name="private_dns_mode_provider_failure">Bağlanamadı</string>
   <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcısının ana bilgisayar adını girin</string>
+  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
+  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
+  <string name="radio_info_nr_available">NR Mevcut:</string>
+  <string name="radio_info_nr_frequency">NR Frekansı:</string>
+  <string name="radio_info_nr_state">NR Durumu:</string>
   <string name="remaining_length_format">%1$s kaldı</string>
   <string name="respond_via_sms_canned_response_1">Şu an konuşamıyorum, ne oldu?</string>
   <string name="respond_via_sms_canned_response_2">Daha sonra seni ararım.</string>
@@ -377,6 +396,11 @@
   <string name="runningservices_settings_summary">Halen çalışan hizmetleri görüntüleyin ve kontrol edin</string>
   <string name="runningservices_settings_title">Çalışan Hizmetler</string>
   <string name="saved_network">%1$s tarafından kaydedildi</string>
+  <string name="scam_cancle">İptal</string>
+  <string name="scam_message">Çağrı yönlendirmeyi ayarlıyorsunuz. Bundan sonra gelen tüm aramalarınız %1$s telefon numarası tarafından cevaplanacak. Bu yönlendirme numarasına sahip değilseniz, kişisel bilgilerinizi ifşa etme veya mülkünüzün güvenliğini tehlikeye atma riski altında olabilirsiniz. Bu özelliği dikkatli kullanın.</string>
+  <string name="scam_message_2">**21*Yönlendirme numarası# çağrı yönlendirme kodudur. Herhangi bir sorunuz varsa operatörünüzle iletişime geçin.</string>
+  <string name="scam_ok">Çevir</string>
+  <string name="scam_title">Dolandırıcılık riski hatırlatma</string>
   <string name="screen_zoom_summary_custom">Özel (%d)</string>
   <string name="screen_zoom_summary_default">Varsayılan</string>
   <string name="screen_zoom_summary_extremely_large">Kocaman</string>
@@ -509,6 +533,7 @@
   <string name="wifi_cant_connect">Bağlanılamıyor</string>
   <string name="wifi_cant_connect_to_ap">\'%1$s\' bağlanılamıyor</string>
   <string name="wifi_check_password_try_again">Şifreyi kontrol et ve tekrar dene</string>
+  <string name="wifi_connected_low_quality">Düşük kalite</string>
   <string name="wifi_connected_mac_randomization">Bağlantı MAC Randomizasyonu</string>
   <string name="wifi_connected_mac_randomization_summary">WLAN ağlarına bağlanırken MAC adresini rastgele seç</string>
   <string name="wifi_connected_no_internet">Bağlandı, internet yok</string>
@@ -566,25 +591,4 @@
   <string name="zen_mode_enable_dialog_turn_on">Aç</string>
   <string name="zen_mode_settings_summary_off">Asla</string>
   <string name="zen_mode_settings_turn_on_dialog_title">Rahatsız Etme özelliğini aç</string>
-  <string name="do_not_show_again">Tekrar gösterme</string>
-  <string name="scam_cancle">İptal</string>
-  <string name="scam_message">Çağrı yönlendirmeyi ayarlıyorsunuz. Bundan sonra gelen tüm aramalarınız %1$s telefon numarası tarafından cevaplanacak. Bu yönlendirme numarasına sahip değilseniz, kişisel bilgilerinizi ifşa etme veya mülkünüzün güvenliğini tehlikeye atma riski altında olabilirsiniz. Bu özelliği dikkatli kullanın.</string>
-  <string name="scam_message_2">**21*Yönlendirme numarası# çağrı yönlendirme kodudur. Herhangi bir sorunuz varsa operatörünüzle iletişime geçin.</string>
-  <string name="scam_ok">Çevir</string>
-  <string name="scam_title">Dolandırıcılık riski hatırlatma</string>
-  <string name="bluetooth_bc_profile_summary_connected">BA sunucusuna bağlandı</string>
-  <string name="bluetooth_bc_profile_summary_use_for">BA için kullan</string>
-  <string name="bluetooth_profile_bc">BC Profili</string>
-  <string name="bluetooth_profile_broadcast">Yayın</string>
-  <string name="bluetooth_profile_vcp">Ses kontrolü</string>
-  <string name="bluetooth_talkback_group">Grup Cihazları</string>
-  <string name="power_charging_limited">%1$s - Pil sağlığı için optimizasyon</string>
-  <string name="radio_info_dcnr_restricted">DCNR Kısıtlandı:</string>
-  <string name="radio_info_endc_available">EN-DC Mevcut:</string>
-  <string name="radio_info_nr_available">NR Mevcut:</string>
-  <string name="radio_info_nr_frequency">NR Frekansı:</string>
-  <string name="radio_info_nr_state">NR Durumu:</string>
-  <string name="wifi_connected_low_quality">Düşük kalite</string>
-  <string name="anti_fraud_notification_msg">Telekom dolandırıcılığından kaçınmak için bu çağrıya geri dönün</string>
-  <string name="anti_fraud_notification_title">Dolandırıcılığa karşı uyarı</string>
 </resources>

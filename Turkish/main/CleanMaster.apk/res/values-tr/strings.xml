@@ -247,6 +247,15 @@
   <string name="engine_init">Başlatılıyor...</string>
   <string name="engine_tm">Tencent</string>
   <string name="evening">Öğleden sonra</string>
+  <string name="exo_download_completed">İndirme tamamlandı</string>
+  <string name="exo_download_description">İndir</string>
+  <string name="exo_download_downloading">İndiriliyor</string>
+  <string name="exo_download_failed">İndirme başarısız</string>
+  <string name="exo_download_notification_channel_name">İndirilenler</string>
+  <string name="exo_download_paused">İndirmeler duraklatıldı</string>
+  <string name="exo_download_paused_for_network">Ağ bekleyen indirmeler</string>
+  <string name="exo_download_paused_for_wifi">WiFi bekleyen indirmeler</string>
+  <string name="exo_download_removing">İndirmeler kaldırılıyor</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="facebook_clean_exit_confirm_cancel">Taramaya devam et</string>
   <string name="facebook_clean_exit_confirm_msg">Henüz Facebook taraması tamamlanmadı. Tarama şimdi durdurulsun mu?</string>
