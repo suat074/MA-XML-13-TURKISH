@@ -2112,6 +2112,8 @@ Oluşturulan günlükleri Dosya Yöneticisi\'nde görüntüleyebilirsiniz."</str
   <string name="enable_service_pattern_reason">Çünkü %1$s servisini açarsanız veri şifreleme etkilenir ve deseninizi onaylamanız gerekir.</string>
   <string name="enable_service_pin_reason">Çünkü %1$s servisini açarsanız veri şifreleme etkilenir ve PIN kodunuzu onaylamanız gerekir.</string>
   <string name="enable_service_title">Hizmet şu işlemleri gerçekleştirir:</string>
+  <string name="enable_sizecompat_freeform">Pencereleri yeniden boyutlandırmaya izin vermeye zorla</string>
+  <string name="enable_sizecompat_freeform_summary">Uyumluluk kısıtlamalarına sahip uygulamaların yeniden boyutlandırılabilir pencerelerde çalışmasına izin verin</string>
   <string name="enable_snapshot_screenlock">Fotoğraf çekmek için Geri tuşuna uzunca basın</string>
   <string name="enable_tcp_rtt_support">TCP RTT\'yi görüntüle</string>
   <string name="enable_tcp_rtt_support_summary">Ağ iletişim kalitesinin performansını değerlendirir</string>
@@ -5834,6 +5836,10 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine ^4 aygıtını taşın
   <string name="support_system_information_title">Sistem bilgileri</string>
   <string name="support_tips_and_tricks_title">İpuçlarını ve püf noktalarını keşfedin</string>
   <string name="sure_sync_now">Öğeler şimdi eşitlensin mi?</string>
+  <string name="surround_sound_all_desc">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
+  <string name="surround_sound_only_headset_desc">Kulaklıklar için ses üretiminin derinliğini artırın</string>
+  <string name="surround_sound_only_speaker_desc">Hoparlörler için ses üretiminin derinliğini artırın</string>
+  <string name="surround_sound_title">Sürükleyici ses</string>
   <string name="suw_back_button_label">Geri</string>
   <string name="suw_more_button_label">Daha fazla</string>
   <string name="suw_next_button_label">Sonraki</string>
@@ -8062,6 +8068,8 @@ Daha önce %2$s ile bağlantı kurmadınız."</string>
   <string name="headset_find_tip_title">Dikkat</string>
   <string name="headset_find_title">Kulaklıklarınızı bulun</string>
   <string name="headset_find_voice_warning">Yüksek ses uyarısı</string>
+  <string name="headset_head_tracking_desc">Sürükleyici sesi kafa hareketine göre ayarlayın</string>
+  <string name="headset_head_tracking_title">Kafa hareketini takip et</string>
   <string name="fingerprint_base_title">Parmak izi %s</string>
   <string name="fingerprint_gxzw_add_fingerprint_finish">\"%s\" olarak kaydedildi</string>
   <string name="miheadset_fitness_check_result_l_not_ok">Kulaklığı yeniden ayarlayın</string>
@@ -8165,7 +8173,7 @@ Bu özellik yalnızca, sistem gezintisi hareketler olarak ayarlandığında çal
   <string name="stylus_connect_fail_not_open_gps">Bağlanılamadı. Konum hizmetlerini açın ve tekrar deneyin.</string>
   <string name="stylus_connecting">Bağlanılıyor…</string>
   <string name="beauty_fc_assistant">Ön kamera asistanı</string>
-  <string name="headset_spatial_audio">Uzamsal ses</string>
+  <string name="headset_spatial_audio">Boyutlu ses</string>
   <string name="handy_mode_no_touch_assistant">Tek elle kullanım modu yalnızca sistemde gezinme için düğmeleri kullanıyorsanız çalışır. Ayarlar’da \"Sistemde gezinme\" bölümünde, hareketler ve düğmeler arasında geçiş yapabilirsiniz.</string>
   <string name="insert_sim_card_and_try_again">SIM kartınızı takın ve tekrar deneyin.</string>
   <string name="unsupported_usim_card">Desteklenmeyen USIM kartı.</string>

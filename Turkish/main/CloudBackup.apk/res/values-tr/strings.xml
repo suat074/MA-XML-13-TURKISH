@@ -437,4 +437,6 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="backup_action_no_space_with_wechat_off_title">Öğeler yedeklenemedi</string>
   <string name="backup_action_no_space_with_wechat_on_content">WeChat verilerini yedeklemek için yeterli bulut depolama alanı yok. Öğeleri yedeklemek için depolama planınızı yükseltin.</string>
   <string name="backup_action_no_space_with_wechat_on_title">WeChat verileri yedeklenemedi</string>
+  <string name="backup_failed_reason_app_data_error">WeChat verileri yedeklenemedi</string>
+  <string name="restore_failed_reason_app_data_error">WeChat verileri geri yüklenemedi</string>
 </resources>
