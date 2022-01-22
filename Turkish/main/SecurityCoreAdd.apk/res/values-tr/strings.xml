@@ -2,11 +2,32 @@
 <resources>
   <string name="Active">Etkin</string>
   <string name="PassWordGuard">İkinci alan şifresi</string>
-  <string name="PrivacyContactDes1">Kişiler özel olacak.\nMesajlar sadece İkinci alanda görünecektir.</string>
-  <string name="PrivacyContactDes2">Özel mesajları İlk alanda kullandıysanız,\nbu özellik otomatik olarak İkinci alana eklenir.</string>
+  <string name="PrivacyContactDes1">"Kişiler özel olacak.
+Mesajlar sadece İkinci alanda görünecektir."</string>
+  <string name="PrivacyContactDes2">"Özel mesajları İlk alanda kullandıysanız,
+bu özellik otomatik olarak İkinci alana eklenir."</string>
+  <string name="abc_action_bar_home_description">Ana sayfaya git</string>
+  <string name="abc_action_bar_up_description">Yukarı git</string>
+  <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
+  <string name="abc_action_mode_done">Bitti</string>
+  <string name="abc_activity_chooser_view_see_all">Tümünü gör</string>
+  <string name="abc_activitychooserview_choose_application">Bir uygulama seç</string>
+  <string name="abc_capital_off">KAPALI</string>
+  <string name="abc_capital_on">AÇIK</string>
+  <string name="abc_search_hint">Aranıyor…</string>
+  <string name="abc_searchview_description_clear">Sorguyu temizle</string>
+  <string name="abc_searchview_description_query">Sorguyu ara</string>
+  <string name="abc_searchview_description_search">Arama</string>
+  <string name="abc_searchview_description_submit">Sorguyu gönder</string>
+  <string name="abc_searchview_description_voice">Sesli arama</string>
+  <string name="abc_shareactionprovider_share_with">İle paylaş</string>
+  <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
+  <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="about_ent_mode">Kurumsal mod hakkında</string>
+  <string name="actionbar_button_up_description">Geri</string>
   <string name="activate_ent_mode">Kurumsal modu etkinleştir</string>
   <string name="add_finger_print">Parmakizi ekle</string>
+  <string name="afternoon">Öğleden sonra</string>
   <string name="air_space_created">Çalışma alanı başarıyla oluşturuldu</string>
   <string name="air_space_deleted">Çalışma alanı başarıyla silindi</string>
   <string name="air_space_exit">Alandan çık</string>
@@ -29,8 +50,10 @@
   <string name="changePassword">Şifreyi değiştir</string>
   <string name="chooseDataTransfer">İkinci alan verileriyle ne yapılmalı?</string>
   <string name="chooseFile">Diğer dosyaları seç</string>
+  <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="click_to_back_first_space">İlk Alana geri dönmek için dokunun</string>
   <string name="click_to_switch">Görüntülemek için dokunun</string>
+  <string name="close">Kapat</string>
   <string name="closePassword">Şifreyi kapat</string>
   <string name="closePasswordGuide">Şifreyi kapattıktan sonra İkinci alana Kilit ekranından giremezsiniz.</string>
   <string name="closeSecondSpace">İkinci alanı sil</string>
@@ -55,9 +78,11 @@
   <string name="confirm_restore">Gösterme!</string>
   <string name="contactData">İletişim</string>
   <string name="contact_sub_titile_text">Mesajlaşma verileri iki alanda da paylaşılacak</string>
-  <string name="contact_titile_text">İstediğiniz zaman görüntüleyebilmek için\nözel mesajları İkinci alanda göster</string>
+  <string name="contact_titile_text">"İstediğiniz zaman görüntüleyebilmek için
+özel mesajları İkinci alanda göster"</string>
   <string name="contact_us">Bizimle iletişime geçin</string>
   <string name="continueButton">Devam</string>
+  <string name="copy">Kopyala</string>
   <string name="createANewSpace">Telefonunuzda ayrı bir alan oluşturun.</string>
   <string name="createUserFail">Oluşturulamadı</string>
   <string name="create_app_icon_failed">Simge oluşturulamadı</string>
@@ -71,6 +96,8 @@
   <string name="cta_declaration_title">Şartlar ve koşullar</string>
   <string name="current_space">Geçerli alan</string>
   <string name="dataSafe">İkinci alanı kullanmak iki cihaza sahip olmak gibidir.</string>
+  <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="declare_dialog_title">Klonlu uygulamalar hakkında</string>
   <string name="deleteAll">Tümünü Sil</string>
   <string name="deleteDataConfirm">Tüm öğeler silinecek</string>
@@ -94,6 +121,7 @@
   <string name="downloading_space">İndiriliyor…</string>
   <string name="dual_animation">Animasyonlu başlat</string>
   <string name="dual_animation_description">Klonlu uygulamalar başlatıldığında animasyonu göster</string>
+  <string name="early_morning">Sabah</string>
   <string name="enable">Aç</string>
   <string name="encrypt_space_delete_dialog_click_message">*Verileri taşımanız gerekmiyorsa, %s</string>
   <string name="encrypt_space_delete_dialog_click_message_action">sil ve şimdi İkinci bir alan oluştur.</string>
@@ -105,7 +133,8 @@
   <string name="ent_activating">Etkinleştiriliyor…</string>
   <string name="ent_activation">Etkinleştir</string>
   <string name="ent_activation_hint">Kurumsal modu etkinleştirmek için lisans kodu ile birlikte kurumsal kodunuzu girin. Bundan sonra, özel kurumsal hizmetler etkinleştirilecek.</string>
-  <string name="ent_activation_hint_whit_licence">Özel kurumsal hizmetleri etkinleştirmek için Kurumsal modu etkinleştirin.\nŞirketiniz adının doğru olduğundan emin olun. Etkinleştirmeden önce ilgili gizlilik politikalarını okuyun ve kabul edin.</string>
+  <string name="ent_activation_hint_whit_licence">"Özel kurumsal hizmetleri etkinleştirmek için Kurumsal modu etkinleştirin.
+Şirketiniz adının doğru olduğundan emin olun. Etkinleştirmeden önce ilgili gizlilik politikalarını okuyun ve kabul edin."</string>
   <string name="ent_agency_code">Şirket kodu</string>
   <string name="ent_agency_code_hint">Şirket kodunu girin</string>
   <string name="ent_agency_code_invalid">Girdiğiniz şirket kodu geçersiz.</string>
@@ -144,7 +173,9 @@
   <string name="err_switch_photos">Fotoğraf taşınamadı</string>
   <string name="err_unknown">Bilinmeyen hata</string>
   <string name="err_volume_not_enough">Depolama alanı yeterli değil</string>
+  <string name="evening">Öğleden sonra</string>
   <string name="exit_private_space">Geçiş yap</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="experience_more_features">Tüm özellikleri görmek için cihaz ekle</string>
   <string name="facebook_login">Facebook\'ta oturum aç</string>
   <string name="facebook_send">Facebook\'a gönder</string>
@@ -152,6 +183,20 @@
   <string name="finger_print_of_use">Parmak izi kullan</string>
   <string name="fingerprint_number_upper_limit">Çok fazla başarısız kilit açma denemesi</string>
   <string name="fingerprint_removal_failed">Parmak izi silinemedi</string>
+  <string name="fmt_date_long_month_day">d MMMM</string>
+  <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
+  <string name="fmt_date_numeric_month_day">d/M</string>
+  <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
+  <string name="fmt_date_short_month_day">d MMM</string>
+  <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
+  <string name="fmt_time_12hour">"h 'o''saat'"</string>
+  <string name="fmt_time_24hour">"HH 'o''saat'"</string>
+  <string name="fmt_time_minute">"m'dak'"</string>
+  <string name="fmt_time_minute_second">"m'dak' s's'"</string>
+  <string name="fmt_time_minute_second_millis">"m'dak' s.S's'"</string>
+  <string name="friday">Cuma</string>
+  <string name="friday_short">Cum</string>
+  <string name="friday_shortest">Cum</string>
   <string name="function_not_support">Bu alan desteklenmiyor</string>
   <string name="gms_message">Klonlu uygulamalar oluşturmak, Google hizmetleriyle çalışmayı gerektirir. Google hizmetleri için klonlu uygulama oluşturulsun mu?</string>
   <string name="gms_open_button">Aç</string>
@@ -175,19 +220,23 @@
   <string name="greenguard_install_title">Aile Koruması\'nı yükle</string>
   <string name="greenguard_parent_des">Arkadaşlarınızın ve ailenizin cihazlarını yönetin</string>
   <string name="greenguard_parent_des_title">Cihaz eklemek için Kite Guard\'ı kullanın</string>
-  <string name="guide_contact_sub_title_desc">İkinci alana eklenen kişiler özel olacak.\nMesajlar sadece İkinci alanda görünecektir.</string>
+  <string name="guide_contact_sub_title_desc">"İkinci alana eklenen kişiler özel olacak.
+Mesajlar sadece İkinci alanda görünecektir."</string>
   <string name="guide_contact_suc_sub_title_desc">İkinci alanda yalnızca özel kişiler ve mesajlar gösterilecek</string>
   <string name="guide_contact_suc_title_desc">Başarıyla ayarlandı</string>
   <string name="guide_contact_title_desc">Özel öğeler İkinci alanda gösterilsin mi?</string>
-  <string name="guide_pwd_detail_title">Verilerinizi koruyun\nKilit ekranından İkinci alana girin</string>
+  <string name="guide_pwd_detail_title">"Verilerinizi koruyun
+Kilit ekranından İkinci alana girin"</string>
   <string name="guide_setting_guide_title">İkinci alanı yönet</string>
   <string name="guide_start_ads_text">Tamamen yeni bir güvenlik seviyesi</string>
   <string name="guide_start_text">İki alan. Bir cihaz.</string>
-  <string name="has_created_second_space">Şimdi İkinci alanı açabilirsiniz.\nİki alan. Bir cihaz.</string>
+  <string name="has_created_second_space">"Şimdi İkinci alanı açabilirsiniz.
+İki alan. Bir cihaz."</string>
   <string name="hidden_app">İkinci alan</string>
   <string name="imageData">Fotoğraflar</string>
   <string name="import_application">Uygulamaları içe aktar</string>
-  <string name="import_application_desc">Uygulamaları ikinci alana aktarın.\nBunları ayrıca indirebilirsiniz.</string>
+  <string name="import_application_desc">"Uygulamaları ikinci alana aktarın.
+Bunları ayrıca indirebilirsiniz."</string>
   <string name="import_contacts">Kişileri içe aktar</string>
   <string name="import_contacts_desc">Aktarılan kişileri özel yap</string>
   <string name="import_contacts_suc">Özel kişiler içe aktarıldı</string>
@@ -217,6 +266,24 @@
   <string name="master_clear_not_available_ep">Fabrika ayarlarına sıfırlama işlemi yapmanıza veya yetkilendirmenizi iptal etmenize izin verilmiyor. Yöneticinize başvurun.</string>
   <string name="menu_item_about_privacy_title">Gizlilik Politikası</string>
   <string name="messageData">Mesajlar</string>
+  <string name="midnight">Gece</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
+  <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
+  <string name="miuix_appcompat_cancel_description">İptal</string>
+  <string name="miuix_appcompat_confirm_description">Onayla</string>
+  <string name="miuix_appcompat_delete_description">Sil</string>
+  <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
+  <string name="miuix_appcompat_deselect_all_description">Hiçbiri</string>
+  <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+  <string name="miuix_appcompat_search_input_description">Ara</string>
+  <string name="miuix_appcompat_select_all">Tümünü seç</string>
+  <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
+  <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -225,7 +292,48 @@
   <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
+  <string name="monday">Pazartesi</string>
+  <string name="monday_short">Pzt</string>
+  <string name="monday_shortest">Pzt</string>
+  <string name="month_april">Nisan</string>
+  <string name="month_april_short">Nis</string>
+  <string name="month_april_shortest">Nis</string>
+  <string name="month_august">Ağustos</string>
+  <string name="month_august_short">Ağu</string>
+  <string name="month_august_shortest">Ağu</string>
+  <string name="month_december">Aralık</string>
+  <string name="month_december_short">Ara</string>
+  <string name="month_december_shortest">Ara</string>
+  <string name="month_february">Şubat</string>
+  <string name="month_february_short">Şub</string>
+  <string name="month_february_shortest">Şub</string>
+  <string name="month_january">Ocak</string>
+  <string name="month_january_short">Oca</string>
+  <string name="month_january_shortest">Oca</string>
+  <string name="month_july">Temmuz</string>
+  <string name="month_july_short">Tem</string>
+  <string name="month_july_shortest">Tem</string>
+  <string name="month_june">Haziran</string>
+  <string name="month_june_short">Haz</string>
+  <string name="month_june_shortest">Haz</string>
+  <string name="month_march">Mart</string>
+  <string name="month_march_short">Mar</string>
+  <string name="month_march_shortest">Mar</string>
+  <string name="month_may">Mayıs</string>
+  <string name="month_may_short">May</string>
+  <string name="month_may_shortest">May</string>
+  <string name="month_november">Kasım</string>
+  <string name="month_november_short">Kas</string>
+  <string name="month_november_shortest">Kas</string>
+  <string name="month_october">Ekim</string>
+  <string name="month_october_short">Eki</string>
+  <string name="month_october_shortest">Eki</string>
+  <string name="month_september">Eylül</string>
+  <string name="month_september_short">Eyl</string>
+  <string name="month_september_shortest">Eyl</string>
+  <string name="more">Daha fazla</string>
   <string name="more_settings">Daha</string>
+  <string name="morning">Sabah</string>
   <string name="msg_switch_file">Dosyalar taşındıktan sonra İlk Alandan silinsin mi?</string>
   <string name="msg_switch_file_second">Dosyalar taşındıktan sonra İkinci Alandan silinsin mi?</string>
   <string name="msg_switch_photo">Taşındıktan sonra İlk Alandaki fotoğraflar silinsin mi?</string>
@@ -238,8 +346,11 @@
   <string name="need_set_second_space_pwd_first">Önce İkinci alan şifresini ayarla</string>
   <string name="newSecondSpace">İkinci alanı aç</string>
   <string name="next_setp">Sonraki</string>
+  <string name="night">Akşam</string>
   <string name="no_match_repate_scanner">Eşleşen parmak izleri bulunamadı, tekrar tarayın</string>
+  <string name="noon">Öğlen</string>
   <string name="normal_app">İlk alan</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="not_support_air_space">Bu özellik telefonunuzda desteklenmiyor</string>
   <string name="not_support_multiple_users">Birden fazla alan desteklenmiyor</string>
   <string name="notificationSetPassword">Şifreyi ayarla</string>
@@ -260,7 +371,9 @@
   <string name="otherSettings">Diğer ayarlar</string>
   <string name="passWordGuardSummary">Kilit erkanında şifre kullanarak İkinci Alana gir</string>
   <string name="passwordProtect">Şifre</string>
-  <string name="please_diff_finger_print">Birinci ve ikinci alanlarda farklı parmak izlerinin kullanıldığından emin olun.\nAksi takdirde, Kilit ekranından İkinci alana giremeyebilirsiniz.</string>
+  <string name="please_diff_finger_print">"Birinci ve ikinci alanlarda farklı parmak izlerinin kullanıldığından emin olun.
+Aksi takdirde, Kilit ekranından İkinci alana giremeyebilirsiniz."</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="privacyContactsSummary">İkinci alanda özel öğeleri göster</string>
   <string name="privacyContactsTitle">Özel mesajlar ve kişiler</string>
   <string name="privacy_password_fingerprint_dialog_message">Parmağınızı sensöre yerleştirin</string>
@@ -294,8 +407,12 @@
   <string name="same_qr_code_des">Görünüşe göre bu Çalışma alanı zaten var. Oraya gitmek için Ana ekranı ve Bildirim alanı kısayollarını kullanabilirsiniz. Şimdi git?</string>
   <string name="same_qr_code_enter_space">Çalışma alanına git</string>
   <string name="same_qr_code_title">%s zaten var</string>
+  <string name="saturday">Cumartesi</string>
+  <string name="saturday_short">Cts</string>
+  <string name="saturday_shortest">Cts</string>
   <string name="scanner_fingerprint">Parmak izi taranıyor…</string>
-  <string name="scanner_fingerprint_enter_second">Kilit ekranından İkinci alana girmek için\nİkinci alan parmak izini tarayın</string>
+  <string name="scanner_fingerprint_enter_second">"Kilit ekranından İkinci alana girmek için
+İkinci alan parmak izini tarayın"</string>
   <string name="scanner_fingerprint_error_tips_desc">Eşleşen parmak izlerini bulamıyorum. İkinci alan için parmak izi ekle?</string>
   <string name="scanner_fingerprint_error_tips_title">Eşleşen parmak izlerini bulamıyorum</string>
   <string name="scanner_fingerprint_tips_desc">İkinci alana girmek için mevcut parmak izini seçin. İlk alanda kullanamazsınız.</string>
@@ -308,6 +425,7 @@
   <string name="sdcradfs_dialog_in_sec_message">Güncellemek için, İkinci alanınızı silmeli ve sonra tekrar oluşturmalısınız. Verileri İkinci alandan İlk alana taşıyın ve güncellemeyi tamamlamak için cihazınızı yeniden başlatın.\nGüncelleme yapmazsanız, klonlu uygulamalar düzgün çalışmayabilir.</string>
   <string name="sdcradfs_dialog_in_sec_title">Önemli güncelleme</string>
   <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+  <string name="search_menu_title">Ara</string>
   <string name="search_result_text">Hiçbir uygulama bulunamadı</string>
   <string name="secondSpace">İkinci alan</string>
   <string name="second_owner_finger_print">İkinci alan parmak izi</string>
@@ -319,6 +437,7 @@
   <string name="secondspace_homepage">"İkinci alan için özel bir ekran kilidi ayarlayın.
 Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="select_existed_fingerprint">Parmakizini seçin</string>
+  <string name="send">Gönder</string>
   <string name="serNameSummary">İkinci alan</string>
   <string name="setSecondSpacePassword">İkinci alan şifresini ayarla</string>
   <string name="setSecondSpacePasswordGuide">İkinci Alan şifresini ayarla</string>
@@ -386,11 +505,15 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="startTransfer">Taşı</string>
   <string name="start_input_finger_print">Parmak izi ekle</string>
   <string name="start_new_fingerprint">Yeni bir parmak izi ekle</string>
-  <string name="start_new_fingerprint_tips">Kilit ekranından İkinci alana girmek için\nİkinci alan parmak izini kullanın</string>
+  <string name="start_new_fingerprint_tips">"Kilit ekranından İkinci alana girmek için
+İkinci alan parmak izini kullanın"</string>
   <string name="start_setting_guide_desc_title">Ayarlanacak birkaç şey var</string>
   <string name="stop_xspace_alert_content">Hesapları ve uygulama verileriyle birlikte tüm klonlu uygulamalar silinsin mi? Bu değişikliği uygulamak için cihazınız yeniden başlatılacak.</string>
   <string name="stop_xspace_alert_title">Klonlu uygulamaların hesaplarını sil</string>
   <string name="summary_switch_apps_settings">Geçerli alanda kullanılacak uygulamaları seç</string>
+  <string name="sunday">Pazar</string>
+  <string name="sunday_short">Paz</string>
+  <string name="sunday_shortest">Paz</string>
   <string name="support_desc">Spaces Mobile tarafından sağlanan güvenlik hizmetleri</string>
   <string name="sure_to_use">Onayla</string>
   <string name="switchDataSummary">Alanlar arasında öğeleri taşı</string>
@@ -420,9 +543,17 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="switching_photos">Fotoğraf taşınıyor…</string>
   <string name="temporary_no_set">Şimdi değil</string>
   <string name="this_function_can_not_use_in_second_space">Bu özellik yalnızca İlk alanda kullanılabilir</string>
+  <string name="thursday">Perşembe</string>
+  <string name="thursday_short">Prş</string>
+  <string name="thursday_shortest">Prş</string>
+  <string name="time_picker_dialog_title">Zamanı ayarla</string>
+  <string name="time_picker_label_hour">S</string>
+  <string name="time_picker_label_minute">D</string>
   <string name="title_choose_app_status">Uygulama tipini seç</string>
   <string name="title_switch_file">Dosyalar silinsin mi?</string>
   <string name="title_switch_photo">Fotoğraflar silinsin mi?</string>
+  <string name="today">Bugün</string>
+  <string name="tomorrow">Yarın</string>
   <string name="transferApp">İkinci alanda yüklenmiş olan uygulamalar İlk alana taşınacak. Ancak, tüm uygulama verileri kaybolacak.</string>
   <string name="transferContact">İkinci alan kişileri, İlk alana taşınacak</string>
   <string name="transferDataConfirm">Kalan öğeler silinecek</string>
@@ -432,6 +563,9 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="transferImage">İkinci alandaki fotoğraflar İlk alandaki \"İkinci alan\" albümüne taşınacak</string>
   <string name="transferMessage">İkinci alandan gelen mesajlar İlk alana taşınacak</string>
   <string name="tryNow">Şimdi dene</string>
+  <string name="tuesday">Salı</string>
+  <string name="tuesday_short">Sal</string>
+  <string name="tuesday_shortest">Sal</string>
   <string name="undo_activated_dialog_message">Yetkilendirmeyi iptal etme, Kurumsal modu devre dışı bırakır ve cihazınızda fabrika verilerine sıfırlama gerçekleştirir. İlgili tüm özellikler artık mevcut olmayacak. Bunun yanı sıra, Xiaomi Kurumsal modu için gerekli bilgileri (IMEI, Aygıt kimliği, sistem sürümü, bölge, vb.) toplamayı durduracaktır. Xiaomi\'nin Kurumsal mod için topladığı verileri kullanmadığını hatırlatmak isteriz. İlgili tüm tarafları bilgilendirmek için elimizden geleni yapacağız, ancak bu iptal işlemini onaylamak için şirketinizin yöneticilerine başvurmanızı öneririz. Yetkilendirme iptal edilip fabrika verilerine sıfırlama işlemi gerçekleştirilsin mi?</string>
   <string name="undo_activated_dialog_ok">İptal et</string>
   <string name="undo_grant_dialog_message">Yetkilendirmeyi iptal ettikten sonra Xiaomi bu özellik için gereken bilgileri (IMEI, Aygıt kimliği, sistem sürümü, bölge vb.) toplamayı durduracaktır. Şimdi iptal edilsin mi?</string>
@@ -439,8 +573,13 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="undo_success">Başarıyla iptal edildi</string>
   <string name="use_google_open">Google Asistan\'ı kullanarak uyan</string>
   <string name="use_xiaoai_open">Mi AI kullanarak uyan</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="wating">Sadece bir saniye…</string>
-  <string name="weibo_send">Weibo\'ya gönderin</string>
+  <string name="wednesday">Çarşamba</string>
+  <string name="wednesday_short">Çrş</string>
+  <string name="wednesday_shortest">Çrş</string>
+  <string name="weibo_send">Weibo\'ya gönder</string>
   <string name="weixin_pay">WeChat ödeme</string>
   <string name="weixin_share_sign">Giriş yap ve paylaş</string>
   <string name="whatsapp_send">Whatsapp\'a gönder</string>
@@ -455,14 +594,20 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="xspace_default_guide_notification_xspace_title">Klonlu uygulama kullanma</string>
   <string name="xspace_default_setting_dialog_title">" varsayılan"</string>
   <string name="xspace_default_setting_label">Kişiselleştirme</string>
-  <string name="xspace_description">Klonlu uygulamalar, farklı bir hesapla ayrı olarak kullanılabilecek uygulama kopyalarıdır.\n\nBazı klonlu uygulamalar Google Himetleri Çerçevesi desteği gerektirir. Bu gibi durumlarda, klonlu Google Hizmetleri Çerçevesi oluşturulur.</string>
+  <string name="xspace_description">"Klonlu uygulamalar, farklı bir hesapla ayrı olarak kullanılabilecek uygulama kopyalarıdır.
+  
+Bazı klonlu uygulamalar Google Himetleri Çerçevesi desteği gerektirir. Bu gibi durumlarda, klonlu Google Hizmetleri Çerçevesi oluşturulur."</string>
   <string name="xspace_disable">Oluşturulmadı</string>
   <string name="xspace_enable">Oluşturuldu</string>
   <string name="xspace_facebook_title">Facebook</string>
+  <string name="xspace_guide_content_bound">Kullanılabilir uygulamalar</string>
   <string name="xspace_guide_des">İki hesabı, aralarında geçiş yapmadan aynı anda kullanın</string>
+  <string name="xspace_guide_description">"Her hesap kendi
+uygulamasını hak eder"</string>
   <string name="xspace_guide_title">Klonlu uygulamaları deneyin</string>
   <string name="xspace_header">Klonlu uygulamalar</string>
   <string name="xspace_instagram_title">Instagram</string>
+  <string name="xspace_install_complete">&lt;font>Klonlu uygulama başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font>.</string>
   <string name="xspace_install_completed">Ana ekrana simge eklendi</string>
   <string name="xspace_install_completed_global">Çekmeceye simge eklendi</string>
   <string name="xspace_install_failed">Oluşturulamadı</string>
@@ -471,22 +616,16 @@ Verilerinizi ayırın ve güvenli hale getirin."</string>
   <string name="xspace_label">Klonlu uygulamalar</string>
   <string name="xspace_loading_msg">Uygulamalar yükleniyor…</string>
   <string name="xspace_notification">Klonlu uygulama bildirimleri</string>
+  <string name="xspace_notification_button">Dene</string>
   <string name="xspace_notification_error">Klonlu WeChat\'te oturum açın ve yeniden deneyin</string>
   <string name="xspace_remove">Klonlu uygulamaların hesaplarını sil</string>
   <string name="xspace_setting_label">Klonlu uygulama ayarları</string>
   <string name="xspace_settins">Set</string>
+  <string name="xspace_start">Oluştur</string>
   <string name="xspace_uninstall_completed">Klonlu uygulama başarıyla kaldırıldı</string>
   <string name="xspace_uninstall_dialog_content">Klonlu uygulamayı kaldırmak tüm uygulama verisini kaldıracak.</string>
   <string name="xspace_uninstall_dialog_title">Klonlu uygulamayı kaldır</string>
   <string name="xspace_uninstalling">Kaldırılıyor…</string>
   <string name="xspace_whatsapp_title">WhatsApp</string>
-  <string name="xspace_guide_content_bound">Kullanılabilir uygulamalar</string>
-  <string name="xspace_guide_description">"Her hesap kendi
-uygulamasını hak eder"</string>
-  <string name="xspace_install_complete">&lt;font>Klonlu uygulama başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font>.</string>
-  <string name="xspace_notification_button">Dene</string>
-  <string name="xspace_start">Oluştur</string>
-  <string name="miuix_access_state_desc">Seçili</string>
-  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
-  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="yesterday">Dün</string>
 </resources>
