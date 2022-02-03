@@ -130,11 +130,11 @@
   <string name="clean_master_icon_recall_button_text">Ekle</string>
   <string name="clean_master_icon_recall_dialog_button_negative">Hayır teşekkürler</string>
   <string name="clean_master_icon_recall_dialog_button_positive">Ekle</string>
-  <string name="clean_master_icon_recall_dialog_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin.</string>
-  <string name="clean_master_icon_recall_dialog_title">Çöp kutusunu daha hızlı temizle</string>
+  <string name="clean_master_icon_recall_dialog_summary">İhtiyacınız olduğunda çöpleri temizlemek için bir Ana ekran kısayolu ekleyin.</string>
+  <string name="clean_master_icon_recall_dialog_title">Çöpleri daha hızlı temizle</string>
   <string name="clean_master_icon_recall_hint">Ana ekran kısayolu ekle</string>
   <string name="clean_master_icon_recall_summary">İhtiyacınız olduğunda çöp kutusunu temizlemek için bir Ana ekran kısayolu ekleyin.</string>
-  <string name="clean_master_icon_recall_title">Çöpü hızlı temizleme</string>
+  <string name="clean_master_icon_recall_title">Çöpleri daha hızlı temizle</string>
   <string name="clean_master_icon_recall_toast_text">Temizleyici için bir Ana ekran kısayolu başarıyla eklendi</string>
   <string name="clean_summary">%1$s temizlendi</string>
   <string name="clear_bigfiles">Büyük dosyaları, yenilenen fotoğrafları ve diğer eski öğeleri sil</string>
@@ -370,7 +370,7 @@
   <string name="hints_cache_msd_desc">Delta güncellemelerini silmek, uygulama kullanımını etkilemez</string>
   <string name="hints_cache_msd_title">Delta güncelleme</string>
   <string name="hints_cleanfinish">Temizlik bitti</string>
-  <string name="hints_deepclean_list_item_from">%s itibaren</string>
+  <string name="hints_deepclean_list_item_from">%s üzerinde</string>
   <string name="hints_deepclean_scanning">%s taranıyor</string>
   <string name="hints_finish_quick_cleanup">Tamamlandı</string>
   <string name="hints_finish_quick_cleanup_title">%s çöpü temizle</string>
