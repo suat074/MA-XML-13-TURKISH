@@ -15,6 +15,7 @@
   <string name="avrcp_notification_name">BT GELİŞMİŞ ÖZELLİĞİ AVRCP</string>
   <string name="bluetooth_a2dp_sink_queue_name">Şimdi Oynuyor</string>
   <string name="bluetooth_advanced_feat_description">Bluetooth Gelişmiş Tarama Özelliği</string>
+  <string name="bluetooth_broadcast_status">Yayında</string>
   <string name="bluetooth_connected">Bluetooth sesi bağlandı</string>
   <string name="bluetooth_disconnected">Bluetooth sesi kesildi</string>
   <string name="bluetooth_map_remote_advance_feature_support">Gelişmiş mesaj erişim özellikleri desteklenir</string>
@@ -38,6 +39,7 @@
   <string name="bluetooth_sap_notif_message">İstemci bağlantısı kesilsin mı?</string>
   <string name="bluetooth_sap_notif_ticker">Bluetooth SIM erişimi</string>
   <string name="bluetooth_sap_notif_title">Bluetooth SIM erişimi</string>
+  <string name="broadcast_notification_name">Yayın durumu</string>
   <string name="bt_audio_share_notification_content">Seçenekleri görmek için dokunun</string>
   <string name="bt_audio_share_notification_title">Ses paylaşımı</string>
   <string name="bt_enable_cancel">İptal</string>

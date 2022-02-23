@@ -312,6 +312,9 @@
   <string name="relay_call_device_name">Bağlı cihaz (%1$s)</string>
   <string name="relay_deny_permission_msg">Ses kaydetme izni olmadan çağrılar aktarılamıyor</string>
   <string name="relay_grant_permissions_on_phone">Telefonunuza ses kaydetme izni verin</string>
+  <string name="relay_known">Anladım</string>
+  <string name="relay_network_error">Ağ hatası</string>
+  <string name="relay_network_error_msg">Bir ağ hatası nedeniyle bu cihazdan çağrılar alınamıyor. Bunun yerine telefonunuza geri dönün.</string>
   <string name="remind_unlock_message">Cihazınız şimdi kilitlendi. \"%s\" cihazınızın kilidini açtıktan sonra kullanılabilir. Kilit şimdi açılsın mı?</string>
   <string name="respond_via_sms_custom_message">Özel SMS</string>
   <string name="saturday">Cumartesi</string>

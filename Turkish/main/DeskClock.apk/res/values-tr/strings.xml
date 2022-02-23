@@ -597,4 +597,10 @@
   <string name="selected">Seçili</string>
   <string name="unselect_all">Hiçbiri</string>
   <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
+  <string name="show_life_post_desc">Bu özelliği kapatırsanız sabah raporları görüntülenmez</string>
+  <string name="show_life_post_lable">Sabah raporunu göster</string>
+  <string name="sleep_date_provider_text_new">Uyku verileri Mi Fitness tarafından sağlanır</string>
+  <string name="sleep_record_desc_detailed_new">Uyku takibi, Mi Fitness Uyku özelliği tarafından sağlanır. Bu özelliği açarsanız, Mi Fitness telefon kullanımınızı, aktivitelerinizi ve ayarladığınız uyku ve uyanma saatine göre uykunuzla ilgili verileri otomatik olarak toplar ve görüntüler. Uykunun daha doğru izlenmesi için Mi Fitness\'a otomatik başlatma izni verin.</string>
+  <string name="update_health_app_desc_new">Uyku izleme özelliği Mi Fitness tarafından sağlanmaktadır. İlgili özelliklere erişmek için Mi Fitness\'ı en son sürümüne güncelleyin.</string>
+  <string name="update_health_app_new">Mi Fitness\'ı güncelle</string>
 </resources>

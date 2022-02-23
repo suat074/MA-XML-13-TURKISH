@@ -222,4 +222,24 @@
     <item quantity="other">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
     <item quantity="one">Öğe %d widget içeriyor. Widget açıklaması için iki kez dokunun.</item>
   </plurals>
+  <plurals name="pa_accessibility_olympic_bronze_medal_count">
+    <item quantity="one">%d bronz madalya</item>
+    <item quantity="other">%d bronz madalya</item>
+  </plurals>
+  <plurals name="pa_accessibility_olympic_gold_medal_count">
+    <item quantity="one">%d altın madalya</item>
+    <item quantity="other">%d altın madalya</item>
+  </plurals>
+  <plurals name="pa_accessibility_olympic_medal_count">
+    <item quantity="one">Toplam %d madalya</item>
+    <item quantity="other">Toplam %d madalya</item>
+  </plurals>
+  <plurals name="pa_accessibility_olympic_rank">
+    <item quantity="one">Sıra %d</item>
+    <item quantity="other">Sıra %d</item>
+  </plurals>
+  <plurals name="pa_accessibility_olympic_silver_medal_count">
+    <item quantity="one">%d gümüş madalya</item>
+    <item quantity="other">%d gümüş madalya</item>
+  </plurals>
 </resources>

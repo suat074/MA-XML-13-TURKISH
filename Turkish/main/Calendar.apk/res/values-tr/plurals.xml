@@ -239,4 +239,40 @@
     <item quantity="other">%d çalışma günü</item>
     <item quantity="one">%d çalışma günü</item>
   </plurals>
+  <plurals name="after_num_minutes">
+    <item quantity="other">%d dak içinde</item>
+    <item quantity="one">%d dak içinde</item>
+  </plurals>
+  <plurals name="other_num_events">
+    <item quantity="other">%d etkinlik daha</item>
+    <item quantity="one">%d etkinlik daha</item>
+  </plurals>
+  <plurals name="today_has_num_event">
+    <item quantity="other">Bugün %d etkinlik</item>
+    <item quantity="one">Bugün %d etkinlik</item>
+  </plurals>
+  <plurals name="widget_countdown_day">
+    <item quantity="other">%1$s gün</item>
+    <item quantity="one">%1$s gün</item>
+  </plurals>
+  <plurals name="widget_custom_unit_day">
+    <item quantity="other">%d gün</item>
+    <item quantity="one">%d gün</item>
+  </plurals>
+  <plurals name="widget_normal_agenda_going_counts">
+    <item quantity="other">%d etkinlik devam ediyor</item>
+    <item quantity="one">%d etkinlik devam ediyor</item>
+  </plurals>
+  <plurals name="widget_normal_agenda_next_minutes">
+    <item quantity="other">%d dak içinde sonraki etkinlik</item>
+    <item quantity="one">%d dak içinde sonraki etkinlik</item>
+  </plurals>
+  <plurals name="widget_normal_agenda_tomorrow_total">
+    <item quantity="other">Yarın %d etkinlik</item>
+    <item quantity="one">Yarın %d etkinlik</item>
+  </plurals>
+  <plurals name="widget_weekN">
+    <item quantity="other">Hafta %d</item>
+    <item quantity="one">Hafta %d</item>
+  </plurals>
 </resources>

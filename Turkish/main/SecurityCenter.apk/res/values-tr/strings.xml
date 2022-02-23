@@ -1796,8 +1796,8 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="gb_performance_balance">Dengeli</string>
   <string name="gb_performance_high">Performans</string>
   <string name="gb_performance_mode">Oyun modu</string>
-  <string name="gb_performance_tips">"Performans modunu uzun süre kullanmak
-pili tüketebilir ve ısınmaya neden olabilir"</string>
+  <string name="gb_performance_tips">"Performans modu grafik performansını iyileştirir,
+ancak güç tüketimini artırır ve cihazınızın aşırı ısınmasına izin verir"</string>
   <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
   <string name="gb_shoulder_key">Kol düğmeleri</string>
   <string name="gb_shoulder_key_add_show_btn">Oyunlar sırasında sanal düğmeleri göster</string>
@@ -2003,7 +2003,7 @@ ve Ses değiştiricimizi keşfedin!"</string>
   <string name="gtb_guide_gtb_func_title">Game Turbo</string>
   <string name="gtb_guide_gtb_game_effected">Uygulandı</string>
   <string name="gtb_guide_gtb_game_new">Yeni</string>
-  <string name="gtb_guide_gtb_line_new">Yepyeni Game Turbo ile oyununuzu hızlandırın!</string>
+  <string name="gtb_guide_gtb_line_new">Game Turbo\'da Performans modunu deneyin!</string>
   <string name="gtb_guide_small_window_app_desc">Oynarken diğer uygulamaları kullanın</string>
   <string name="gtb_guide_small_window_app_title">Yüzer pencereler</string>
   <string name="gtb_setting_item_summary_disable_ndds_sim">Bağlantıyı sabit tutmak ve ağlar arasında geçiş yapmaktan kaçınmak için oyun oturumları sırasında tüm iletişim hizmetlerini ikincil SIM\'de engelleyin. Oynamayı bıraktığınızda ikincil SIM\'in engellemesi kaldırılacaktır.</string>
@@ -5148,4 +5148,36 @@ Bu özellik hareket düzgünleştirme ile çalışmaz.
   <string name="xunyou_pay_webview">Yalnızca yüzdelik</string>
   <string name="xunyou_server_expired">Kapalı</string>
   <string name="yesterday">Dün</string>
+  <string name="gamebox_bullet_chat">Ekrandaki yorumlar</string>
+  <string name="gb_dialog_record_way_manual_desc" formatted="false">Oyun oturumu sırasında manuel olarak %d-%d saniye video kaydedin.</string>
+  <string name="gb_dialog_record_way_setting_tip_one">Artan güç tüketimi ve gecikme</string>
+  <string name="gb_dialog_record_way_setting_tip_title">Bu özellik aşağıdaki sorunlara neden olabilir:</string>
+  <string name="gb_dialog_record_way_setting_tip_two">Diğer ekran kaydedicilerle çakışmalar</string>
+  <string name="gb_game_video_save_tip">Başarıyla kaydedildi</string>
+  <string name="gb_manual_video_record_title">Kayıtlar</string>
+  <string name="gb_shoulder_guide_message1">Omuz düğmesi aracılığıyla kullanmak için [L] öğesini herhangi bir işlevsel konuma getirin.</string>
+  <string name="gb_shoulder_guide_message2">Eylem [1], düğmeye basılarak etkinleştirilir. Eylem [2], düğme bırakılarak etkinleştirilir.</string>
+  <string name="gb_shoulder_guide_tips1">Araç kutusunu açın ve omuz düğmelerini yapılandırın</string>
+  <string name="gb_shoulder_guide_title1">Aksiyon</string>
+  <string name="gb_shoulder_guide_title2">Sıra</string>
+  <string name="gb_shoulder_set_left_right">Ayarla [%s]</string>
+  <string name="gb_shoulder_set_title">Bunları yapılandırmak için omuz düğmelerini açın</string>
+  <string name="gb_shoulder_set_title2">[%s] öğesini herhangi bir işlevsel konuma taşıyın ve omuz düğmesiyle kullanın</string>
+  <string name="gb_shoulder_single_trigger">Aksiyon</string>
+  <string name="gb_shoulder_subsection_down">Bas</string>
+  <string name="gb_shoulder_subsection_trigger">Sıra</string>
+  <string name="gb_shoulder_subsection_up">Serbest bırak</string>
+  <string name="gb_shoulder_update_left_right">%s düzenle</string>
+  <string name="resume">Geri yükle</string>
+  <string name="confirm_ai_allow_all_permission">Tüm uygulamalar için izin durumu \"Benim adıma karar ver\" olarak değiştirilsin mi?</string>
+  <string name="gb_performance_balance_tips">"Dengeli mod, yenileme hızı ve
+sıcaklık sınırlarını düşürürken güç tasarrufu sağlar"</string>
+  <string name="gd_sidebar_long_press_tips">Cihazı dikey tutarken taşımak için göstergeyi basılı tutun</string>
+  <string name="gtb_guide_game_mode_tips">Tercih edilen oyun modunu seçin</string>
+  <string name="gtb_guide_gtb_line_xspace">Tamamen yeni Game Turbo ile oyununuzu hızlandırın!</string>
+  <string name="st_title_keywords_list">Anahtar kelime listesi</string>
+  <string name="cpu_usage_process_run_time_little_time_new">%d dakikadan az</string>
+  <string name="first_aid_card_consume_power_summary_app">%d taneden fazla uygulamanın otomatik olarak başlatılmasına izin veriliyor. Pil tasarrufu için kısıtlayın.</string>
+  <string name="system_anti_fraud_dialog_message">Dolandırıcılığa karşı koruma</string>
+  <string name="system_anti_fraud_dialog_title2">Dolandırıcılığa karşı uyarı</string>
 </resources>

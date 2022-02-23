@@ -1643,4 +1643,6 @@ Gelişmiş bildirimler, kişiler ve mesajlar gibi kişisel bilgiler dahil olmak 
   <string name="window_magnification_prompt_content">Artık ekranınızın bir bölümünü büyütebilirsiniz</string>
   <string name="window_magnification_prompt_title">Yeni büyütme ayarları</string>
   <string name="zen_mode_until_next_day">Şu saate kadar: %1$s</string>
+  <string name="face_error_vendor_unknown">Bir şeyler yanlış gitti. Tekrar deneyin.</string>
+  <string name="fingerprint_error_vendor_unknown">Bir şeyler yanlış gitti. Tekrar deneyin.</string>
 </resources>

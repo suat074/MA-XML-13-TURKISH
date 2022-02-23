@@ -23,29 +23,6 @@
   <string name="abc_shareactionprovider_share_with">Şununla paylaş</string>
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
-  <string name="dialog_delete_positive">Sil</string>
-  <string name="expand_button_title">Gelişmiş</string>
-  <string name="h5_net_error" formatted="false">"%s yüklenemedi (%s)"</string>
-  <string name="h5_net_error_tip">URL açılamadı</string>
-  <string name="miuix_access_state_desc">Seçili</string>
-  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
-  <string name="miuix_indexer_collect">Koleksiyonlar</string>
-  <string name="miuix_indexer_selected">%s seçili</string>
-  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
-  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
-  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
-  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
-  <string name="no_net">Ağa bağlanılamadı</string>
-  <string name="no_support_modify_path">Güvenlik nedeniyle indirilen öğelerin konumu değiştirilemiyor</string>
-  <string name="not_set">Ayarlanmadı</string>
-  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
-  <string name="search_menu_title">Ara</string>
-  <string name="v7_preference_off">KAPALI</string>
-  <string name="v7_preference_on">AÇIK</string>
   <string name="about">Hakkında</string>
   <string name="action_back">Geri</string>
   <string name="action_settings">Ayarlar</string>
@@ -79,11 +56,14 @@
   <string name="cancel">İptal</string>
   <string name="cancel_running_download">İptal</string>
   <string name="cancle">İptal</string>
+  <string name="category">Kategori</string>
+  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d aşıldı</string>
   <string name="choose_open_picture">Eylem seçin</string>
   <string name="choose_open_time">"Başlamak istediğiniz zamanı seçin"</string>
   <string name="clear_data">Temizle</string>
   <string name="close">Kapat</string>
   <string name="close_ad">Reklamı kapat</string>
+  <string name="collect_diagnosis_log">Tanılama günlüğü topla</string>
   <string name="complete_time">Tamamlandı</string>
   <string name="confirm">Tamam</string>
   <string name="confirm_delete_downloads_message">%d indirilen silinecek.</string>
@@ -93,6 +73,7 @@
   <string name="copy_info">Panoya kopyalandı. Arkadaşlarınızla paylaşabilirsiniz!</string>
   <string name="creat_task_success">İndirme kuyruğuna eklendi.</string>
   <string name="create_task">Görev oluştur</string>
+  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Öğeleri indirmek ve ayrıca indirmeleri görüntülemek ve yönetmek için</string>
   <string name="delete">Sil</string>
   <string name="delete_download">Sil</string>
   <string name="delete_downloads_records">İndirilenleri sil</string>
@@ -100,6 +81,10 @@
   <string name="deselect_all">Hiçbiri</string>
   <string name="deselect_subfile_all">Hiçbiri</string>
   <string name="determine">Tamam</string>
+  <string name="diagnosis_log_send_failed">Tanılama günlüğü gönderilemedi.</string>
+  <string name="diagnosis_log_sent_format">"Tanılama günlüğü gönderildi.
+ID:%s
+Lütfen bu kodu teknisyene gönderin."</string>
   <string name="dialog_btn_cancel">İptal</string>
   <string name="dialog_btn_ok">Tamam</string>
   <string name="dialog_btn_ok_disabled_net">Ağ Ayarları</string>
@@ -108,6 +93,7 @@
   <string name="dialog_confirm_delete_the_download_item_message">Bu görevleri sil</string>
   <string name="dialog_content_limit0">İndirmeleri sınırla</string>
   <string name="dialog_content_limit_max">Sınırsız</string>
+  <string name="dialog_delete_positive">Sil</string>
   <string name="dialog_download_dir_content" formatted="false">İndirmeleriniz için varsayılan hedef klasör \"%s\" yerine \"%s/DLManager\ olarak değiştirildi.</string>
   <string name="dialog_download_dir_title">Yeni hedef klasör</string>
   <string name="dialog_failed_body">Bu dosyayı daha sonra indirmeyi deneyin veya kuyruktan kaldırılsın mı?</string>
@@ -119,6 +105,9 @@
   <string name="dialog_media_not_found">İndirmek için harici depolama birimini bağlayın.</string>
   <string name="dialog_msg_disabled_net">Mevcut ağ için %1$s kısıtlı indirme. Güvenlik uygulamasına gitmek için Ağ ayarları\'na dokunun.</string>
   <string name="dialog_msg_recommend">Kapattıktan sonra önerilen kaynakları göremezsiniz. Mobil veriyi kaydetmek için \"Sadece Wi-Fi kullanarak içerik yükle\" seçebilirsiniz.</string>
+  <string name="dialog_privacy_update_button1">İptal</string>
+  <string name="dialog_privacy_update_button2">Kabul et</string>
+  <string name="dialog_privacy_update_title">Güncellenen Gizlilik Politikası</string>
   <string name="dialog_queued_body">Dosya kuyruğa eklendi ve yakında indirilecek.</string>
   <string name="dialog_speed_cancel">İptal</string>
   <string name="dialog_speed_msg">Ağ test etmek için mobil veri kullanmak,büyük miktarda mobil veri tüketebilir. Devam et?</string>
@@ -128,16 +117,21 @@
   <string name="dialog_title_not_available">İndirme Hatası</string>
   <string name="dialog_title_queued_body">Dosya henüz hazır değil</string>
   <string name="dialog_title_recommend">Tavsiye edilen kaynakları kapat</string>
+  <string name="dialog_user_know_button1">Çıkış</string>
+  <string name="dialog_user_know_button2">Kabul et</string>
+  <string name="dialog_user_know_content"><Data>"&lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> yeni sürümünü kabul etmediğiniz sürece bu özelliği kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</Data></string>
+  <string name="dialog_user_know_title">Dikkat</string>
   <string name="disable">Kapalı</string>
   <string name="display_expire_netiv1">Bu ay</string>
   <string name="do_not_support_url">"Bu URL türü desteklenmiyor"</string>
   <string name="doc_filter">Dökümanlar</string>
   <string name="download">İndirilenler</string>
+  <string name="downloadCount">İndirilenler</string>
   <string name="download_auth">Yetki alınıyor…</string>
   <string name="download_complete">Tamam</string>
-  <string name="download_detail">Ayrıntılar</string>
   <string name="download_description_content">"İndirilenler bir sistem uygulamasıdır. Kaldırdıktan sonra indirmelerinizi yönetemezsiniz."</string>
   <string name="download_description_title">\"İndirilenler\" Ana ekrandan kaldırılsın mı?</string>
+  <string name="download_detail">Ayrıntılar</string>
   <string name="download_error">İndirilemedi</string>
   <string name="download_error_download_file_not_exists">"Dosya yok"</string>
   <string name="download_error_insufficient_space">Yeterli depolama alanı yok</string>
@@ -196,11 +190,13 @@
   <string name="durationSecond">%1$d saniye</string>
   <string name="durationSeconds">%1$d saniye</string>
   <string name="edit_hint">http, torrent veya eMule adresi gir</string>
+  <string name="edit_hint2">HTTP, FTP, magnet veya ed2k bağlantısı girin</string>
   <string name="editmode_menu_delete">Sil</string>
   <string name="editmode_menu_share">Paylaş</string>
   <string name="engine_open">Aç</string>
   <string name="enter_search">Ara</string>
   <string name="everyone_test">Herkes test ediyor</string>
+  <string name="expand_button_title">Gelişmiş</string>
   <string name="experience_xunlei_account_speed">Xunlei üyeleri yıldırım hızıyla indirmelerin keyfini çıkarabilir.</string>
   <string name="expire_notification_msg">Xunlei üyelik süresi yakında doluyor.</string>
   <string name="expire_today_notification_msg">Xunlei üyeliği bugün sona eriyor.</string>
@@ -212,6 +208,7 @@
   <string name="file_picker">Konum seçin</string>
   <string name="file_size">Boyut</string>
   <string name="flow_consume">Trafik</string>
+  <string name="for_diagnosis_usage_only">Bu bilgiyi yalnızca tanılama için kullanın.</string>
   <string name="force_touch_newdownload">Yeni İndirme</string>
   <string name="force_touch_rank">Dereceler</string>
   <string name="force_touch_search">İnternette ara</string>
@@ -223,6 +220,8 @@
   <string name="get_order_fail_msg">"Sipariş alınamadı"</string>
   <string name="goto_global_search">\"%1$s\" aranıyor</string>
   <string name="guess_like">Şunlar da hoşunuza gidebilir</string>
+  <string name="h5_net_error" formatted="false">"%s yüklenemedi (%s)"</string>
+  <string name="h5_net_error_tip">URL açılamadı</string>
   <string name="high_speed_channel">Xunlei Hızlandırıcısı (paralı)</string>
   <string name="high_speed_tryout">İndirme hızı düştüğünde, Xunlei üyesi ol</string>
   <string name="high_speed_tryout_percent">Hız %1$s tarafından güçlendirildiğinde, Xunlei üyesi ol</string>
@@ -263,26 +262,44 @@
   <string name="mi_money">Mi Kredisi</string>
   <string name="mi_money_">Mi Kredisi</string>
   <string name="missing_title">&lt;Bilinmiyor></string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
+  <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+  <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
+  <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
+  <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
   <string name="net_error">"Ağa bağlanamadı, tekrar deneyin"</string>
   <string name="network_error">"Ağa bağlanamadı"</string>
   <string name="new_add">Yeni</string>
   <string name="new_add_bt">Torrent ekle</string>
+  <string name="new_add_bt2">Torrent görevi ekle</string>
   <string name="no_downloads">Dosya yok</string>
   <string name="no_file_hint">Dosya zaten indirme görevileri içinde var</string>
+  <string name="no_net">Ağa bağlanılamadı</string>
   <string name="no_result_for_keyword">"\"%1$s\" bulunamadı"</string>
   <string name="no_share_file">"Bu dosya paylaşılamıyor"</string>
   <string name="no_share_file_content">Seçtiğiniz dosya zaten silindi</string>
   <string name="no_share_files">"Zaten silinmiş dosyalar paylaşılamaz"</string>
   <string name="no_share_files_content">"Silinen bazı dosyalar zaten paylaşılıyordu. Başarıyla diğer dosyalar paylaşıldı."</string>
+  <string name="no_support_modify_path">Güvenlik nedeniyle indirilen öğelerin konumu değiştirilemiyor</string>
   <string name="no_vip_info">İndirmeleri hızlandırmak için Xunlei üyeliği alın</string>
   <string name="no_vip_show_info">"Xunlei ile tüm
 cihazlarınızda indirmeleri hızlandırın"</string>
+  <string name="not_set">Ayarlanmadı</string>
   <string name="notify_disabled_net_by_app">İnternet erişimi kısıtlandı</string>
   <string name="notify_install_guide_forward_text">Aç</string>
   <string name="notify_install_guide_msg">Başarıyla yüklendi</string>
   <string name="notify_install_guide_title">%s başarıyla yüklendi</string>
   <string name="notify_not_support">Bu tür bildirimler desteklenmez. Şimdi güncelle</string>
   <string name="notify_only_wifi_download">Wi-Fi için bekliyor</string>
+  <string name="nowInstall">Yükle</string>
   <string name="one_month">1 ay</string>
   <string name="only_support_torrent">Sadece torrent dosyaları desteklenir</string>
   <string name="open">Aç</string>
@@ -295,6 +312,9 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="other">Diğer</string>
   <string name="other_filter">Diğer</string>
   <string name="package_filter">Paketler</string>
+  <string name="passport_oauth_actionbar_title">Mi Hesabı</string>
+  <string name="passport_oauth_sucess_tip">Başarıyla yetkilendirildi</string>
+  <string name="password_toggle_content_description">Şifreyi göster</string>
   <string name="path_not_available">Bu yol mevcut değil</string>
   <string name="pause_download">Duraklat</string>
   <string name="paused">Duraklatıldı</string>
@@ -306,17 +326,21 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="paused_waiting_to_retry">Tekrarlanması için bekleniyor</string>
   <string name="percent_title">%1$s kişi indirdi</string>
   <string name="period_of_validity">Geçerlilik</string>
+  <string name="permission">İzinler</string>
   <string name="pref_download_revert_default">Varsayılan konuma kaydet</string>
   <string name="pref_download_settings_title">Mobil veri kullanarak indirme sınırlıdır</string>
   <string name="pref_download_storage_path">Özel bir konuma kaydet</string>
   <string name="pref_download_storage_path_2">İndirilen öğelerin konumu</string>
+  <string name="pref_permission_description">İzin ayrıntıları</string>
   <string name="pref_sniff_shortcut">Kısayol oluştur</string>
   <string name="pref_summary_any_bytes_popup">Herzaman dosyaları indirmek için Wi-Fi bağlantısını bekle</string>
   <string name="pref_summary_enable_max_bytes_popup">İçerik indirmek için mobil veri bağlantısı kullanırken açılır pencerede bildirim göster</string>
   <string name="pref_summary_max_bytes_limit_format">Dosya boyutu %s değerini aşarsa Wi-Fi\'yi bekle</string>
   <string name="pref_summary_no_limit_popup">Limitsiz</string>
   <string name="pref_title_enable_max_bytes_popup">Veri kullanım uyarısını göster</string>
+  <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
   <string name="preferences_title">Ayarlar</string>
+  <string name="privacy">Gizlilik</string>
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_tip_cancel">İptal</string>
   <string name="privacy_tip_content">"İndirmeleri hızlandırmak için Xunlei Hızlandırıcı kullanılsın mı? İndirme bağlantıları Xunlei sunucularına yüklenecektir. Mi Hesap ayrıntıları da herhangi bir faal abonelik olup olmadığını kontrol etmek için yüklenecektir.""</string>
@@ -371,6 +395,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="search_hotwords_switch">Değiştir</string>
   <string name="search_input_empty_toast">Ara veya URL Gir</string>
   <string name="search_input_hint">Ara veya URL Gir</string>
+  <string name="search_menu_title">Ara</string>
   <string name="search_nonetwork_prompt">Ağ bağlantınızı kontrol edin ve tekrar deneyin</string>
   <string name="search_nonetwork_refresh">Yenile</string>
   <string name="search_recommend_empty">Öge yok</string>
@@ -383,6 +408,8 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="select_sub_file_download">İndirmek için bir dosya seçin</string>
   <string name="select_subfile_all">Tümünü Seç</string>
   <string name="selected_count"> %2$d üzerindeki %1$d seçildi</string>
+  <string name="send_diagnosis_log">Tanılama günlüğünü gönder</string>
+  <string name="sending">Gönderiliyor…</string>
   <string name="setting_close_debug">Hata Ayıklama Modu kapalı</string>
   <string name="setting_debug_fail">"Hata Ayıklama Modu kapatılamadı"</string>
   <string name="setting_open_debug">Hata Ayıklama Modu açıldı. Buraya 6 kez dokunarak Hata Ayıklama Modunu kapatabilirsiniz.</string>
@@ -390,6 +417,7 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="shortcut_dialog_create">Oluştur</string>
   <string name="shortcut_dialog_title">Ana Ekran\'da kısayol oluştursun mu?</string>
   <string name="show_more">%s görüntüle</string>
+  <string name="size">Boyut</string>
   <string name="sniff_associate_text">Daha fazla kaynak bulmak için aşağıdaki anahtar kelimelere dokunun</string>
   <string name="sniff_bt_text">Torrent Dosyası</string>
   <string name="sniff_btn_text">Kaynak</string>
@@ -460,9 +488,11 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="subbt_pause">Durduruldu</string>
   <string name="subbt_wait">Bekliyor…</string>
   <string name="subfile_list">Dosyalar</string>
+  <string name="task_add">Görev ekleniyor…</string>
   <string name="task_detail">Görevler</string>
   <string name="task_detail_notfound_confirm">Tamam</string>
   <string name="task_fail">İşlem tamamlanamadı</string>
+  <string name="temporary_not_available">geçici dosya mevcut değil</string>
   <string name="test_speed">Test</string>
   <string name="test_speed_detail">Ayrıntılar</string>
   <string name="test_speed_please">Hız testi için dokunun...</string>
@@ -477,9 +507,13 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="third_web_title">İndir</string>
   <string name="thunder_download_speedup">Xunlei kullanılarak hız artırılıyor…</string>
   <string name="time_consume">Süre</string>
+  <string name="tip_download_icon_restore">İndirmeler için bir Ana ekran kısayolu ekleyin</string>
+  <string name="tip_download_icon_retry">Kısayol eklenemedi. Tekrar deneyin.</string>
   <string name="title_homepage_infoflow">Geçmiş güncellemeler</string>
   <string name="title_tips">Dikkat</string>
   <string name="title_unbind_xunlei">Xunlei Hesabından kaldır</string>
+  <string name="toast_download_icon_restore_fail">Kısayol eklenemedi</string>
+  <string name="toast_download_icon_restore_success">Başarıyla eklendi</string>
   <string name="toast_only_wifi_download">Bu öğeyi indirmek için Wi-Fi ağına bağlanın</string>
   <string name="toast_update_data_limit_fail">Ayarlama başarısız oldu</string>
   <string name="toast_xunlei_engine_open">Xunlei İndirme Hızlandırıcısı açıldı</string>
@@ -497,6 +531,8 @@ cihazlarınızda indirmeleri hızlandırın"</string>
   <string name="unit_en_billion">Milyar</string>
   <string name="unit_en_million">Milyon</string>
   <string name="unit_en_thounsand">Bin</string>
+  <string name="v7_preference_off">KAPALI</string>
+  <string name="v7_preference_on">AÇIK</string>
   <string name="valid_date">Geçerlilik Tarihi:  %s</string>
   <string name="valid_in_this_month">Bu ay için geçerli</string>
   <string name="version">Sürüm: %s</string>
@@ -547,36 +583,4 @@ Tüm cihazlarınızda indirmeleri hızlandırın."</string>
   <string name="xunlei_open_info">Bu tür bağlantıları açmak için Xunlei Engine kullanılsın mı?</string>
   <string name="xunlei_speed_service">Xunlei İndirme Hızlandırıcısı</string>
   <string name="xunlei_switch">Xunlei İndirme Hızlandırıcısı</string>
-  <string name="edit_hint2">HTTP, FTP, magnet veya ed2k bağlantısı girin</string>
-  <string name="new_add_bt2">Torrent görevi ekle</string>
-  <string name="task_add">Görev ekleniyor…</string>
-  <string name="tip_download_icon_restore">İndirmeler için bir Ana ekran kısayolu ekleyin</string>
-  <string name="tip_download_icon_retry">Kısayol eklenemedi. Tekrar deneyin.</string>
-  <string name="toast_download_icon_restore_fail">Kısayol eklenemedi</string>
-  <string name="toast_download_icon_restore_success">Başarıyla eklendi</string>
-  <string name="character_counter_content_description">Karakter sınırı %1$d / %2$d aşıldı</string>
-  <string name="collect_diagnosis_log">Tanılama günlüğü topla</string>
-  <string name="diagnosis_log_send_failed">Tanılama günlüğü gönderilemedi.</string>
-  <string name="diagnosis_log_sent_format">"Tanılama günlüğü gönderildi.
-ID:%s
-Lütfen bu kodu teknisyene gönderin."</string>
-  <string name="for_diagnosis_usage_only">Bu bilgiyi yalnızca tanılama için kullanın.</string>
-  <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
-  <string name="passport_oauth_actionbar_title">Mi Hesabı</string>
-  <string name="passport_oauth_sucess_tip">Başarıyla yetkilendirildi</string>
-  <string name="password_toggle_content_description">Şifreyi göster</string>
-  <string name="send_diagnosis_log">Tanılama günlüğünü gönder</string>
-  <string name="sending">Gönderiliyor…</string>
-  <string name="temporary_not_available">geçici dosya mevcut değil</string>
-  <string name="custom_define_permission_desc_android.permission_group.STORAGE">Öğeleri indirmek ve ayrıca indirmeleri görüntülemek ve yönetmek için</string>
-  <string name="dialog_privacy_update_button1">İptal</string>
-  <string name="dialog_privacy_update_button2">Kabul et</string>
-  <string name="dialog_privacy_update_title">Güncellenen Gizlilik Politikası</string>
-  <string name="dialog_user_know_button1">Çıkış</string>
-  <string name="dialog_user_know_button2">Kabul et</string>
-  <string name="dialog_user_know_content"><Data>"&lt;a href=\"%1$s\">Gizlilik Politikası&lt;/a> yeni sürümünü kabul etmediğiniz sürece bu özelliği kullanmaya devam edemezsiniz. Güncellenen Gizlilik Politikasını şimdi kabul ediyor musunuz?"</Data></string>
-  <string name="dialog_user_know_title">Dikkat</string>
-  <string name="permission">İzinler</string>
-  <string name="pref_permission_description">İzin ayrıntıları</string>
-  <string name="privacy">Gizlilik</string>
 </resources>

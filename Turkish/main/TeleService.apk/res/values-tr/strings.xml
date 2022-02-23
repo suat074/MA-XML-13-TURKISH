@@ -1,5 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="HIPS_Perm_External_Storage">Depolama</string>
+  <string name="HIPS_Perm_External_Storage_Desc">Cihazınızdaki dosyalara ve fotoğraflara erişme ve kaydetme</string>
+  <string name="HIPS_Perm_Read_Contact">Kişiler</string>
+  <string name="HIPS_Perm_Read_Contact_Desc">Kişilerinize erişim</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ENTRY">PUK girin</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_ERROR">PUK kilidini açma başarılı.</string>
   <string name="PERSOSUBSTATE_RUIM_CORPORATE_PUK_IN_PROGRESS">PUK kilidini açma isteniyor…</string>
@@ -1023,6 +1027,10 @@
   <string name="miui_network_selection_reset_text">Sıfırla</string>
   <string name="miui_notification_network_selection_title">SIM hizmeti yok</string>
   <string name="miui_notification_network_selection_title_by_sim">SIM %s hizmet yok</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>

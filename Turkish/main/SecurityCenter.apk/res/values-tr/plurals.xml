@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+  <plurals name="gb_dialog_record_way_ai_desc">
+    <item quantity="other">Önemli anları otomatik olarak kaydedin ve oturumun öne çıkan noktalarıyla videolar oluşturun. Her oyun oturumundan sonra bunları kalıcı olarak kaydetmeyi seçebilirsiniz. Kaydedilmemiş videolar %1$d gün sonra otomatik olarak silinecek.</item>
+    <item quantity="one">Önemli anları otomatik olarak kaydedin ve oturumun öne çıkan noktalarıyla videolar oluşturun. Her oyun oturumundan sonra bunları kalıcı olarak kaydetmeyi seçebilirsiniz. Kaydedilmemiş videolar %1$d gün sonra otomatik olarak silinecek.</item>
+  </plurals>
   <plurals name="gd_app_edit_desc">
     <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin.</item>
     <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin.</item>

@@ -240,4 +240,24 @@
     <item quantity="other">%1$s ses dosyası</item>
     <item quantity="one">%1$s ses dosyası</item>
   </plurals>
+  <plurals name="clean_app_data_selected_app">
+    <item quantity="other">Verileri temizlenecek %d uygulama seçildi</item>
+    <item quantity="one">Verileri temizlenecek %d uygulama seçildi</item>
+  </plurals>
+  <plurals name="dc_item_summary_app_reset">
+    <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulama çok fazla depolama alanı kullanıyor&lt;/Data></item>
+    <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> uygulama çok fazla depolama alanı kullanıyor&lt;/Data></item>
+  </plurals>
+  <plurals name="reset_app_selected_app">
+    <item quantity="other">Sıfırlanacak %d uygulama seçildi</item>
+    <item quantity="one">Sıfırlanacak %d uygulama seçildi</item>
+  </plurals>
+  <plurals name="select_app">
+    <item quantity="other">%d uygulama seçildi</item>
+    <item quantity="one">%d uygulama seçildi</item>
+  </plurals>
+  <plurals name="unload_app_selected_app">
+    <item quantity="other">Kaldırılacak %d uygulama seçildi</item>
+    <item quantity="one">Kaldırılacak %d uygulama seçildi</item>
+  </plurals>
 </resources>

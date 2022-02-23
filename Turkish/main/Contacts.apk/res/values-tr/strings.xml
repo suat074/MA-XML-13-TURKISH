@@ -1533,4 +1533,12 @@ Favori listenize kişi eklemek için:
   <string name="saf_permission_dialog_title">Kişiler ve Telefonun çağrı kayıtlarına erişmesine izin verin</string>
   <string name="item_offical">Resmi</string>
   <string name="comma">Virgül</string>
+  <string name="calllog_record_none_toast">Gösterilecek çağrı kaydı yok</string>
+  <string name="new_saf_permission_dialog_content">"Kişiler izinleri güncellendi. Kişiler için çağrı kayıtlarına erişim izni verin.
+
+İzin vermek için
+\"%1$s\" öğesine dokunun, ardından \"%2$s\" öğesini seçin."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Sonraki</string>
+  <string name="new_saf_permission_dialog_title"><b>Gerekli izinler</b></string>
+  <string name="this_folder">Bu klasörü kullan</string>
 </resources>

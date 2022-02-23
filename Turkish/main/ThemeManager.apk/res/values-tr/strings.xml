@@ -1482,4 +1482,21 @@ Bu izni Ayarlar > Gizlilik bölümünden verebilirsiniz."</string>
   <string name="yesterday">Dün</string>
   <string name="show_exchange">Kullanım merkezi kısayolu</string>
   <string name="show_exchange_desc">Kullanım merkezi kısayolunu göster veya gizle</string>
+  <string name="current_device_not_support_superwallpaper_dialog_content">Süper duvar kağıtları bu cihazda desteklenmiyor</string>
+  <string name="deep_sea">Derin deniz</string>
+  <string name="deep_sea_resource_comment">Dünyadaki yaşamın kökeni</string>
+  <string name="exchange_code_dialog_title">Dikkat</string>
+  <string name="exchange_code_not_match_account_dialog_content">Bu kod zaten başka bir Mi Hesabı tarafından kullanılmış. Bu Mi Hesabı ile oturum açın ve tekrar deneyin.</string>
+  <string name="local_mode">Çevrimdışı mod</string>
+  <string name="local_mode_close">Çevrimdışı mod kapatılsın mı?</string>
+  <string name="local_mode_close_desc">Çevrimiçi hizmetleri kullanmak istiyorsanız çevrimdışı modu kapatın. Şimdi kapatılsın mı?</string>
+  <string name="local_mode_desc">Çevrimdışı mod yalnızca yerel içeriği kullanır ve çevrimiçi hizmetleri kullanmaz</string>
+  <string name="local_mode_hint">Çevrimdışı modu kullanıyorsunuz. Kapatmak için dokunun.</string>
+  <string name="local_mode_open">Çevrimdışı mod</string>
+  <string name="repeat_exchange_dialog_content">Kod kullanılamıyor. Şimdi başka ödüllerin durumu kontrol edilsin mi?</string>
+  <string name="repeat_exchange_dialog_positive_btn">Kontrol et</string>
+  <string name="repeat_exchange_dialog_title">Tekrar dene</string>
+  <string name="superwallpaper_has_bound_account_dialog_content">Bu duvar kağıdı zaten başka bir Mi Hesabı ile ilişkilendirilmiş. Bu Mi Hesabı ile oturum açın ve tekrar deneyin.</string>
+  <string name="theme_need_login_dialog_content">Devam etmek için Mi Hesabınızda oturum açın.</string>
+  <string name="theme_version_need_update_prompt_dialog_content">Devam etmek için Temaları %s veya sonraki bir sürüme güncelleyin</string>
 </resources>

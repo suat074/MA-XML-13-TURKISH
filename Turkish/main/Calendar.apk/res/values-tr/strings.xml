@@ -1103,4 +1103,18 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin."</string>
   <string name="show_menstruation_info">Regl bilgilerini göster</string>
   <string name="attendees">Katılımcı</string>
   <string name="pack_up">Kaldır</string>
+  <string name="already_num">%s\'den beri geçen süre</string>
+  <string name="count_down_date_view">Geri sayım</string>
+  <string name="date_view">Tarih</string>
+  <string name="in_progress">Devam ediyor</string>
+  <string name="near_agenda_view">Yaklaşan etkinlikler</string>
+  <string name="spec_agenda_view">Özel etkinlikler</string>
+  <string name="still_num">%s\'ye kadar olan süre</string>
+  <string name="today_no_event">Bugün için etkinlik yok.</string>
+  <string name="widget_normal_agenda_tip_empty">Bugün için etkinlik yok.</string>
+  <string name="widget_normal_agenda_today_done">Bugün için tüm etkinlikler tamamlandı.</string>
+  <string name="widget_normal_more_event">Daha fazla etkinlik</string>
+  <string name="widget_normal_new_event">Etkinlik ekle</string>
+  <string name="widget_normal_weekN">Hafta %d</string>
+  <string name="widget_spec_agenda_birth_today">Bugün</string>
 </resources>

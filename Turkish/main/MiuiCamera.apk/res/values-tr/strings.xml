@@ -1893,4 +1893,8 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="pref_camera_track_eye_preferred_description">Çerçevede bir kişi olduğunda gözleri odakta tutmak için göz hareketini takip edin</string>
   <string name="pref_camera_track_eye_preferred_title">Göz takibi odağı</string>
   <string name="pref_hybrid_video_mode_description">Yüksek çözünürlükte kaydedilen videoların renklerini ve dinamik aralığını geliştirmek için HLG teknolojisini kullanın</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
+  <string name="pref_camera_volumekey_function_entry_timer_new">Zamanlayıcı (%ds)</string>
 </resources>

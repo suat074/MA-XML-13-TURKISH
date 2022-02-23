@@ -36,6 +36,7 @@ Görüntülemek için dokunun"</string>
   <string name="app_notification_title">Ekran Kaydedici</string>
   <string name="auto_stop_title">Video başarıyla kaydedildi</string>
   <string name="battery_not_allowed" formatted="false">Pil 3%\'ten düşük olduğunda kayıt yapılamaz. Pilin en az 20% şarjı olduğundan emin olun.</string>
+  <string name="battery_not_allowed_warning">Pil %1$s değerinden düşük olduğunda kayıt yapılamaz. Pilin en az %2$s dolu olduğundan emin olun.</string>
   <string name="bit_rate">Video Kalitesi</string>
   <string name="bit_rate_summary">Yüksek kalite, daha büyük dosya boyutu anlamına gelir</string>
   <string name="bubble_text">Kayda başlamak için dokunun</string>
@@ -72,18 +73,26 @@ Görüntülemek için dokunun"</string>
   <string name="hint_volume_down">Sesi Kıs</string>
   <string name="hint_volume_up">Sesi Aç</string>
   <string name="home_title_none">Öğe seç</string>
+  <string name="invisible_mode_error_tip">Mikrofonu kullanabilmek için Ayarlar\'dan Gizli modu kapatın</string>
   <string name="is_checked">Seçili</string>
   <string name="is_go_home">Ekran kaydediciye geri dön</string>
   <string name="is_go_home_summary">Kaydı durdurduktan sonra Ekran kaydedicinin başlangıç sayfasını aç</string>
   <string name="loopback_sound">Hoparlör</string>
   <string name="low_battery">Kayda başlamadan önce telefonunuzu şarj edin</string>
+  <string name="low_battery_for_pad">Kayda başlamadan önce cihazınızı şarj edin</string>
   <string name="low_battery_title">Düşük pil</string>
   <string name="low_battery_warning">Pil çok düşük. Kayıt durduruldu ve video kaydedildi.</string>
   <string name="low_memory">1GB\'dan daha az kullanılabilir depolama alanınız var. Şimdi 20 dakika kayıt yapabilirsiniz.</string>
+  <string name="low_memory_for_pad">%1$d GB\'tan az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz.</string>
+  <string name="low_memory_for_phone">%1$d GB\'den daha az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz.</string>
   <string name="low_memory_title">Yeterli depolama alanı yok</string>
   <string name="low_momery_warning">Yeterli depolama alanı yok. Kayıt durduruldu ve video kaydedildi.</string>
   <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt için bir miktar yer açın.</string>
   <string name="mic_sound">Mikrofon</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">yenileniyor…</string>
@@ -92,20 +101,35 @@ Görüntülemek için dokunun"</string>
   <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh">Sadece bir saniye…</string>
   <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
+  <string name="new_saf_permission_dialog_content">"Kaydedici izinleri güncellendi. Kaydedicinin çağrı kayıtlarına erişmesine izin verin.
+
+İzin vermek için
+\"%1$s\" öğesine dokunun, ardından \"%2$s\" öğesini seçin."</string>
+  <string name="new_saf_permission_dialog_grant_permission_immediately">Sonraki</string>
   <string name="no_recorder_info">Video yok</string>
   <string name="no_recorder_info2">Kaydı başlatmak için düğmeye dokunun</string>
   <string name="no_sound">Sessiz</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="operation_delete">Sil</string>
   <string name="operation_send">Gönder</string>
+  <string name="permission_desc">İzin ayrıntıları</string>
   <string name="permission_intro_microphone">Ses kaynağı mikrofona ayarlandığında ses kaydetmek için</string>
   <string name="permission_intro_storage">Ekran kayıtlarını kaydetmek için</string>
   <string name="permission_microphone_desc">Mikrofonu ekran kayıtları için ses kaynağı olarak kullanma</string>
+  <string name="permission_read_phone_state">Cihaz bilgilerine erişim</string>
+  <string name="permission_read_phone_state_description">Çağrı alırken kaydı otomatik olarak durdurma amacıyla çağrı durumuna erişmek için</string>
   <string name="preference_copied">\"%1$s\" panoya kopyalandı.</string>
+  <string name="privacy_settings">Gizlilik</string>
+  <string name="progress">Oynatma ilerleme çubuğu</string>
   <string name="quit_recording">Ekran Kaydediciden çıkıldı</string>
   <string name="recording_without_mic">Mikrofon meşgul ve şimdi ses kaydedemiyor.</string>
   <string name="resolution">Çözünürlük</string>
   <string name="resolution_summary">Daha yüksek çözünürlüklü videolar daha keskin görünür</string>
+  <string name="saf_permission_dialog_content">Android kısıtlamaları nedeniyle, Kaydedici\'nin diğer uygulamalar tarafından yapılan kayıtlara erişmesi için izne ihtiyacı var. Kaydedicinin bu kayıtları görüntüleyebilmesi için bu kayıtlara erişmesine izin verin.</string>
+  <string name="saf_permission_dialog_grant_permission_immediately">Ayarlar</string>
+  <string name="saf_permission_dialog_later">Hayır teşekkürler</string>
+  <string name="saf_permission_dialog_no_more_tip">Tekrar gösterme</string>
+  <string name="saf_permission_dialog_title">Gerekli izinler</string>
   <string name="screen_orientation">Oryantasyon</string>
   <string name="screen_orientation_summary">Kaydedilen videoları ekrana uydur</string>
   <string name="screen_record_option">Kayıt seçenekleri</string>
@@ -115,6 +139,7 @@ Görüntülemek için dokunun"</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_other">Diğer</string>
   <string name="settings_privacy">Gizlilik Politikası</string>
+  <string name="settings_saf_permission">Dosya yönetimi izinleri</string>
   <string name="show_hard_key">Gezinme düğmelerini görselleştir</string>
   <string name="show_hard_key_new">Düğme dokunuşlarını göster</string>
   <string name="show_hard_key_summary">Ev, menü ve geri düğmelerine basıldığında istemleri göster</string>
@@ -130,6 +155,7 @@ Görüntülemek için dokunun"</string>
   <string name="stop_record_while_locking_summary">Ekranı kilitlediğinizde kayıt sonlandırılır ve video kaydedilir</string>
   <string name="storage_location">Depolama</string>
   <string name="storage_location_summary">Tercih ettiğiniz depolama seçeneğini seçin</string>
+  <string name="this_folder">Bu klasörü kullan</string>
   <string name="timer_format">%s</string>
   <string name="unchecked">Seçili değil</string>
   <string name="uninstall_warning_content">Ekran kaydedici bir sistem uygulamasıdır. Kaldırdıktan sonra ekran videoları kaydedemezsiniz.</string>
@@ -138,24 +164,8 @@ Görüntülemek için dokunun"</string>
   <string name="using_record_confirm_ok">İzin ver</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
-  <string name="view_recorded_file">Kaydedilen dosyayı görüntülemek için dokunun</string>
-  <string name="warning_recording_when_a2dp_connect">Cihazınızda Bluetooth kulaklık kullanılırken sistem seslerini kayıt desteklenmez.</string>
-  <string name="low_battery_for_pad">Kayda başlamadan önce cihazınızı şarj edin</string>
-  <string name="low_memory_for_pad">%1$d GB\'tan az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz.</string>
-  <string name="view_recorded_videos">Kayıtları görüntüle</string>
-  <string name="miuix_access_state_desc">Seçili</string>
-  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
-  <string name="miuix_indexer_selected">%s seçili</string>
-  <string name="permission_desc">İzin ayrıntıları</string>
-  <string name="privacy_settings">Gizlilik</string>
   <string name="view_privacy">Gizlilik Politikasını görüntüle</string>
-  <string name="invisible_mode_error_tip">Mikrofonu kullanabilmek için Ayarlar\'dan Gizli modu kapatın</string>
-  <string name="miuix_indexer_collect">Koleksiyonlar</string>
-  <string name="progress">Oynatma ilerleme çubuğu</string>
-  <string name="saf_permission_dialog_content">Android kısıtlamaları nedeniyle, Kaydedici\'nin diğer uygulamalar tarafından yapılan kayıtlara erişmesi için izne ihtiyacı var. Kaydedicinin bu kayıtları görüntüleyebilmesi için bu kayıtlara erişmesine izin verin.</string>
-  <string name="saf_permission_dialog_grant_permission_immediately">Ayarlar</string>
-  <string name="saf_permission_dialog_later">Hayır teşekkürler</string>
-  <string name="saf_permission_dialog_no_more_tip">Tekrar gösterme</string>
-  <string name="saf_permission_dialog_title">Gerekli izinler</string>
-  <string name="settings_saf_permission">Dosya yönetimi izinleri</string>
+  <string name="view_recorded_file">Kaydedilen dosyayı görüntülemek için dokunun</string>
+  <string name="view_recorded_videos">Kayıtları görüntüle</string>
+  <string name="warning_recording_when_a2dp_connect">Cihazınızda Bluetooth kulaklık kullanılırken sistem seslerini kayıt desteklenmez.</string>
 </resources>
