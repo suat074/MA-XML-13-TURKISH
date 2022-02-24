@@ -1983,12 +1983,14 @@ yükleme durumuna erişmesi gerekir. "</string>
   <string name="pa_olympic_medals_description">Olimpiyat madalyası sıralamasını kontrol edin</string>
   <string name="pa_operation_switch_summary">Son popüler widget\'ları görüntüleyin</string>
   <string name="pa_operation_switch_title">Popüler promosyonlar</string>
+  <string name="pa_recommend_add_btn">Başlat</string>
   <string name="pa_setting_privacy_perm_location">Konuma erişim</string>
   <string name="pa_setting_privacy_perm_location_desc">Süper yamaçlarda bölgesel lider tablosu sıralamanızı hesaplamak için</string>
   <string name="pa_ski_foreground_service_noitification_name">Konum erişimi</string>
   <string name="pa_ski_foreground_service_title">Uygulama kasası konumunuza erişmeye çalışıyor</string>
   <string name="pa_rtk_unlike_text">Sabitten kaldır</string>
   <string name="pa_picker_toast_count_limit_forbidden_for_type">Bu türden daha fazla widget eklenemez</string>
+  <string name="pa_recommend_add_btn">Başlat</string>
   <string name="pa_stock_change_cp_code_alert">Bu işlem verilerin düzgün görüntülenememesine neden olabilir.</string>
   <string name="pa_stock_change_cp_code_error">Veri kaynağı değiştirilemedi</string>
   <string name="pa_stock_change_cp_code_progress_msg">Veri eşitleniyor…</string>
