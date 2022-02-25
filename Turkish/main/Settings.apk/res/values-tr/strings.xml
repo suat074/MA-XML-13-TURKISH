@@ -6891,8 +6891,8 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
   <string name="short_summary_font_size">Metni büyüt veya küçült</string>
   <string name="shoulder_key_diagram">Demo</string>
   <string name="shoulder_key_game_light_settings">Animasyonlar</string>
-  <string name="shoulder_key_settings">Omuz düğmeleri</string>
-  <string name="shoulder_key_settings_title">Omuz düğmeleri</string>
+  <string name="shoulder_key_settings">Açılır pencere tetikleyicileri</string>
+  <string name="shoulder_key_settings_title">Açılır pencere tetikleyicileri</string>
   <string name="shoulder_key_shortcut_double_click">Çift basın</string>
   <string name="shoulder_key_shortcut_launch_camera">Kamera</string>
   <string name="shoulder_key_shortcut_launch_screen_recorder">Kayıt ekranı</string>

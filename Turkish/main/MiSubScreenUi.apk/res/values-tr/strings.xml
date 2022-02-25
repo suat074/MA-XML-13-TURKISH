@@ -349,4 +349,5 @@
     <string name="contentDescripton_vertical_center">Dikey düzen. Merkeze hizalanmış.</string>
     <string name="contentDescripton_vertical_left">Dikey düzen. Sola hizalanmış.</string>
     <string name="contentDescripton_vertical_right">Dikey düzen. Sağa hizalanmış.</string>
+	<string name="miplay_service_timeout_toast">Bağlantı zaman aşımına uğradı, daha sonra tekrar deneyin</string>
 </resources>

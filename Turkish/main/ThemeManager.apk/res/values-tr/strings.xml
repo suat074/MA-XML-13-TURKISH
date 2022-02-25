@@ -1499,4 +1499,8 @@ Bu izni Ayarlar > Gizlilik bölümünden verebilirsiniz."</string>
   <string name="superwallpaper_has_bound_account_dialog_content">Bu duvar kağıdı zaten başka bir Mi Hesabı ile ilişkilendirilmiş. Bu Mi Hesabı ile oturum açın ve tekrar deneyin.</string>
   <string name="theme_need_login_dialog_content">Devam etmek için Mi Hesabınızda oturum açın.</string>
   <string name="theme_version_need_update_prompt_dialog_content">Devam etmek için Temaları %s veya sonraki bir sürüme güncelleyin</string>
+  <string name="application_notify_title">Dikkat</string>
+  <string name="configure_success_not_enable_aod">Başarıyla uygulandı. Temanın etkili olması için Her zaman açık ekran özelliğini aktif edin.</string>
+  <string name="super_wallpaper_dialog_content">Pil tasarrufu, duvar kağıtlarının hareketli özelliklerini kapatır.</string>
+  <string name="video_wallpaper_apply_warning">Bu duvar kağıdı hem Ana ekranınıza hem de Kilit ekranınıza uygulanacak. Şimdi uygulansın mı?</string>
 </resources>

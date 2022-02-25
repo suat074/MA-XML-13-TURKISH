@@ -279,7 +279,7 @@
   <string name="hsv_space_color_saturation">Doygunluk</string>
   <string name="hsv_space_color_value">Değer</string>
   <string name="intelligent_radio_btn_summary">Performansı güç tüketimiyle dengelemek için senaryolara göre yenileme hızını dinamik olarak ayarlayın</string>
-  <string name="intelligent_radio_btn_title">Oto. (önerilen)</string>
+  <string name="intelligent_radio_btn_title">Varsayılan (önerilir)</string>
   <string name="intelligent_recognition_item_summary">Teslimat ve taksi hizmetlerinden gelen çağrılar için belirlenmiş bir zil sesi kullanın. Bu özellik, %s varsayılan zil sesiniz olarak ayarlandığında çalışacaktır.</string>
   <string name="intelligent_recognition_item_title">Hizmetleri tanımla</string>
   <string name="item_anura">Kuyruksuz kurbağa</string>

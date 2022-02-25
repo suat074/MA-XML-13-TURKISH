@@ -374,6 +374,10 @@
   <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_policy_title">Gizlilik Politikası</string>
   <string name="reach_upper_limit">Daha fazla zamanlayıcı eklenemiyor</string>
+  <string name="read_phone_state">Cihaz bilgilerine erişim</string>
+  <string name="read_phone_state_desc">Alarm çalarken çağrı durumuna erişim</string>
+  <string name="read_phone_state_desc_when_request">Çağrı alırken alarmları otomatik olarak duraklatmak amacıyla çağrı durumuna erişmek için</string>
+  <string name="remark_hint">Etiket girin</string>
   <string name="remind_ringtone">Zil Sesi</string>
   <string name="repeat_count">Tekrar</string>
   <string name="reset">Sıfırla</string>
