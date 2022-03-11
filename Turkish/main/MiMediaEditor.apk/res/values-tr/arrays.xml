@@ -31,6 +31,8 @@
     <item>Sis</item>
   </string-array>
   <string-array name="magic_effects_description">
+    <item>Fütüristik geometrik arka plan</item>
+    <item>Eski ana baskıların atmosferi</item>
     <item>Arka planları eskizlere dönüştürün</item>
     <item>Suluboya tarzı arka planlar</item>
     <item>Cyberpunk retro</item>
@@ -39,6 +41,8 @@
     <item>Fütüristik his</item>
   </string-array>
   <string-array name="magic_effects_title">
+    <item>Düşük poli</item>
+    <item>Aşındırma</item>
     <item>Eskiz</item>
     <item>Suluboya</item>
     <item>RGB</item>
