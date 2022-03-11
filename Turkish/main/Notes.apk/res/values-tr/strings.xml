@@ -797,4 +797,21 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="action_expand">Daha fazla göster</string>
   <string name="canvas_is_too_large_to_share_phone">Bu öğe paylaşılamayacak kadar büyük</string>
   <string name="hand_write_syncing_phone">Eşitleniyor…</string>
+  <string name="alert_message_edit_anyway_new">Bu not, desteklenmeyen içerik barındırmaktadır. Düzenlemek, biçim değişikliklerine veya veri kaybına neden olabilir.</string>
+  <string name="error_unsupport_content_format">Bu not, desteklenmeyen içerik barındırmaktadır. %1$s veya sonraki bir sürüme güncelleyin.</string>
+  <string name="setting_big_screen_layout_columns">Kenar çubuğu</string>
+  <string name="setting_big_screen_layout_flat">Döşe</string>
+  <string name="setting_big_screen_layout_title">Geniş ekran düzeni</string>
+  <string name="setting_layout">Düzen</string>
+  <string name="setting_micloud_sync_title">Bulut ile eşitle</string>
+  <string name="setting_note_list_layout_title">Düzen</string>
+  <string name="warn_cannot_add_new_bullet">Not çok uzun olduğu için yeni madde işaretli liste eklenemiyor</string>
+  <string name="warn_cannot_add_new_checkbox">Not çok uzun olduğu için yeni onay kutusu eklenemiyor</string>
+  <string name="warn_cannot_add_new_doodle">Not çok uzun olduğu için yeni doodle eklenemiyor</string>
+  <string name="warn_cannot_add_new_element">Not çok uzun olduğu için yeni öğe eklenemiyor</string>
+  <string name="warn_cannot_add_new_link_card">Not çok uzun olduğu için yeni bağlantı eklenemiyor</string>
+  <string name="warn_cannot_add_new_picture">Not çok uzun olduğu için yeni resim eklenemiyor</string>
+  <string name="warn_cannot_add_new_style">Not çok uzun olduğu için yeni biçim eklenemiyor</string>
+  <string name="warn_disable_edit_in_browse_mode">Salt okunur modda notları düzenleyemezsiniz</string>
+  <string name="warn_enter_browse_mode">Salt okuma modundasınız</string>
 </resources>

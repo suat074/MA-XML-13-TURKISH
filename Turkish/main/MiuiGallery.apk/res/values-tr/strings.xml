@@ -1649,8 +1649,8 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="send_file_beautify_failed">Paylaşılamadı</string>
   <string name="send_files_by">Dosyaları paylaş</string>
   <string name="send_files_to">Öğeleri gönder</string>
-  <string name="send_heif_summary">Uyumluluğu sağlamak için HEIF görüntüleri JPEG\'e dönüştürün</string>
-  <string name="send_heif_title">Göndermeden önce HEIF\'i JPEG\'e dönüştür</string>
+  <string name="send_heif_summary">HEIF görüntülerini göndermeden önce JPEG\'e dönüştürün</string>
+  <string name="send_heif_title">Göndermeden önce HEIF\'i dönüştür</string>
   <string name="send_multiple_files_hint_format">Gönder (%s)</string>
   <string name="send_public_url">Albüm URL\'sini gönder</string>
   <string name="send_secret_file_failed">Paylaşılamadı</string>
@@ -3151,4 +3151,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="privacy_reject_map_detail_new"><Data>"&lt;a href=\"%1$s\">Galeri Haritası Üçüncü Taraf Veri Paylaşımı Bildirimi&lt;/a> ile ilgili onayınızı geri çekmeniz, Galeri Haritası hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Diğer Galeri özelliklerini normal şekilde kullanmaya devam edebileceksiniz. Onayınız şimdi geri çekilsin mi?"</Data></string>
   <string name="privacy_rejected_map_new">Galeri Haritası Üçüncü Taraf Veri Paylaşım Beyanı onayının geri çekilmesi</string>
   <string name="privacy_rejected_pos_btn">Geri çek</string>
+  <string name="cloud_full_space_tip_title_completely">Bulut depolama alanı dolu</string>
+  <string name="last_some_performance_title">Gördüğüm şeyler</string>
+  <string name="operation_upgrade_gallery">Güncelle</string>
 </resources>

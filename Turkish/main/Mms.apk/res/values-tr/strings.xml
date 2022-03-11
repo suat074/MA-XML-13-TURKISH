@@ -1403,4 +1403,15 @@ SIM kartınızı kontrol edin."</string>
   <string name="conv_item_official">Resmi</string>
   <string name="conv_item_risk_tip">Risk</string>
   <string name="menu_report">Geri bildirim</string>
+  <string name="mms_mi_message_main_purpose">Mi Mesaj\'a Hoş geldiniz! Mi Mesaj\'ı etkinleştirmek için giden bir SMS mesajı gereklidir. Operatörünüz bu mesaj için sizden ücret alabilir.</string>
+  <string name="mms_mi_message_request_notice">Mi Mesaj\'dan en iyi şekilde yararlanmanızı istiyoruz.</string>
+  <string name="mms_mx_privacy_policy">Mi Mesaj Gizlilik Politikası</string>
+  <string name="mms_smart_msg_main_purpose">Akıllı Mesajlaşma, gönderen kimliklerini tanıyabilir, akıllı menü hizmetleri sağlayabilir ve şüpheli mesajları belirleyebilir.</string>
+  <string name="mms_smart_msg_privacy_policy">Akıllı Mesajlaşma Gizlilik Politikası</string>
+  <string name="mms_user_agreement">Kullanıcı Sözleşmesi</string>
+  <string name="system_permission_declare_mi_message">Mi Mesaj\'a hoş geldiniz!</string>
+  <string name="system_permission_declare_rcs">5G Mesajlaşma\'ya hoş geldiniz!</string>
+  <string name="system_permission_declare_smart_message">Akıllı Mesajlaşma\'ya hoş geldiniz!</string>
+  <string name="system_permission_declare_user_agree">Kabul et</string>
+  <string name="system_permission_user_privacy">Devam etmeden önce aşağıdaki hüküm ve koşulları okuyun ve kabul edin.</string>
 </resources>

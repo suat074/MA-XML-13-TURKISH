@@ -1799,27 +1799,27 @@ Sıraları kaydedin ve istediğiniz zaman kullanın!"</string>
   <string name="gb_performance_tips">"Performans modu grafik performansını iyileştirir,
 ancak güç tüketimini artırır ve cihazınızın aşırı ısınmasına izin verir"</string>
   <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
-  <string name="gb_shoulder_key">Kol düğmeleri</string>
+  <string name="gb_shoulder_key">Açılır pencere tetikleyicileri</string>
   <string name="gb_shoulder_key_add_show_btn">Oyunlar sırasında sanal düğmeleri göster</string>
-  <string name="gb_shoulder_key_add_tips">[L] ve [R] düğmelerini herhangi bir işlevsel konuma getirin ve kol düğmeleriyle kullanın</string>
+  <string name="gb_shoulder_key_add_tips">[L] ve [R] öğelerini herhangi bir işlevsel konuma getirin ve bunları açılır tetikleyicilerle kullanın</string>
   <string name="gb_shoulder_key_btn_cancel">İptal</string>
   <string name="gb_shoulder_key_btn_save_exit">Kaydet</string>
   <string name="gb_shoulder_key_circle_left">L</string>
   <string name="gb_shoulder_key_circle_right">R</string>
-  <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki omuz düğmesini aynı anda kullanın.</string>
-  <string name="gb_shoulder_key_dialog_txt">Kol düğmelerini kullanarak Game Turbo\'yu açabilirsiniz.</string>
+  <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki açılır tetikleyiciyi aynı anda kullanabilirsiniz.</string>
+  <string name="gb_shoulder_key_dialog_txt">Açılır tetikleyicileri kullanarak Game Turbo\'yu açabilirsiniz.</string>
   <string name="gb_shoulder_key_guide_btn_done">Anladım</string>
   <string name="gb_shoulder_key_guide_btn_next">Sonraki</string>
-  <string name="gb_shoulder_key_guide_tips">Bir profesyonel gibi oynamak için kol düğmelerini yapılandırın!</string>
-  <string name="gb_shoulder_key_guide_tips1">Araç kutusunu açın ve kol düğmelerini yapılandırın</string>
+  <string name="gb_shoulder_key_guide_tips">Bir profesyonel gibi oynamak için açılır tetikleyicileri yapılandırın!</string>
+  <string name="gb_shoulder_key_guide_tips1">Araç kutusunu açın ve açılır tetikleyicileri yapılandırın</string>
   <string name="gb_shoulder_key_light_effect">Renkli animasyonlar</string>
   <string name="gb_shoulder_key_light_effect_color">Renk</string>
-  <string name="gb_shoulder_key_light_effect_subtitle">Omuz düğmeleri açıkken ve oyun oynarken renkli animasyonlar görüntülenecektir.</string>
+  <string name="gb_shoulder_key_light_effect_subtitle">Açılır tetikleyiciler açıkken ve oyun oynarken renkli animasyonlar görüntülenecektir</string>
   <string name="gb_shoulder_key_light_effect_title">Animasyonlar</string>
   <string name="gb_shoulder_key_settings_guide_tips1">Yapılandırmayı bitirmek için [L] ve [R] düğmelerini herhangi bir işlevsel konuma getirin</string>
-  <string name="gb_shoulder_key_settings_guide_tips2">Oyunlar sırasında onlara atadığınız özellikler için kol düğmelerini kullanın</string>
-  <string name="gb_shoulder_key_settings_summary">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki omuz düğmesini kullanın</string>
-  <string name="gb_shoulder_key_settings_title">Game Turbo için omuz düğmelerini kullanın</string>
+  <string name="gb_shoulder_key_settings_guide_tips2">Oyun sırasında onlara atadığınız özellikler için açılır tetikleyicileri kullanın</string>
+  <string name="gb_shoulder_key_settings_summary">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki açılır tetikleyiciyi de kullanabilirsiniz</string>
+  <string name="gb_shoulder_key_settings_title">Oyun oynamadığınız zamanlarda Game Turbo\'yu başlatmak için her iki açılır tetikleyiciyi kullanın</string>
   <string name="gb_shoulder_key_settings_title_new">Game Turbo hızlı başlatma</string>
   <string name="gb_sign_gift">Ödüller almak için giriş yapın</string>
   <string name="gb_sign_gift_button_text">Alınan</string>
@@ -5180,4 +5180,9 @@ sıcaklık sınırlarını düşürürken güç tasarrufu sağlar"</string>
   <string name="first_aid_card_consume_power_summary_app">%d taneden fazla uygulamanın otomatik olarak başlatılmasına izin veriliyor. Pil tasarrufu için kısıtlayın.</string>
   <string name="system_anti_fraud_dialog_message">Dolandırıcılığa karşı koruma</string>
   <string name="system_anti_fraud_dialog_title2">Dolandırıcılığa karşı uyarı</string>
+  <string name="app_manager_mobile_slot">Mobil veri (SIM %d)</string>
+  <string name="applock_lock_mode_locked">Cihaz kilitlendiğinde</string>
+  <string name="applock_lock_mode_locked_or_exit">Cihaz kilitlendiğinde veya uygulamadan çıktıktan sonra </string>
+  <string name="applock_lock_mode_locked_or_exit_or_wait">Cihaz kilitlendiğinde veya uygulamadan çıktıktan sonra %d dakika içinde</string>
+  <string name="title_flow_verify_failed_new">%d gün üst üste ayarlanamadı</string>
 </resources>

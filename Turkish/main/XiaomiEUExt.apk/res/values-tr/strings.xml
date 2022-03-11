@@ -21,6 +21,7 @@
   <string name="add">Ekle</string>
   <string name="afternoon">Öğleden sonra</string>
   <string name="app_name">Xiaomi.eu Uzantısı</string>
+  <string name="auto">Otomatik</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="close">Kapat</string>
   <string name="confirm_reset">Sıfırlamayı onayla</string>
@@ -143,5 +144,6 @@
   <string name="wednesday">Çarşamba</string>
   <string name="wednesday_short">Çrş</string>
   <string name="wednesday_shortest">Çrş</string>
+  <string name="wifi_region">Wi-Fi bölgesi</string>
   <string name="yesterday">Dün</string>
 </resources>

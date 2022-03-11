@@ -1993,4 +1993,11 @@ yükleme durumuna erişmesi gerekir. "</string>
   <string name="pa_stock_change_cp_code_error">Veri kaynağı değiştirilemedi</string>
   <string name="pa_stock_change_cp_code_progress_msg">Veri eşitleniyor…</string>
   <string name="pa_stock_data_source_label">Veri kaynağı seçin</string>
+  <string name="pa_express_input_again">Tekrar girin</string>
+  <string name="pa_express_query_fail_content_input_again">Ekspres teslimatınız hakkında bilgi bulunamadı. Takip numaranızı kontrol edip tekrar deneyin.</string>
+  <string name="pa_express_query_fail_content_manual_select">Ekspres teslimatınız hakkında bilgi bulunamadı. Bunun yerine manuel olarak bir teslimat şirketi seçmeyi deneyin.</string>
+  <string name="pa_express_query_fail_title">Bilgi alınamadı</string>
+  <string name="pa_picker_detail_maml_downloading">Öğeler indiriliyor…</string>
+  <string name="pa_express_widget_logout">Ekspres teslimat paketlerinizi görüntülemek için oturum açın</string>
+  <string name="pa_express_widget_order_42">Takip numarasını girin</string>
 </resources>
