@@ -472,4 +472,22 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="virus_safe_install_mode_security_tips">Bu uygulamaya güveniyorsanız, Ayarlar > Uygulamalar > Güvenli mod bölümünden yüklenmesine izin verebilirsiniz.</string>
   <string name="virus_safe_install_mode_security_tips_pi">Bu uygulamaya güveniyorsanız, kurulumunu yetkilendirmek için Ayarlar simgesine dokunun ve \"Güvenli mod\" öğesini seçin.</string>
   <string name="xiaomi_account_risk">Mi Hesabı şifresi</string>
+  <string name="ad_developer">Geliştirici: %1$s</string>
+  <string name="ad_privacy">&lt;u>Gizlilik&lt;/u></string>
+  <string name="ad_publisher">Geliştirici: %1$s</string>
+  <string name="confirm_install">Yükle</string>
+  <string name="cpu_compatible_error">Bu uygulama 64 bit mimariyle tam uyumlu değil. Bunu kullanmak sistem performansını düşürebilir ve güç tüketimini artırabilir. Daha fazla bilgi için dokunun.</string>
+  <string name="dialog_install_source">Kaynak: %1$s</string>
+  <string name="fingerprint_authrioze_done">Başarıyla doğrulandı</string>
+  <string name="fingerprint_authrioze_retry">Tekrar deneyin</string>
+  <string name="fingerprint_authrioze_tips">Parmağınızı sensöre koyun</string>
+  <string name="fingerprint_authrioze_too_many_times">Çok fazla başarısız deneme. Bunun yerine ekran kilidinizi doğrulayın.</string>
+  <string name="lock_finger">Yüklemek için parmak izini doğrulayın</string>
+  <string name="lock_screen_password_authrioze">Yüklemek için ekran kilidini doğrulayın</string>
+  <string name="password_wrong_msg">Doğrulanamadı. Tekrar deneyin.</string>
+  <string name="please_input_phone_password">Ekran kilidini girin</string>
+  <string name="risk_install_already_open">Açık</string>
+  <string name="risk_install_no_open">Kapalı</string>
+  <string name="verify_account_close_title">Kapat</string>
+  <string name="verify_and_install">Yükle</string>
 </resources>

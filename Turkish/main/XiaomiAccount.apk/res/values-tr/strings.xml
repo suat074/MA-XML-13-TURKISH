@@ -29,6 +29,7 @@
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="about_device_info">Cihaz detaylarına gözat</string>
   <string name="accept">İzin ver</string>
+  <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="access_token_expired_warning">Weibo Hesabının süresi doldu</string>
   <string name="access_token_invalid_warning">Weibo Hesabı geçersiz</string>
   <string name="account">Hesap</string>
@@ -91,6 +92,8 @@
   <string name="add_account">Hesaba bağlan</string>
   <string name="agreement_and_privacy">Şartlar ve koşullar</string>
   <string name="app_name">Mi Hesabı</string>
+  <string name="area_code_no_search_result">Sonuç bulunamadı</string>
+  <string name="area_code_search_hint">Ülke veya bölge arayın</string>
   <string name="auth_fail_warning">Oturum süresi doldu, yeniden oturum açın</string>
   <string name="authorize_title">Yetkilendir</string>
   <string name="bind_facebook">Facebook hesabına bağlan</string>
@@ -302,6 +305,8 @@
   <string name="multi_user_not_show_sync_activity_title">Bulut ile eşitlemeyi açma</string>
   <string name="my_device_title">Geçerli cihaz</string>
   <string name="need_install_wechat">Önce WeChat\'i yükleyin</string>
+  <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin.</string>
   <string name="no_account_or_forget_password">Hesap oluşturun veya şifrenizi mi unuttunuz?</string>
   <string name="no_install">Yüklü değil</string>
   <string name="no_network_btn">Yenile</string>
@@ -594,6 +599,7 @@
   <string name="privacy_policy_reject_confirm_title">Mi Hesabını kullanamıyorum</string>
   <string name="privacy_policy_update_msg">Mi Hesabı Gizlilik Politikası güncellendi:&lt;br/>%1$s&lt;br/>Devam etmeden önce &lt;a href=%2$s>&lt;u>Gizlilik Politikası&lt;/u>&lt;/a> yeni sürümünü okuyun ve kabul edin.</string>
   <string name="privacy_policy_update_title">Güncellenmiş Gizlilik Politikası</string>
+  <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor…</string>
   <string name="provision_back">Geri</string>
   <string name="provision_next">Sonraki</string>
   <string name="provision_skip_underline">Atla</string>
@@ -663,6 +669,7 @@
   <string name="system_ad_summary">Sistem uygulamalarında az sayıda reklam gösterilmesine izin vermek için bu özelliği açın. Bu reklamlar ürünlerimizi ve hizmetlerimizi geliştirmemize ve iyileştirmemize yardımcı olur. İstediğiniz zaman bu özelliği kapatmayı seçebilirsiniz. Desteğin için teşekkürler!</string>
   <string name="system_ad_switch">Sistem uygulamalarındaki reklamlar</string>
   <string name="system_ad_switch_failed">Ayar uygulanamadı</string>
+  <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="talkback_scan_barcode">QR kodunu tarayın</string>
   <string name="temporary_not_available">Bu özellik henüz mevcut değil.</string>
   <string name="third_party_login">Üçüncü taraf hesapları</string>
@@ -676,6 +683,7 @@
   <string name="two_factor_auth_need_code_summary">Diğer bağlı Mi cihazlarında bir kod göreceksiniz. Oturum açmak için bu kodu yeni bir cihaza girin.</string>
   <string name="two_factor_auth_summary">Yeni bir cihazda veya yeni bir yerde oturum açmaya çalıştığınızda, diğer bağlı cihazlarda bu konuda bilgilendirilirsiniz. Bu tür oturum açma girişimlerinin sizin tarafınızdan onaylanıp onaylanmadığını onaylamanız gerekir.</string>
   <string name="unbind_sns_description">Bu hesabın bağlantısını kestikten sonra, Mi Hesabınızda oturum açmak için %s Hesap bilgilerini kullanamazsınız.</string>
+  <string name="unknown_error_info">Bilinmeyen hata</string>
   <string name="unlock_help_notice">Yardım:\n· Eğer şifrenizi unutursanız, id.mi.com adrese gidip sıfırlayın.\n· Şifrenizi sıfırlayamıyorsanız veya birileri cihazınızı kilitlediyse, kilidi açmak için i.mi.com adresine gidin.\n· Kilit açma numaranız: %s</string>
   <string name="update_email_address_dialog_message">E-postayı güncelleyebilmek için önce kimliğinizi doğrulamanız gerekir.</string>
   <string name="update_email_address_dialog_title">E-Postayı güncelle</string>

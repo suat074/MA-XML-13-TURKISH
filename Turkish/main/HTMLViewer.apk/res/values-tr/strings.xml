@@ -1,16 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources>
+  <string name="action_use_network">Kullan</string>
   <string name="ad_service">Reklam hizmeti</string>
   <string name="app_label">HTML Görüntüleyici</string>
   <string name="app_name_which_call">Uygulama: %s</string>
   <string name="app_version_which_call">Uygulama sürümü: %s</string>
   <string name="autoconnect">Otomatik bağlan</string>
+  <string name="close">Kapat</string>
+  <string name="copyright">Telif hakkı</string>
+  <string name="error_continue_via_browser">Ayrıntılar</string>
   <string name="ime_privacy_policy">Klavyeyi seç</string>
+  <string name="instruction">Önemli güvenlik bilgisi</string>
   <string name="legal_written_offer">Yazılı Teklif</string>
-  <string name="license_host_unreachable">"Ağa bağlanılamadı. Bu bilgiyi şimdi görüntülemek için, 
+  <string name="license_host_unreachable">"Ağa bağlanılamadı. Bu bilgiyi şimdi görüntülemek için,
 başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="loading">Sadece bir saniye…</string>
   <string name="mibi_license">Mi Kredi Kullanıcı Sözleşmesi</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağıya çekin</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
   <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -28,7 +37,10 @@ başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="poco_privacy_policy">POCO Başlatıcı Gizlilik Politikası &amp; POCO Başlatıcı Kullanıcı Sözleşmesi</string>
   <string name="policy_name">Kural: %s</string>
   <string name="pre_installed_apps">Önceden yüklenmiş uygulamalar</string>
+  <string name="privacy_policy">Gizlilik Politikası</string>
   <string name="privacy_station_title">Xiaomi\'de Gizlilik</string>
+  <string name="sar">RF Maruziyet Bilgileri</string>
+  <string name="send">Gönder</string>
   <string name="settings_ad_loading">Sadece bir saniye…</string>
   <string name="settings_ad_loading_unavailable">Yüklenirken bir sorun oluştu.</string>
   <string name="settings_license_activity_loading">Sadece bir saniye…</string>
@@ -38,16 +50,8 @@ başka bir bağlı cihazda %s konumuna gidin."</string>
   <string name="settings_safetylegal_activity_title">Güvenlik bilgisi</string>
   <string name="settings_safetylegal_activity_unreachable">"Ağa bağlanılamadı. Bu bilgileri şimdi görüntülemek için, internete bağlı herhangi bir bilgisayardan %s adresine gidin."</string>
   <string name="settings_safetylegal_title">Güvenlik Bilgisi</string>
-  <string name="copyright">Telif hakkı</string>
-  <string name="instruction">Önemli güvenlik bilgisi</string>
-  <string name="privacy_policy">Gizlilik Politikası</string>
-  <string name="sar">RF Maruziyet Bilgileri</string>
+  <string name="ssl_error_untrusted">Sertifika, güvenilir bir sertifika yetkilisi tarafından verilmedi. Yine de kullanılsın mı?</string>
   <string name="user_agreement">Kullanım Şartları</string>
   <string name="user_experience_program">Kullanıcı Deneyimi Programı</string>
   <string name="user_manual">Kullanici rehberi</string>
-  <string name="close">Kapat</string>
-  <string name="send">Gönder</string>
-  <string name="action_use_network">Kullan</string>
-  <string name="error_continue_via_browser">Ayrıntılar</string>
-  <string name="ssl_error_untrusted">Sertifika, güvenilir bir sertifika yetkilisi tarafından verilmedi. Yine de kullanılsın mı?</string>
 </resources>

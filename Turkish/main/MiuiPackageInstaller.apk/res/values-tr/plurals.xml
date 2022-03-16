@@ -31,5 +31,9 @@
   <plurals name="miui_app_privacy_permission_number">
     <item quantity="other">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> gizlilik ile ilgili izin&lt;/Data></item>
     <item quantity="one">&lt;Data>&lt;font color=#0D84FF>%d&lt;/font> gizlilik ile ilgili izin&lt;/Data></item>
+  </plurals>
+  <plurals name="password_wrong_retry_msg">
+    <item quantity="other">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin.</item>
+    <item quantity="one">Çok fazla başarısız deneme. %1$S saniye içinde tekrar deneyin.</item>
   </plurals>  
 </resources>

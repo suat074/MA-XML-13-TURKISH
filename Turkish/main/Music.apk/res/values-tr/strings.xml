@@ -1320,4 +1320,22 @@ Bu işlemi bir Wi-Fi ağına bağlandığınızda başlatmak için, %s seçeneğ
   <string name="you_can_switch_mode_in_settings">Ayarlar menüsünde modlar arasında geçiş yapabilirsiniz</string>
   <string name="you_may_like">Bunları da beğenebilirsiniz</string>
   <string name="youtube_play_history">Oynatma geçmişi</string>
+  <string name="best_experience">En iyi deneyim</string>
+  <string name="download_free">Müzik indir</string>
+  <string name="downloaded">İndirildi</string>
+  <string name="find_you_tunes">Melodilerinizi bulun</string>
+  <string name="free">Ücretsiz</string>
+  <string name="get_one_day_vip">%d günlük VIP kazandınız!</string>
+  <string name="get_one_hour_vip">%d saatlik VIP kazandınız!</string>
+  <string name="get_vip">VIP alın</string>
+  <string name="hifi_quality">Hi-Fi quality</string>
+  <string name="imported">Alındı</string>
+  <string name="just_hit_next">Sadece sonrakine ulaş</string>
+  <string name="listen_anywhere">Her yerde dinle</string>
+  <string name="millions_songs">Milyonlarca şarkı</string>
+  <string name="one_day_vip">%d günlük VIP</string>
+  <string name="one_hour_vip">%d-saatlik VIP</string>
+  <string name="unlimited_skips">Sınırsız atlamalar</string>
+  <string name="user_experience_program_open">Telif hakkı kısıtlamaları nedeniyle, indirilen şarkıları çalabilmek için Kullanıcı Deneyimi Programına kaydolmanız gerekir. Bunu Ayarlar > Şifreler ve güvenlik > Gizlilik > Kullanıcı Deneyimi Programına kaydol bölümünden yapabilirsiniz.</string>
+  <string name="watch_video">Video izle</string>
 </resources>

@@ -2735,7 +2735,7 @@ Cihazınız şimdi %d%% daha hızlı."</string>
   <string name="pc_fast_charge_notifi_action_text_on">Artır</string>
   <string name="pc_fast_charge_notifi_power_threshold_title">Hatırlatıcılar için pil seviyesini ayarlayın</string>
   <string name="pc_fast_charge_notifi_summary">Normalden %s daha hızlı şarj oluyor…</string>
-  <string name="pc_fast_charge_notifi_summary_on">Bu özellik cihazınızı ısıtabilir</string>
+  <string name="pc_fast_charge_notifi_summary_on">Ekran kapalıyken şarj hızı artırılır. Cihazınız ısınacaktır.</string>
   <string name="pc_fast_charge_notifi_switch_summary">Ürünle verilen %dW şarj cihazı bağlandığında ve pil ayarlanan seviyenin altında olduğunda şarj hızını artırma hakkında bilgi verin</string>
   <string name="pc_fast_charge_notifi_switch_title">Artırma hakkında bilgilendir</string>
   <string name="pc_fast_charge_notifi_title">%dW şarj</string>
@@ -4915,7 +4915,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
   <string name="vb_video_effects_3d">Surround ses</string>
   <string name="vb_video_effects_3d_summary">Kulaklıklar ve hoparlörler için ses üretim derinliğini artırın</string>
   <string name="vb_video_effects_3d_summary_headset">Kulaklıkta ses dinlerken daldırma ve sarma hissini artırın</string>
-  <string name="vb_video_effects_3d_surround">Surround ses</string>
+  <string name="vb_video_effects_3d_surround">Sanal sürükleyici ses</string>
   <string name="vb_video_effects_display_style">Stil</string>
   <string name="vb_video_effects_dolby_dialog_enhancer">Gelişmiş diyalog</string>
   <string name="vb_video_effects_dolby_headset">" (Sadece kulaklık)"</string>
@@ -5162,7 +5162,7 @@ Bu özellik hareket düzgünleştirme ile çalışmaz.
   <string name="gb_shoulder_guide_title2">Sıra</string>
   <string name="gb_shoulder_set_left_right">Ayarla [%s]</string>
   <string name="gb_shoulder_set_title">Bunları yapılandırmak için omuz düğmelerini açın</string>
-  <string name="gb_shoulder_set_title2">[%s] öğesini herhangi bir işlevsel konuma taşıyın ve omuz düğmesiyle kullanın</string>
+  <string name="gb_shoulder_set_title2">[%s] öğesini herhangi bir işlevsel konuma taşıyın ve açılır tetikleyiciler aracılığıyla kullanın</string>
   <string name="gb_shoulder_single_trigger">Aksiyon</string>
   <string name="gb_shoulder_subsection_down">Bas</string>
   <string name="gb_shoulder_subsection_trigger">Sıra</string>
@@ -5185,4 +5185,27 @@ sıcaklık sınırlarını düşürürken güç tasarrufu sağlar"</string>
   <string name="applock_lock_mode_locked_or_exit">Cihaz kilitlendiğinde veya uygulamadan çıktıktan sonra </string>
   <string name="applock_lock_mode_locked_or_exit_or_wait">Cihaz kilitlendiğinde veya uygulamadan çıktıktan sonra %d dakika içinde</string>
   <string name="title_flow_verify_failed_new">%d gün üst üste ayarlanamadı</string>
+  <string name="gtb_after_acceleration">Sonra</string>
+  <string name="gtb_auto_memory_clean">Hafızayı otomatik temizle</string>
+  <string name="gtb_before_acceleration">Önce</string>
+  <string name="gtb_brightness_adjust">Parlaklık</string>
+  <string name="gtb_deep_garbage_cleaning">Derin temizlik yapılıyor…</string>
+  <string name="gtb_dnd">Rahatsız etme</string>
+  <string name="gtb_garbage_clean">Depolama alanını boşaltın</string>
+  <string name="gtb_garbage_cleaned_tip">Performansı artırmak için %1$s yer açın</string>
+  <string name="gtb_intelligent_garbage_clean">Depolama alanını boşaltın</string>
+  <string name="gtb_memory_clean">Hafızayı temizle</string>
+  <string name="gtb_mode_normal">Normal</string>
+  <string name="gtb_mode_performance">Performans</string>
+  <string name="gtb_open_performance_mode_tip">Performans modu, güç tüketimini artırırken cihazınızı ısıtır ve oyun deneyiminizi geliştirir.</string>
+  <string name="gtb_phone_accelerate">Performansı artır</string>
+  <string name="gtb_realtime_performance_monitoring">Performansı izle</string>
+  <string name="gtb_screenrecord">Kayıt</string>
+  <string name="gtb_screenshot">Ekran görüntüsü</string>
+  <string name="gtb_screenshot_pinned">Ekran görüntüsü</string>
+  <string name="gtb_setting">Ayarlar</string>
+  <string name="gtb_start_phone_accelerate">Artır</string>
+  <string name="gtb_stop_accelerate">Durdur</string>
+  <string name="gtb_timer">Zamanlayıcı</string>
+  <string name="gtb_voice_changer">Ses değiştirici</string>
 </resources>

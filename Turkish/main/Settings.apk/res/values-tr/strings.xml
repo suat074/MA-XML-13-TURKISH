@@ -681,7 +681,7 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
   <string name="auto_caps_summary">Cümlelerde ilk harfi büyük yaz</string>
   <string name="auto_clean_description">"Bu özellik hakkında
 1. Hoparlörünüzün tozdan hafifçe tıkandığını tespit ederseniz, bu özelliği bir veya iki kez çalıştırın.
-2. Hoparlör çok fazla tıkalıysa, bu özelliği  hoparlör aşağı bakacak şekilde cihazınızı sallayarak 2-5 kez çalıştırın."</string>
+2. Hoparlör çok fazla tıkalıysa, bu özelliği  hoparlör aşağı bakacak şekilde cihazınızı sallayarak %1$d-%2$d kez çalıştırın."</string>
   <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
   <string name="auto_clean_summary_new">Hoparlörü temizlemek için %d-saniyelik bir ses çalın. Önemli miktarda kir için bu özelliği arka arkaya birden çok kez kullanın.</string>
   <string name="auto_clean_title">Hoparlörü temizle</string>
@@ -7183,6 +7183,10 @@ Kişileri acil durum kişileri olarak işaretlemek için
 Acil durum kişilerine metin iletileri göndermek için
 • Konuma erişme
 Konumunuzu acil durum kişileriyle paylaşmak için
+• Ses kaydı
+Ortam sesi kayıtlarını acil durum kişilerine göndermek için
+• Kamera kullanma
+Acil durum kişilerine fotoğraf göndermek için
 Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve karşıya yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda Acil Durum SOS'u kapatmayı veya kullanmamayı seçebilirsiniz.
 Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin."</string>
   <string name="sos_privacy_dialog_title">Şartlar ve Koşullar</string>
@@ -9565,4 +9569,37 @@ Ayarları şu şekilde güncelle:
   <string name="time_format_entries_2">%d-saat 13:00</string>
   <string name="time_format_entries_3">Otomatik (sistem diline göre)</string>
   <string name="use_system_preference">Sistem tercihini kullan (Varsayılan)</string>
+  <string name="bt_aptx_adaptive_open_dialog_summary">aptX Adaptif, yüksek kaliteli oynatma sağlar ve güç tüketimini artırırken oyunlar ve videolar için ses gecikmesini azaltır. Bluetooth donanım sınırlamaları ve çevresel parazit nedeniyle oynatma kesintiye uğrayabilir.</string>
+  <string name="bt_aptx_adaptive_open_dialog_title">AptX Adaptif\'e geçilsin mi?</string>
+  <string name="bt_lc3plus_open_dialog_summary">LC3plus, yüksek kaliteli oynatma sağlar, güç tüketimini artırırken oyunlar ve videolar için ses gecikmesini azaltır. Bluetooth donanım sınırlamaları ve çevresel parazit nedeniyle oynatma kesintiye uğrayabilir.</string>
+  <string name="bt_lc3plus_open_dialog_title">LC3plus\'a geçilsin mi?</string>
+  <string name="miheadset_anc_manual">Manuel</string>
+  <string name="miheadset_audio_sound_quality">Ses kalitesi</string>
+  <string name="miheadset_audio_sound_quality_summary">Bluetooth ses kodek bileşenini seçin</string>
+  <string name="miheadset_codec_sample_rate">Bluetooth ses örnekleme hızı</string>
+  <string name="miui_sos_around_photo_summary">Acil durum kişilerinize gönderilen kısa mesaja ön ve arka kameralardan %d fotoğraf ekleyin</string>
+  <string name="miui_sos_around_photo_title">Fotoğraf ekle</string>
+  <string name="miui_sos_around_voice_summary">Acil durum kişilerinize gönderilen kısa mesaja %d saniyelik bir ses kaydı ekleyin</string>
+  <string name="miui_sos_around_voice_title">%d-saniyelik bir ses ekle</string>
+  <string name="miui_sos_call_fire">Ateş</string>
+  <string name="miui_sos_call_hospital">Ambulans</string>
+  <string name="miui_sos_call_police">Polis</string>
+  <string name="miui_sos_emergency_title">Acil SOS</string>
+  <string name="miui_sos_exit_emergency_title">Kapat</string>
+  <string name="miui_sos_exit_send_location_title">Konumunuzu gerçek zamanlı olarak acil durum kişileriyle paylaşma</string>
+  <string name="miui_sos_hospital_card">Tıbbi kart</string>
+  <string name="miui_sos_hospital_card_important_info">İlk müdahale ekipleri için acil tıbbi bilgileriniz</string>
+  <string name="miui_sos_unknow_contract">Bilinmeyen kişi</string>
+  <string name="sim_no_service">Servis yok</string>
+  <string name="wifi_tether_enabled_nosecurity_summary">%1$s şifrelenmemiş</string>
+  <string name="gxzw_vibrate_summary">Parmak izi kilit açma animasyonu oynatılırken titret</string>
+  <string name="gxzw_vibrate_title">Kilidi açarken titret</string>
+  <string name="bt_plugin_new_version">Güncelle</string>
+  <string name="bt_plugin_preference_button">Güncelle</string>
+  <string name="bt_plugin_preference_msg">Geçerli: %1$s | Yeni: %2$s</string>
+  <string name="bt_plugin_preference_title">Yeni sürüm</string>
+  <string name="bt_plugin_set_net_dialog_cancle">İptal</string>
+  <string name="bt_plugin_set_net_dialog_message">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
+  <string name="bt_plugin_set_net_dialog_retry">Tekrar deneyin</string>
+  <string name="bt_plugin_set_net_dialog_title">Ağa bağlanılamadı</string>
 </resources>

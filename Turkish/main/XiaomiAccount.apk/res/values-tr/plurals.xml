@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">%d sonuç bulundu</item>
+        <item quantity="one">%d sonuç bulundu</item>
+    </plurals>
     <plurals name="health_description_title_suffix">
         <item quantity="other">" adım"</item>
         <item quantity="one">" adım"</item>

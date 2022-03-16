@@ -21,6 +21,10 @@
   <string name="app_update_64_dialog_confirm">Güncelle</string>
   <string name="app_update_64_dialog_title">64 bit mimariye güncelleme</string>
   <string name="app_update_64_notfication_body">Uygulama performansını artırmak için güncelleyin</string>
+  <string name="apps_cannot_be_transfered_confirm_button">Başlat</string>
+  <string name="apps_cannot_be_transfered_next_button">Sonraki</string>
+  <string name="apps_cannot_be_transfered_summary">Bu 64 bit uygulamalar 32 bit bir cihaza aktarılamaz. Aktarımdan sonra bunları doğrudan Getapps\'tan indirebilirsiniz.</string>
+  <string name="apps_cannot_be_transfered_title">Bu uygulamalar aktarılamıyor</string>
   <string name="audio">Ses</string>
   <string name="audio_video_document">Ses, video ve belgeler</string>
   <string name="back">Geri</string>
@@ -805,6 +809,7 @@ WeChat'i açın ve Ben > Ayarlar > Genel > Sohbetleri yedekle &amp; taşı seçe
   <string name="reconnect">Tekrar bağlan</string>
   <string name="recovery_progress">Öğeler geri yükleniyor (%1$d/%2$d)…</string>
   <string name="recreate_soft_ap_tips">Tekrar denemek için aşağıdaki düğmeye dokunun.</string>
+  <string name="refuse_accept">Reddet</string>
   <string name="restore_data_to_device_content">"Öğeleriniz Xiaomi Bulut ile eşitlendi.
 Geri yüklemek için Mi Hesabınızda oturum açın."</string>
   <string name="restore_data_to_device_title">Öğeleri bu cihaza geri yükle</string>

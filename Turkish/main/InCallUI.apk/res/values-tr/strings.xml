@@ -316,7 +316,17 @@
   <string name="relay_network_error">Ağ hatası</string>
   <string name="relay_network_error_msg">Bir ağ hatası nedeniyle bu cihazdan çağrılar alınamıyor. Bunun yerine telefonunuza geri dönün.</string>
   <string name="remind_unlock_message">Cihazınız şimdi kilitlendi. \"%s\" cihazınızın kilidini açtıktan sonra kullanılabilir. Kilit şimdi açılsın mı?</string>
+  <string name="remind_unlock_screen_message">\"%s\" kullanabilmek için cihazınızın kilidini açın. Kilit şimdi açılsın mı?</string>
   <string name="respond_via_sms_custom_message">Özel SMS</string>
+  <string name="saf_permission_content">"Sistem izinleri güncellendi. Çağrıları kaydedebilmek için önce izninizi verin.
+
+İzin nasıl verilir?
+\"%1$s\" öğesine dokunun ve ardından \"%2$s\" öğesini seçin."</string>
+  <string name="saf_permission_grant_permission_immediately">Sonraki</string>
+  <string name="saf_permission_later">Şimdi değil</string>
+  <string name="saf_permission_refused">Eksik izinler nedeniyle çağrılar kaydedilemiyor</string>
+  <string name="saf_permission_title">Gerekli izinler</string>
+  <string name="saf_permission_use_this_folder">Bu klasörü kullan</string>
   <string name="saturday">Cumartesi</string>
   <string name="saturday_short">Cts</string>
   <string name="saturday_shortest">Cts</string>

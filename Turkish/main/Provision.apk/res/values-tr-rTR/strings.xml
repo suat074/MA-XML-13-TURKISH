@@ -228,9 +228,11 @@ Bu özelliği kontrol etmek için Ayarlar\'da \"Kullanım ve teşhis\" için ara
   <string name="sim_card_detection">SIM kartı takın</string>
   <string name="sim_card_detection_info">SIM kartınızı takmak için cihazınızla birlikte verilen talimatları okuyun.</string>
   <string name="sim_card_detection_mobile_not_available">SIM kart ağa bağlanamadı</string>
+  <string name="sim_card_dial_card">Çağrılar için SIM %d</string>
   <string name="sim_card_dial_card1">Çağrılar için SIM1</string>
   <string name="sim_card_dial_card2">Çağrılar için SIM2</string>
   <string name="sim_card_do_not_select_dial_card">Aramak için SIM kartı seçin</string>
+  <string name="sim_card_network_card">Veri SIM %d</string>
   <string name="sim_card_network_card1">Veri SIM1</string>
   <string name="sim_card_network_card2">Veri SIM2</string>
   <string name="sim_dectection_next">Devam et</string>

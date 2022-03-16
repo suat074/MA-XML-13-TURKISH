@@ -2091,6 +2091,7 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="prompt_safe">Güvenli</string>
     <string name="prompt_unknown">Bilinmeyen</string>
     <string name="qs_alarm_tile_no_alarm">Alarm ayarlanmadı</string>
+	<string name="qs_bill_message_balance">%1$s %2$s kaldı</string>
     <string name="qs_control_big_tile_state_closed">Kapalı</string>
     <string name="qs_control_big_tile_state_closing">Kapatılıyor…</string>
     <string name="qs_control_big_tile_state_connected">Bağlı</string>
@@ -2122,6 +2123,9 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="qs_rearrange">Hızlı ayarları yeniden düzenle</string>
     <string name="qs_status_phone_muted">Telefonun sesi kapalı</string>
     <string name="qs_status_phone_vibrate">Telefonun titreşimi açık</string>
+	<string name="qs_traffic_message_type_exceed">%1$s %2$s limit aşıldı</string>
+    <string name="qs_traffic_message_type_remain">%1$s %2$s kaldı</string>
+    <string name="qs_traffic_message_type_used">%1$s %2$s kullanıldı</string>
     <string name="quick_controls_setup_subtitle">Denetimlerinize erişmek için Güç düğmesini basılı tutun</string>
     <string name="quick_controls_setup_title">Cihaz denetimlerini kur</string>
     <string name="quick_controls_subtitle">Bağlı cihazlarınız için denetimler ekleyin</string>
