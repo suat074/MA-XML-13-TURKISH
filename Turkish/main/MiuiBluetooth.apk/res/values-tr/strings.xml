@@ -36,6 +36,14 @@
   <string name="bluetooth_preference_found_devices">Mevcut cihazlar</string>
   <string name="bluetooth_preference_scan_title">Cihazları ara</string>
   <string name="bluetooth_search_for_devices">Cihazları ara</string>
+  <string name="bt_plugin_update_dialog_cancle">Şimdi değil</string>
+  <string name="bt_plugin_update_dialog_title">Bluetooth güncellemesi</string>
+  <string name="bt_plugin_update_dialog_update">Güncelle</string>
+  <string name="bt_plugin_update_done_dialog_exit">Uygula</string>
+  <string name="bt_plugin_update_done_dialog_msg">Değişiklikleri uygulamak için Ayarlar kapatılacak ve Bluetooth bağlantısı kesilecektir.</string>
+  <string name="bt_plugin_update_done_dialog_title">Değişiklikleri uygula</string>
+  <string name="bt_plugin_update_done_toast">Başarıyla güncellendi</string>
+  <string name="bt_plugin_update_notification_updating">Bluetooth güncellemesi</string>
   <string name="config_net_device_connect">Bağlan</string>
   <string name="config_net_device_find">Cihazı bağla</string>
   <string name="config_net_not_my_device">İptal</string>

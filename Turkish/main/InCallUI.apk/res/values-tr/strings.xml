@@ -38,6 +38,10 @@
   <string name="antispam_local_marked">Yerel olarak işaretlendi</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
+  <string name="bluetooth_permission_content">Sistem yetkilendirme güncellemesi nedeniyle, Bluetooth cihaz listenizi almak için yetkilendirmeniz gerekiyor</string>
+  <string name="bluetooth_permission_grant_immediately">Hemen yetkilendir</string>
+  <string name="bluetooth_permission_later">Daha sonra</string>
+  <string name="bluetooth_permission_title">Bluetooth cihazlarına erişim izni verir</string>
   <string name="callFailed_cb_enabled">Çağrı engelleme açıkken giden arama yapamazsınız.</string>
   <string name="callFailed_congestion">Ağ meşgul</string>
   <string name="callFailed_dialToDial">Arama isteği farklı numara çevirmek için değiştirildi.</string>
@@ -169,6 +173,7 @@
   <string name="fmt_date_numeric_year_month_day">d/M/yyyy</string>
   <string name="fmt_date_short_month_day">dd/MM</string>
   <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
+  <string name="font_camera_tip">Ön kamerayı kullanmak için cihazı katlayın</string>
   <string name="friday">Cuma</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">Cum</string>

@@ -2077,9 +2077,12 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="priority_onboarding_show_at_top_text">Görüşme bölümünün üstünde gösterilir</string>
     <string name="priority_onboarding_show_avatar_text">Kilit ekranında profil resmi gösterilir</string>
     <string name="priority_onboarding_title">Görüşme öncelikli olarak ayarlandı</string>
+	<string name="privacy_dialog_title">Hassas işlemlerle ilgili bildirimler</string>
+    <string name="privacy_recent_used_title">Son kullanılan</string>
     <string name="privacy_type_camera">kamera</string>
     <string name="privacy_type_location">konum</string>
     <string name="privacy_type_microphone">mikrofon</string>
+	<string name="privacy_using_title">Geçerli</string>
     <string name="private_dns_mode_off">Kapalı</string>
     <string name="private_dns_mode_opportunistic">Otomatik</string>
     <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
@@ -2293,6 +2296,9 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="recent_task_cleaning">Uygulamalar temizleniyor…</string>
     <string name="recent_task_lock_text">Kilitle</string>
     <string name="recent_task_unlock_text">Kilidi kaldır</string>
+	<string name="recent_used_camera">Bu uygulama kamera kullandı</string>
+    <string name="recent_used_camera_and_microphone">Bu uygulama ses kaydetti ve kamera kullandı</string>
+    <string name="recent_used_microphone">Bu uygulama ses kaydetti</string>
     <string name="recents_accessibility_split_screen_left">Ekranı sola böl</string>
     <string name="recents_accessibility_split_screen_right">Ekranı sağa böl</string>
     <string name="recents_accessibility_split_screen_top">Ekranı üst üste böl</string>
@@ -2846,6 +2852,9 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="user_remove_user_message">Bu kullanıcının tüm uygulamaları ve verileri silinecek.</string>
     <string name="user_remove_user_remove">Kaldır</string>
     <string name="user_remove_user_title">Kullanıcıyı kaldırılsın mı?</string>
+	<string name="using_camera">Bu uygulama kamera kullanıyor</string>
+    <string name="using_camera_and_microphone">Bu uygulama ses kaydediyor ve kamera kullanıyor</string>
+    <string name="using_microphone">Bu uygulama ses kaydediyor</string>
     <string name="v7_preference_off">KAPALI</string>
     <string name="v7_preference_on">AÇIK</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT üzerinden yüklenen uygulamaları zararlı davranışlara karşı denetle.</string>

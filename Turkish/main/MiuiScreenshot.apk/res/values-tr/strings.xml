@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="can_drag">Eklemek veya göndermek için sürükleyin</string>
-	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran görüntülerini kaydetmek için</string>
-	<string name="long_screenshot_error">Ekran görüntüsü alınamadı. Tekrar deneyin.</string>
-	<string name="long_screenshot_processing_description_accessibility">İşleme</string>
-	<string name="long_screenshot_top_msg_description_accessibility">Ekran görüntüsü oluşturma</string>
-	<string name="notification_channel_alerts">Uyarılar</string>
-	<string name="screenshot_thumbnail">Ekran görüntüsü küçük resmi</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -44,6 +37,7 @@
     <string name="btn_cancel">İptal</string>
     <string name="btn_cancel_send">Bu aktarımı iptal et</string>
     <string name="btn_exit_send">Çık</string>
+	<string name="can_drag">Eklemek veya göndermek için sürükleyin</string>
     <string name="can_not_transfer_when_screening">Aktarım sırasında yansıtma yapılamaz</string>
     <string name="chooser_fragment_mishare_title">Paylaş</string>
     <string name="confirm_cancel_task_files">%1$s öğesine dosya gönderme iptal edilsin mi?</string>
@@ -53,6 +47,7 @@
     <string name="cta_btn_agree">Kabul et</string>
     <string name="cta_btn_disagree">Reddet</string>
     <string name="cta_main_purpose">Ekran Görüntüsü Düzenleyicisine hoş geldiniz! Ekran görüntülerinizi kırpmak ve düzenlemek için bu uygulamayı kullanabilirsiniz.</string>
+	<string name="custom_define_permission_desc_android.permission_group.STORAGE">Ekran görüntülerini kaydetmek için</string>
     <string name="default_device_name">Bilinmeyen cihaz</string>
     <string name="device_offline">Diğer cihaz çevrimdışı. Baştan başla.</string>
     <string name="device_status_failed">Gönderilemedi</string>
@@ -84,8 +79,10 @@ görüntüsü almak için dokunun"</string>
     <string name="long_screenshot_intercepted_error">Ekran görüntüsü alınamadı. Tekrar deneyin.</string>
     <string name="long_screenshot_out_of_memory_error">Resim çok büyük</string>
     <string name="long_screenshot_processing">İşleniyor…</string>
+	<string name="long_screenshot_processing_description_accessibility">İşleme</string>
     <string name="long_screenshot_stop">Bitti</string>
     <string name="long_screenshot_top_msg">Ekran görüntüsü oluşturuluyor…</string>
+	<string name="long_screenshot_top_msg_description_accessibility">Ekran görüntüsü oluşturma</string>
     <string name="long_screenshot_top_msg_manual">Ekran görüntüsünü kesin ve bitirmek için tuşa dokunun</string>
     <string name="main_save_error_msg">Bir hata nedeniyle değişiklikler kaydedilemedi</string>
     <string name="miuix_access_state_desc">Seçili</string>
@@ -94,6 +91,7 @@ görüntüsü almak için dokunun"</string>
     <string name="miuix_indexer_selected">%s seçili</string>
     <string name="nearby_share">Yakındakilerle Paylaş</string>
     <string name="not_set">Ayarlanmadı</string>
+	<string name="notification_channel_alerts">Uyarılar</string>
     <string name="operation_send">Gönder</string>
     <string name="partial_screenshot_edit">Düzenle</string>
     <string name="partial_screenshot_failed_to_capture_title">Bu uygulama ekran görüntüsü almaya izin vermiyor</string>
@@ -165,6 +163,7 @@ görüntüsü almak için dokunun"</string>
     <string name="screenshot_long_screenshot">Kaydır</string>
     <string name="screenshot_save">Kaydet</string>
     <string name="screenshot_send">Gönder</string>
+	<string name="screenshot_thumbnail">Ekran görüntüsü küçük resmi</string>
     <string name="search_menu_title">Ara</string>
     <string name="send_files_by">Dosyaları paylaş</string>
     <string name="send_files_to">Öğeleri gönder</string>

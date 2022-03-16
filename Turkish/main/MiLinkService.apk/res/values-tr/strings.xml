@@ -345,6 +345,8 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="global_privacy_negative">Reddet</string>
   <string name="global_privacy_positive">Kabul et</string>
   <string name="global_privacy_tip"><Data>Size temel hizmetleri sağlamak ve yansıtma sürecini optimize etmek için gerekli kişisel bilgileri toplamamız gerekiyor. Topladığımız bilgileri nasıl işlediğimizi &lt;a href=%1$s>Gizlilik Politikamız&lt;/a> üzerinden öğrenebilirsiniz. Gizlilik Politikası için verdiğiniz onayı istediğiniz zaman Ayarlar\'dan geri çekebilirsiniz.</Data></string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
   <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -359,6 +361,8 @@ Bu özelliği kullanmadan önce &lt;a href=%1$s>Kullanıcı Sözleşmemizi&lt;/a
   <string name="miuix_appcompat_select_all">Tümünü seç</string>
   <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
   <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="send">Gönder</string>
   <string name="audio_record_des">Mobil cihazınızdan harici monitörlere ses aktarmak için</string>
   <string name="dialog_location_permission_message">Bu uygulamanın yakındaki harici monitörleri bulabilmesi için konumunuza erişmesi gerekiyor. Olası hataları önlemek için bu izni verirken \"Her zaman izin ver\" seçin.</string>

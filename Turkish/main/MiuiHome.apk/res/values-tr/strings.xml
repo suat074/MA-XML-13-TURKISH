@@ -148,7 +148,7 @@
   <string name="auto_add_app_shortcut">Yeni uygulamaları Ana ekrana yerleştir</string>
   <string name="auto_delete_category_dialog_content">Mevcut uygulamalar bu kategoriden kaldırılacak ve kategori silinecek. Bu kategori şimdi silinsin mi?</string>
   <string name="auto_delete_category_dialog_title">Kategori siliniyor</string>
-  <string name="auto_disable_screenbuttons_summary">Yeniden etkinleştirmek için herhangi bir gezinme düğmesine iki kez dokunun</string>
+  <string name="auto_disable_screenbuttons_summary">Durum çubuğu görüntülenmediğinde gezinti düğmelerini otomatik olarak devre dışı bırakın. Yeniden etkinleştirmek için herhangi bir gezinti düğmesine iki kez dokunun.</string>
   <string name="auto_disable_screenbuttons_title">Gezinti düğmelerini otomatik olarak devre dışı bırak</string>
   <string name="back">Geri</string>
   <string name="backup_fail">Başlatıcı yedeklenemedi</string>

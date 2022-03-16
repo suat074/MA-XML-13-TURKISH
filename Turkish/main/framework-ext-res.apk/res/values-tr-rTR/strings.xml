@@ -456,6 +456,9 @@
   <string name="talk_back_water_mark_string2">Kapatmak için \"Ses+\" ve \"Ses-\" tuşlarına 3 saniye boyunca basılı tutun</string>
   <string name="throwing_print">Yazdır</string>
   <string name="throwing_screen">Yansıt</string>
+  <string name="tip_close_screen_phone">Dahili hoparlörü kullanmak için eller serbest moduna geçin veya cihazınızı katlayın</string>
+  <string name="tip_for_phone_and_camera">Dahili hoparlörü veya ön kamerayı kullanmak için cihazınızı katlayın</string>
+  <string name="tip_use_front_camera">Ön kamerayı kullanmak için cihazınızı katlayın</string>
   <string name="tips_prompt_enable_midrop">Mi Paylaşım</string>
   <string name="total">Rahatsız etme</string>
   <string name="total_description">Alarm saati haricindeki tüm öğeler için sesler ve titreşim kapalı</string>
