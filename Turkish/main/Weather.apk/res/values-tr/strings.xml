@@ -60,15 +60,15 @@
   <string name="alert_weather_enable_settings_title">Hava durumu uyarıları</string>
   <string name="already_voted_toast">Bugün zaten oy verdiniz</string>
   <string name="app_name">Hava durumu</string>
-  <string name="aqi_5_days_desc">%d günlük HKE tahmini</string>
   <string name="aqi_15_days_desc">%d günlük HKE tahmini</string>
   <string name="aqi_24_hours_desc">%d saatlik HKE tahmini</string>
   <string name="aqi_48_hours_desc">%d saatlik HKE tahmini</string>
+  <string name="aqi_5_days_desc">%d günlük HKE tahmini</string>
   <string name="aqi_alert_channel_name">HKE uyarıları</string>
   <string name="aqi_data_source">Colorful Clouds tarafından sağlanmaktadır</string>
   <string name="aqi_desc">Hava Kalite İndeksi</string>
-  <string name="aqi_detail_5_days">5-günlük hava durumu</string>
   <string name="aqi_detail_24_hours">24-saatlik hava durumu</string>
+  <string name="aqi_detail_5_days">5-günlük hava durumu</string>
   <string name="aqi_detail_co_unit">Birim: mg/m³</string>
   <string name="aqi_detail_title">Hava Kalite İndeksi</string>
   <string name="aqi_detail_unit">Birim: µg/m³</string>
@@ -94,6 +94,7 @@
   <string name="change_alert">Ağ bağlantınızı kontrol edin ve ardından tekrar deneyin</string>
   <string name="city_exceeded_warning">Daha fazla şehir eklenemiyor. Yeni bir şehir eklemek için önce listede varolan bir şehri silin.</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
+  <string name="close">Kapat</string>
   <string name="common_google_play_services_enable_button">Etkinleştir</string>
   <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz.</string>
   <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştirin</string>
@@ -129,10 +130,16 @@
   <string name="daily_forecast_detail_date">d/M</string>
   <string name="data_provided_by">Verileri sağlayan</string>
   <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
+  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
   <string name="dialog_internet_error_title">Bir hata oluştu</string>
   <string name="dialog_msg_score_midrop">Hava Durumu hakkında ne düşünüyorsunuz?</string>
   <string name="dialog_msg_score_not_good">Bize de görüşlerinizi bildirir misiniz?</string>
   <string name="dialog_msg_score_perfect">Güzel! Play Store\'da da hava durumu değerlendirilsin mi?</string>
+  <string name="dialog_score_bad">Nemnuniyetsiz</string>
+  <string name="dialog_score_general">Doğal</string>
+  <string name="dialog_score_good">Memnun</string>
+  <string name="dialog_score_very_bad">Çok memnuniyetsiz</string>
+  <string name="dialog_score_very_good">Çok memnun</string>
   <string name="dialog_title_score">Hava Durumu\'nu değerlendirin</string>
   <string name="download_rsc_tips">Arka plan sesi yükleniyor…</string>
   <string name="dynamic_weather">Hava durumu</string>
@@ -300,6 +307,7 @@
   <string name="pad_keyboard_add_city">Konum ekle</string>
   <string name="pad_keyboard_left_switch">Önceki konum</string>
   <string name="pad_keyboard_right_switch">Sonraki konum</string>
+  <string name="pad_real_time_detail_title">Konfor</string>
   <string name="particulate_matter_exceeded">Yüksek</string>
   <string name="particulate_matter_not_exceeded">Normal</string>
   <string name="particulate_matter_serious_exceeded">Çok yüksek</string>
@@ -349,6 +357,7 @@
   <string name="save_to_gallery_success_message">Galeriye başarıyla kaydedildi</string>
   <string name="search_menu_title">Ara</string>
   <string name="select_show_city">Konum seçin</string>
+  <string name="send">Gönder</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_atmospheric_pressure_atm">Standart atmosfer (atm)</string>
   <string name="settings_atmospheric_pressure_hpa">Hektopaskal (hPa)</string>
@@ -452,7 +461,4 @@
   <string name="xiaomi_weather_description_title_remove">\"Hava Durumu\" Ana ekrandan kaldırılsın mı?</string>
   <string name="yes_vote_ratio">Evet %%%1$s</string>
   <string name="yesterday">Dün</string>
-  <string name="close">Kapat</string>
-  <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
-  <string name="send">Gönder</string>
 </resources>
