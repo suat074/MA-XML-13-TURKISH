@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_user_gender_name">
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="aivs_huami_command_list">
+        <item>Hava nasıl?</item>
+        <item>Kaç adım attım?</item>
+        <item>Telefonumu bul.</item>
+    </string-array>
+    <string-array name="common_week_array">
+        <item>Paz</item>
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+    </string-array>
+    <string-array name="date_week">
+        <item>Pazartesi</item>
+        <item>Salı</item>
+        <item>Çarşamba</item>
+        <item>Perşembe</item>
+        <item>Cuma</item>
+        <item>Cumartesi</item>
+        <item>Pazar</item>
+    </string-array>
+    <string-array name="date_week_simple">
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="date_week_simple1">
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="device_settings_cities_names_miui">
+        <item>Abidjan</item>
+        <item>Akra</item>
+        <item>Addis Ababa</item>
+        <item>Cezayir</item>
+        <item>Blantyre</item>
+        <item>Brazzaville</item>
+        <item>Kahire</item>
+        <item>Kazablanka</item>
+        <item>Konakri</item>
+        <item>Dakar</item>
+        <item>Darüsselam</item>
+        <item>Cibuti</item>
+        <item>Freetown</item>
+        <item>Gaborone</item>
+        <item>Harare</item>
+        <item>Johannesburg</item>
+        <item>Kampala</item>
+        <item>Hartum</item>
+        <item>Kigali</item>
+        <item>Kinşasa</item>
+        <item>Lagos</item>
+        <item>Maseru</item>
+        <item>Mogadişu</item>
+        <item>Nairobi</item>
+        <item>Sao Tome</item>
+        <item>Timbuktu</item>
+        <item>Trablus</item>
+        <item>Tunus</item>
+        <item>Anchorage</item>
+        <item>Mendoza</item>
+        <item>Aruba</item>
+        <item>Asunsion</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Bogota</item>
+        <item>Buenos Aires</item>
+        <item>Cancun</item>
+        <item>Karakas</item>
+        <item>Cayman Adaları</item>
+        <item>Şikago</item>
+        <item>Kosta Rika</item>
+        <item>Curaçao</item>
+        <item>Dawson Creek</item>
+        <item>Denver</item>
+        <item>Detroit</item>
+        <item>Dominik Cumhuriyeti</item>
+        <item>Edmonton</item>
+        <item>El Salvador</item>
+        <item>Fortaleza</item>
+        <item>Grand Turk Adası</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Halifaks</item>
+        <item>Havana</item>
+        <item>Indianapolis</item>
+        <item>Knox</item>
+        <item>Marengo</item>
+        <item>Petersburg</item>
+        <item>Tell City</item>
+        <item>Vevay</item>
+        <item>Vincennes</item>
+        <item>Winamac</item>
+        <item>Kingston</item>
+        <item>Nuestra Señora de La Paz</item>
+        <item>Lima</item>
+        <item>Los Angeles</item>
+        <item>Louisville</item>
+        <item>Managua</item>
+        <item>Martinik</item>
+        <item>Metlakatla</item>
+        <item>Meksiko</item>
+        <item>Monterey</item>
+        <item>Montevideo</item>
+        <item>Montreal</item>
+        <item>Nassau</item>
+        <item>New York</item>
+        <item>Beulah</item>
+        <item>Center</item>
+        <item>New Salem</item>
+        <item>Panama</item>
+        <item>Phoenix</item>
+        <item>Port of Spain</item>
+        <item>Port-au-Prince</item>
+        <item>Porto Riko</item>
+        <item>Santo Domingo</item>
+        <item>Sao Paulo</item>
+        <item>"St. John's"</item>
+        <item>St. Kitts</item>
+        <item>Saint Lucia</item>
+        <item>St. Thomas</item>
+        <item>Tijuana</item>
+        <item>Toronto</item>
+        <item>Vancouver</item>
+        <item>Winnipeg</item>
+        <item>Güney Kutbu</item>
+        <item>Longyearbyen</item>
+        <item>Almati</item>
+        <item>Umman</item>
+        <item>Anadır</item>
+        <item>Aktav</item>
+        <item>Bağdat</item>
+        <item>Bahreyn</item>
+        <item>Bakü</item>
+        <item>Bangkok</item>
+        <item>Beyrut</item>
+        <item>Kolkata</item>
+        <item>Şam</item>
+        <item>Daka</item>
+        <item>Dubai</item>
+        <item>Gazze</item>
+        <item>Hebron</item>
+        <item>Ho Chi Minh</item>
+        <item>Hong Kong</item>
+        <item>Jakarta</item>
+        <item>Kudüs</item>
+        <item>Kabil</item>
+        <item>Karaçi</item>
+        <item>Katmandu</item>
+        <item>Kuala Lumpur</item>
+        <item>Kuveyt</item>
+        <item>Makao</item>
+        <item>Manila</item>
+        <item>Muskat</item>
+        <item>Phnom Penh</item>
+        <item>Pyongyang</item>
+        <item>Katar</item>
+        <item>Yangon</item>
+        <item>Riyad</item>
+        <item>Seul</item>
+        <item>Şangay</item>
+        <item>Singapur</item>
+        <item>Taipei</item>
+        <item>Tahran</item>
+        <item>Tel Aviv</item>
+        <item>Tokyo</item>
+        <item>Ulan Batur</item>
+        <item>Bermuda</item>
+        <item>Kanarya Adaları</item>
+        <item>Yeşil Burun Adaları</item>
+        <item>Reykjavik</item>
+        <item>Stanley</item>
+        <item>Adelaide</item>
+        <item>Brisbane</item>
+        <item>Canberra</item>
+        <item>Darwin</item>
+        <item>Melbourne</item>
+        <item>Yeni Güney Galler</item>
+        <item>Perth</item>
+        <item>Queensland</item>
+        <item>Sidney</item>
+        <item>Victoria</item>
+        <item>Newfoundland</item>
+        <item>Saskatchewan</item>
+        <item>Paskalya Adası</item>
+        <item>Amsterdam</item>
+        <item>Andora</item>
+        <item>Atina</item>
+        <item>Belfast</item>
+        <item>Belgrad</item>
+        <item>Berlin</item>
+        <item>Bratislava</item>
+        <item>Brüksel</item>
+        <item>Bükreş</item>
+        <item>Budapeşte</item>
+        <item>Kişinev</item>
+        <item>Kopenhag</item>
+        <item>Dublin</item>
+        <item>Cebelitarık</item>
+        <item>Helsinki</item>
+        <item>Man Adası</item>
+        <item>İstanbul</item>
+        <item>Lizbon</item>
+        <item>Londra</item>
+        <item>Lüksemburg</item>
+        <item>Madrid</item>
+        <item>Malta</item>
+        <item>Minsk</item>
+        <item>Monako</item>
+        <item>Moskova</item>
+        <item>Oslo</item>
+        <item>Paris</item>
+        <item>Prag</item>
+        <item>Riga</item>
+        <item>Roma</item>
+        <item>San Marino</item>
+        <item>Saraybosna</item>
+        <item>Simferopol</item>
+        <item>Üsküp</item>
+        <item>Sofya</item>
+        <item>Stockholm</item>
+        <item>Tallin</item>
+        <item>Vatikan</item>
+        <item>Viyana</item>
+        <item>Vilnius</item>
+        <item>Varşova</item>
+        <item>Zagreb</item>
+        <item>Zürih</item>
+        <item>Antananarivo</item>
+        <item>Maldivler</item>
+        <item>Mauritius</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Honolulu</item>
+        <item>Kiritimati</item>
+        <item>Noumea</item>
+        <item>Samoa</item>
+        <item>Tahiti</item>
+        <item>Antigua</item>
+        <item>Austin</item>
+        <item>Boston</item>
+        <item>Calgary</item>
+        <item>Columbus</item>
+        <item>Dallas</item>
+        <item>Knoxville</item>
+        <item>Memphis</item>
+        <item>Miami</item>
+        <item>Minneapolis</item>
+        <item>Ottawa</item>
+        <item>Philadelphia</item>
+        <item>Portland</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+        <item>Salt Lake City</item>
+        <item>San Jose</item>
+        <item>San Salvador</item>
+        <item>Seattle</item>
+        <item>St. Louis</item>
+        <item>Washington D.C.</item>
+        <item>Houston</item>
+        <item>San Antonio</item>
+        <item>Jacksonville</item>
+        <item>Baltimore</item>
+        <item>Nashville</item>
+        <item>Milwaukee</item>
+        <item>Oklahoma City</item>
+        <item>Las Vegas</item>
+        <item>Albuquerque</item>
+        <item>Tucson</item>
+        <item>Sacramento</item>
+        <item>Atlanta</item>
+        <item>Cleveland</item>
+        <item>New Orleans</item>
+        <item>Tampa</item>
+        <item>Pittsburgh</item>
+        <item>Cincinnati</item>
+        <item>Mountain View</item>
+        <item>Reno</item>
+        <item>Black Rock City</item>
+        <item>Doha</item>
+        <item>Pekin</item>
+        <item>Bombay</item>
+        <item>Delhi</item>
+        <item>Osaka</item>
+        <item>Lahor</item>
+        <item>Sana</item>
+        <item>Barselona</item>
+        <item>Münih</item>
+        <item>Milan</item>
+        <item>Frankfurt</item>
+        <item>Hanoi</item>
+        <item>Ankara</item>
+        <item>Bangalore</item>
+        <item>Brasília</item>
+        <item>Cape Town</item>
+        <item>İslamabad</item>
+        <item>Rio de Janeiro</item>
+        <item>Ann Arbor</item>
+        <item>Boulder</item>
+        <item>Cambridge</item>
+        <item>Kirkland</item>
+        <item>Madison</item>
+        <item>Guangzhou</item>
+        <item>Haydarabad</item>
+        <item>Reston</item>
+        <item>Belo Horizonte</item>
+        <item>Santiago</item>
+        <item>Monrovia</item>
+        <item>Kolombo</item>
+        <item>Chihuahua</item>
+        <item>Gurgaon</item>
+        <item>Manchester</item>
+        <item>Kiev</item>
+        <item>St. Petersburg</item>
+        <item>Krakov</item>
+        <item>Wroclaw</item>
+        <item>Hamburg</item>
+        <item>Oulu</item>
+        <item>Hayfa</item>
+        <item>San Juan</item>
+        <item>Tegusigalpa</item>
+        <item>Paramaribo</item>
+        <item>Kito</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Phoenix</item>
+        <item>Kingston</item>
+        <item>Praia</item>
+        <item>Reykjavik</item>
+        <item>Cenevre</item>
+        <item>Windhoek</item>
+        <item>Sofya</item>
+        <item>Atina</item>
+        <item>Kaliningrad</item>
+        <item>Hartum</item>
+        <item>Nairobi</item>
+        <item>Aden</item>
+        <item>Antananarivo</item>
+        <item>Kuveyt</item>
+        <item>Abu Dabi</item>
+        <item>Samara</item>
+        <item>Yeni Delhi</item>
+        <item>Novosibirsk</item>
+        <item>Tayvan</item>
+        <item>Irkutsk</item>
+        <item>Chita</item>
+        <item>Vladivostok</item>
+        <item>Magadan</item>
+        <item>Kamçatka</item>
+        <item>Suva</item>
+        <item>Wellington</item>
+    </string-array>
+    <string-array name="device_settings_common_every_week_array">
+        <item>Her Pazar</item>
+        <item>Her Pazartesi</item>
+        <item>Her Salı</item>
+        <item>Her Çarşamba</item>
+        <item>Her Perşembe</item>
+        <item>Her Cuma</item>
+        <item>Her Cumartesi</item>
+    </string-array>
+    <string-array name="device_settings_countries_names_miui">
+        <item>Fildişi Sahilleri</item>
+        <item>Gana</item>
+        <item>Etiyopya</item>
+        <item>Cezayir</item>
+        <item>Malavi</item>
+        <item>Kongo Cumhuriyeti</item>
+        <item>Mısır</item>
+        <item>Fas</item>
+        <item>Gine</item>
+        <item>Senegal</item>
+        <item>Tanzanya</item>
+        <item>Cibuti</item>
+        <item>Sierra Leone</item>
+        <item>Botsvana</item>
+        <item>Zimbabve</item>
+        <item>Güney Afrika</item>
+        <item>Uganda</item>
+        <item>Sudan</item>
+        <item>Ruanda</item>
+        <item>Kongo Demokratik Cumhuriyeti</item>
+        <item>Nijerya</item>
+        <item>Lesotho</item>
+        <item>Somali</item>
+        <item>Kenya</item>
+        <item>Sao Tome ve Principe</item>
+        <item>Mali</item>
+        <item>Libya</item>
+        <item>Tunus</item>
+        <item>Birleşik Devletler</item>
+        <item>Arjantin</item>
+        <item>Aruba</item>
+        <item>Paraguay</item>
+        <item>Barbados</item>
+        <item>Belize</item>
+        <item>Kolombiya</item>
+        <item>Arjantin</item>
+        <item>Meksika</item>
+        <item>Venezüela</item>
+        <item>Cayman Adaları</item>
+        <item>Birleşik Devletler</item>
+        <item>Kosta Rika</item>
+        <item>Curaçao</item>
+        <item>Kanada</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Dominik Cumhuriyeti</item>
+        <item>Kanada</item>
+        <item>El Salvador</item>
+        <item>Brezilya</item>
+        <item>Turks ve Caicos Adaları</item>
+        <item>Grenada</item>
+        <item>Guatemala</item>
+        <item>Guyana</item>
+        <item>Kanada</item>
+        <item>Küba</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Jamaika</item>
+        <item>Bolivya</item>
+        <item>Peru</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Nikaragua</item>
+        <item>Martinik</item>
+        <item>Birleşik Devletler</item>
+        <item>Meksika</item>
+        <item>Birleşik Devletler</item>
+        <item>Uruguay</item>
+        <item>Kanada</item>
+        <item>Bahamalar</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Panama</item>
+        <item>Birleşik Devletler</item>
+        <item>Trinidad ve Tobago</item>
+        <item>Haiti</item>
+        <item>Porto Riko</item>
+        <item>Dominik Cumhuriyeti</item>
+        <item>Brezilya</item>
+        <item>Kanada</item>
+        <item>Saint Kitts ve Nevis</item>
+        <item>Saint Lucia</item>
+        <item>ABD Virgin Adaları</item>
+        <item>Meksika</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Güney Kutbu</item>
+        <item>Svalbard ve Jan Mayen</item>
+        <item>Kazakistan</item>
+        <item>Ürdün</item>
+        <item>Rusya</item>
+        <item>Kazakistan</item>
+        <item>Irak</item>
+        <item>Bahreyn</item>
+        <item>Azerbaycan</item>
+        <item>Tayland</item>
+        <item>Lübnan</item>
+        <item>Hindistan</item>
+        <item>Suriye</item>
+        <item>Bangladeş</item>
+        <item>Birleşik Arap Emirlikleri</item>
+        <item>Filistin</item>
+        <item>Filistin</item>
+        <item>Vietnam</item>
+        <item>Çin</item>
+        <item>Endonezya</item>
+        <item>İsrail</item>
+        <item>Afganistan</item>
+        <item>Pakistan</item>
+        <item>Nepal</item>
+        <item>Malezya</item>
+        <item>Kuveyt</item>
+        <item>Çin</item>
+        <item>Filipinler</item>
+        <item>Umman</item>
+        <item>Kamboçya</item>
+        <item>Kuzey Kore</item>
+        <item>Katar</item>
+        <item>Myanmar</item>
+        <item>Suudi Arabistan</item>
+        <item>Güney Kore</item>
+        <item>Çin</item>
+        <item>Singapur</item>
+        <item>Çin</item>
+        <item>İran</item>
+        <item>İsrail</item>
+        <item>Japonya</item>
+        <item>Moğolistan</item>
+        <item>Bermuda</item>
+        <item>İspanya</item>
+        <item>Yeşil Burun Adaları</item>
+        <item>İzlanda</item>
+        <item>Falkland Adaları</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Avustralya</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Kanada</item>
+        <item>Şili</item>
+        <item>Hollanda</item>
+        <item>Andora</item>
+        <item>Yunanistan</item>
+        <item>Birleşik Krallık</item>
+        <item>Sırbistan</item>
+        <item>Almanya</item>
+        <item>Slovakya</item>
+        <item>Belçika</item>
+        <item>Romanya</item>
+        <item>Macaristan</item>
+        <item>Moldova</item>
+        <item>Danimarka</item>
+        <item>İrlanda</item>
+        <item>Cebelitarık</item>
+        <item>Finlandiya</item>
+        <item>Man Adası</item>
+        <item>Türkiye</item>
+        <item>Portekiz</item>
+        <item>Birleşik Krallık</item>
+        <item>Lüksemburg</item>
+        <item>İspanya</item>
+        <item>Malta</item>
+        <item>Beyaz Rusya</item>
+        <item>Monako</item>
+        <item>Rusya</item>
+        <item>Norveç</item>
+        <item>Fransa</item>
+        <item>Çekya</item>
+        <item>Letonya</item>
+        <item>İtalya</item>
+        <item>San Marino</item>
+        <item>Bosna Hersek</item>
+        <item>Ukrayna</item>
+        <item>Kuzey Makedonya</item>
+        <item>Bulgaristan</item>
+        <item>İsveç</item>
+        <item>Estonya</item>
+        <item>Vatikan</item>
+        <item>Avusturya</item>
+        <item>Litvanya</item>
+        <item>Polonya</item>
+        <item>Hırvatistan</item>
+        <item>İsviçre</item>
+        <item>Madagaskar</item>
+        <item>Maldivler</item>
+        <item>Mauritius</item>
+        <item>Yeni Zelanda</item>
+        <item>Fiji</item>
+        <item>Guam</item>
+        <item>Birleşik Devletler</item>
+        <item>Avustralya</item>
+        <item>Yeni Kaledonya</item>
+        <item>Samoa</item>
+        <item>Fransız Polinezyası</item>
+        <item>Antigua ve Barbuda</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Kanada</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Kanada</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>El Salvador</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Katar</item>
+        <item>Çin</item>
+        <item>Hindistan</item>
+        <item>Hindistan</item>
+        <item>Japonya</item>
+        <item>Pakistan</item>
+        <item>Yemen</item>
+        <item>İspanya</item>
+        <item>Almanya</item>
+        <item>İtalya</item>
+        <item>Almanya</item>
+        <item>Vietnam</item>
+        <item>Türkiye</item>
+        <item>Hindistan</item>
+        <item>Brezilya</item>
+        <item>Güney Afrika</item>
+        <item>Pakistan</item>
+        <item>Brezilya</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Krallık</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Çin</item>
+        <item>Hindistan</item>
+        <item>Birleşik Devletler</item>
+        <item>Brezilya</item>
+        <item>Birleşik Devletler</item>
+        <item>Liberya</item>
+        <item>Sri Lanka</item>
+        <item>Meksika</item>
+        <item>Hindistan</item>
+        <item>Birleşik Krallık</item>
+        <item>Ukrayna</item>
+        <item>Rusya</item>
+        <item>Polonya</item>
+        <item>Polonya</item>
+        <item>Almanya</item>
+        <item>Finlandiya</item>
+        <item>İsrail</item>
+        <item>Porto Riko</item>
+        <item>Honduras</item>
+        <item>Surinam</item>
+        <item>Ekvador</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Birleşik Devletler</item>
+        <item>Kanada</item>
+        <item>Yeşil Burun Adaları</item>
+        <item>İzlanda</item>
+        <item>İsviçre</item>
+        <item>Namibya</item>
+        <item>Bulgaristan</item>
+        <item>Yunanistan</item>
+        <item>Rusya</item>
+        <item>Sudan</item>
+        <item>Kenya</item>
+        <item>Yemen</item>
+        <item>Madagaskar</item>
+        <item>Kuveyt</item>
+        <item>Birleşik Arap Emirlikleri</item>
+        <item>Rusya</item>
+        <item>Hindistan</item>
+        <item>Rusya</item>
+        <item>Çin</item>
+        <item>Rusya</item>
+        <item>Rusya</item>
+        <item>Rusya</item>
+        <item>Rusya</item>
+        <item>Rusya</item>
+        <item>Fiji</item>
+        <item>Yeni Zelanda</item>
+    </string-array>
+    <string-array name="device_settings_date_week">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="device_settings_date_week_simple1">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="device_settings_face_fun">
+        <item>@string/device_settings_common_null</item>
+        <item>Nabız</item>
+        <item>Stres</item>
+        <item>Uyku</item>
+        <item>Enerji</item>
+        <item>Adımlar</item>
+        <item>Kalori</item>
+        <item>Ayakta durma</item>
+        <item>Pil</item>
+        <item>Tarih</item>
+        <item>Hava durumu</item>
+        <item>Hava basıncı</item>
+        <item>Yükseklik</item>
+        <item>Zamanlayıcı</item>
+        <item>Alarm</item>
+        <item>HKE</item>
+        <item>Nem</item>
+        <item>Egzersiz</item>
+        <item>UV Endeksi</item>
+        <item>Gün doğumu &amp; gün batımı</item>
+        <item>Rüzgar</item>
+    </string-array>
+    <string-array name="device_settings_reminder_period_array">
+        <item>Tek seferlik etkinlik</item>
+        <item>Günlük</item>
+        <item>Haftalık</item>
+        <item>Aylık</item>
+        <item>Yıllık</item>
+        <item>Özel</item>
+    </string-array>
+    <string-array name="device_settings_unlock_phone_distance_list">
+        <item>Çok yakın</item>
+        <item>Yakın</item>
+        <item>Az yakın</item>
+    </string-array>
+    <string-array name="face_fun">
+        <item>@string/face_common_null</item>
+        <item>Nabız</item>
+        <item>Stres</item>
+        <item>Uyku</item>
+        <item>Enerji</item>
+        <item>Adımlar</item>
+        <item>Kalori</item>
+        <item>Ayakta durma</item>
+        <item>Pil</item>
+        <item>Tarih</item>
+        <item>Hava durumu</item>
+        <item>Hava basıncı</item>
+        <item>Yükseklik</item>
+        <item>Zamanlayıcı</item>
+        <item>Alarm</item>
+        <item>HKE</item>
+        <item>Nem</item>
+        <item>Egzersiz</item>
+        <item>UV Endeksi</item>
+        <item>Gün doğumu &amp; gün batımı</item>
+        <item>Rüzgar</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_mild_abnormal_array">
+        <item>Pzt, Çrş, Cum</item>
+        <item>Sal, Prş, Cmt</item>
+        <item>Çrş, Cum, Paz</item>
+    </string-array>
+    <string-array name="health_blood_pressure_repeat_mode_week_array">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_descriptions">
+        <item>Vücut hareketlerini takip etmesi ve uyku döngüsü istatistikleri oluşturması için uyuduğunuzda telefonunuzu yakınınıza koyun.</item>
+        <item>"Doğru istatistikler almak için telefonunuzu yanınıza veya yastığınızın altına koyun ve vücudunuzdan 50 cm'den uzak olmadığından emin olun."</item>
+        <item>Uyku vakti programı ayarlandığında, uykunuz otomatik olarak izlenecektir.</item>
+        <item>"Uyku takibi, her gece pilinizin yaklaşık sadece %1'ini tüketir."</item>
+    </string-array>
+    <string-array name="health_deep_shallow_sleep_guide_titles">
+        <item>Uykunuzu takip edin</item>
+        <item>Telefonunuzu yastığınızın yanına yerleştirin</item>
+        <item>İstatistikleri otomatik oluştur</item>
+        <item>Düşük güç tüketimi</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_daily_sleep_arr">
+        <item>Kısa uykunuzu 30 dakika ile sınırlandırmak, uykuya daha iyi dalmanıza yardımcı olur.</item>
+        <item>İyi uyku hijyeni daha iyi hissetmenize yardımcı olabilir.</item>
+        <item>10 ila 20 dakikalık kısa uyku size tazelenmiş hissettirebilir.</item>
+        <item>"13:30'dan önceki kısa uyku size tazelenmiş hissettirebilir."</item>
+        <item>Kısa uyku, enerjinizi ve performansınızı arttırır.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_long_sleep_arr">
+        <item>Uygun miktar. Çoğu yetişkinin 7 ila 9 saatlik uykuya ihtiyacı vardır.</item>
+        <item>Uygun miktar. Düzenli uyku saatlerine uyun.</item>
+        <item>İyi miktar. Devam edin.</item>
+        <item>Az miktar. Çoğu yetişkinin 7 ila 9 saatlik uykuya ihtiyacı vardır.</item>
+        <item>Ortalamadan daha yüksek miktar. Çoğu yetişkinin 7 ila 9 saatlik uykuya ihtiyacı vardır.</item>
+        <item>İyi miktarda derin uyku. İyileşme ve hafızayı artırma.</item>
+        <item>İyi miktarda derin uyku. Onarıcı ve bağışıklığı artırıcı.</item>
+        <item>Ortalamadan daha yüksek miktarda derin uyku. Sağlığınıza dikkat edin.</item>
+        <item>Az miktarda derin uyku. Egzersiz yapmayı deneyin, ama yatmadan önce değil.</item>
+        <item>Az miktarda derin uyku. Zihninizi gevşetin, uykuya dalın.</item>
+        <item>Az miktarda derin uyku. Geceleri canlandırıcı şeylerden kaçının.</item>
+        <item>Uyku saatinizi 22:00 ile 23:00 arasında değiştirin.</item>
+        <item>Geç uyku saati. Düzenli bir uyku saati programı ayarlayın.</item>
+        <item>Geç uyku saati. Düzenli uyku saatlerine uyun.</item>
+        <item>Gece kuşu eğilimlerine sahip olmak sağlık açısından etkilere neden olabilir.</item>
+        <item>Ortalamadan daha yüksek uyanık kalmak süresi. Yatak odanızı karanlık ve sessiz tutun.</item>
+        <item>Birkaç kez uyanma. Yatak odanızı sessiz tutun.</item>
+        <item>Birkaç kez uyanma. Yatak odanızı karanlık ve sessiz tutun.</item>
+        <item>İyi miktarda REM uykusu. Yaratıcılığınız ve problem çözme becerileriniz artar.</item>
+        <item>İyi miktarda REM uykusu. Huzurlu ve rahatlatıcı.</item>
+        <item>Az miktarda REM uykusu. Egzersiz yapmayı deneyin ama yatmadan önce değil.</item>
+        <item>Az miktarda REM uykusu. Yeterli uyku almak yardımcı olabilir.</item>
+        <item>Ortalamadan daha yüksek miktarda REM uykusu. Yatmadan önce endişelerinizi bir kenara bırakın.</item>
+        <item>Ortalamadan daha yüksek miktarda REM uykusu. Düzenli uyku saatlerine uyun.</item>
+        <item>İyi miktarda hafif uyku. Huzurlu ve yaratıcılığı artırıcı.</item>
+        <item>İyi miktarda hafif uyku. Onarıcı ve stres azaltıcı.</item>
+        <item>Ortalamadan daha yüksek miktarda hafif uyku. Yatmadan önce rahatlayın ve gevşeyin.</item>
+        <item>"Sabah enerjinizi bulmak için 00:00'dan önce uyuyun."</item>
+        <item>"Sabah enerjinizi bulmak için 00:00'dan önce uyuyun."</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_monthly_sleep_arr">
+        <item>İyi miktarda uyku ve düzenli uyku vakti rutini. Devam edin.</item>
+        <item>İyi miktarda uyku fakat biraz düzensiz uyku vakti rutini. Düzenli uyku saatlerine uyun.</item>
+        <item>İyi miktarda uyku fakat biraz düzensiz uyku vakti rutini. Bir program belirleyin ve ona bağlı kalın.</item>
+        <item>Uygun uyku miktarı ve düzenli uyku vakti rutini. Geceleri canlandırıcı şeylerden kaçının.</item>
+        <item>Uygun uyku miktarı fakat biraz düzensiz uyku vakti rutini. Yatmadan önce rahatlayın ve gevşeyin.</item>
+        <item>Uygun uyku miktarı fakat biraz düzensiz uyku vakti rutini. Yatak odanızı karanlık ve sessiz tutun.</item>
+        <item>Ortalamadan daha yüksek uyku miktarı ve düzenle utku vakti rutini. İyi uyku hijyeni daha iyi hissetmenize yardımcı olabilir.</item>
+        <item>Ortalamadan daha yüksek miktarda uyku fakat biraz düzensiz uyku vakti rutini. Halsiz hissediyorsanız, uyku saatlerinizi ayarlayın.</item>
+        <item>Ortalamadan daha yüksek miktarda uyku fakat düzensiz uyku vakti rutini. Düzenli uyku saatlerine uyun.</item>
+        <item>Düzensiz uyku. Bir program belirleyin ve ona bağlı kalın.</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_stage_arr">
+        <item>Veri yok</item>
+        <item>Kötü değil</item>
+        <item>Orta</item>
+        <item>İyi</item>
+        <item>Mükemmel</item>
+        <item>Gece verileri yok</item>
+    </string-array>
+    <string-array name="health_sleep_evaluation_weekly_sleep_arr">
+        <item>İyi miktarda uyku ve düzenli uyku vakti rutini. Devam edin.</item>
+        <item>İyi miktarda uyku fakat biraz düzensiz uyku vakti rutini. Düzenli uyku saatlerine uyun.</item>
+        <item>İyi miktarda uyku fakat biraz düzensiz uyku vakti rutini. Bir program belirleyin ve ona bağlı kalın.</item>
+        <item>Uygun uyku miktarı ve düzenli uyku vakti rutini. Geceleri canlandırıcı şeylerden kaçının.</item>
+        <item>Uygun uyku miktarı fakat biraz düzensiz uyku vakti rutini. Yatmadan önce rahatlayın ve gevşeyin.</item>
+        <item>Uygun uyku miktarı fakat biraz düzensiz uyku vakti rutini. Yatak odanızı karanlık ve sessiz tutun.</item>
+        <item>Ortalamadan daha yüksek uyku miktarı ve düzenle utku vakti rutini. İyi uyku hijyeni daha iyi hissetmenize yardımcı olabilir.</item>
+        <item>Ortalamadan daha yüksek miktarda uyku fakat biraz düzensiz uyku vakti rutini. Halsiz hissediyorsanız, uyku saatlerinizi ayarlayın.</item>
+        <item>Ortalamadan daha yüksek miktarda fakat düzensiz uyku vakti rutini. Düzenli uyku saatlerine uyun.</item>
+        <item>Düzensiz uyku. Bir program belirleyin ve ona bağlı kalın.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_descriptions">
+        <item>"Uyuduğunuzda, sesler kaydedilecektir. Makine öğrenimi, Mi Fitness'ın horlama, konuşma ve gürültüleri algılamasını ve kayıtları telefonunuza kaydetmesini sağlar."</item>
+        <item>Uyku vakti programınıza göre mikrofon açılacak ve kapatılacaktır.</item>
+        <item>Yatmadan önce telefonunuzun şarjının yeterli olduğundan emin olun. Düşük pil, ses kaydını kesintiye uğratabilir.</item>
+    </string-array>
+    <string-array name="health_sleep_snore_guide_titles">
+        <item>Mikrofon kullanarak ses kaydedin</item>
+        <item>Sesleri otomatik algıla</item>
+        <item>Telefonunuzu şarjlı tutun</item>
+    </string-array>
+    <string-array name="settingitem_date_week">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple">
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+        <item>P</item>
+    </string-array>
+    <string-array name="settingitem_date_week_simple1">
+        <item>Pzt</item>
+        <item>Sal</item>
+        <item>Çrş</item>
+        <item>Prş</item>
+        <item>Cum</item>
+        <item>Cmt</item>
+        <item>Paz</item>
+    </string-array>
+    <string-array name="userinfo_Height_unit">
+        <item>cm</item>
+    </string-array>
+    <string-array name="userinfo_contact_relation_array">
+        <item>Ayarlanmadı</item>
+        <item>Ebeveyn</item>
+        <item>Kız kardeş</item>
+        <item>Erkek kardeş</item>
+        <item>Eş</item>
+        <item>Çift</item>
+        <item>Arkadaş</item>
+        <item>İş arkadaşı</item>
+        <item>Sınıf arkadaşı</item>
+        <item>Çocuk</item>
+        <item>Partner</item>
+        <item>Yardımcı</item>
+        <item>Patron</item>
+        <item>Oda arkadaşı</item>
+        <item>Doktor</item>
+        <item>Aile üyesi</item>
+        <item>Öğretmen</item>
+        <item>Kapıcı</item>
+        <item>Vasi</item>
+        <item>Sosyal hizmet çalışanı</item>
+        <item>Okul</item>
+        <item>Kreş</item>
+        <item>Diğer</item>
+    </string-array>
+    <string-array name="userinfo_energy_unit">
+        <item>kal</item>
+        <item>kJ</item>
+    </string-array>
+    <string-array name="userinfo_gender_array">
+        <item>Ayarlanmadı</item>
+        <item>Erkek</item>
+        <item>Kadın</item>
+    </string-array>
+    <string-array name="userinfo_length_unit">
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="userinfo_normal_blood_array">
+        <item>Ayarlanmadı</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="userinfo_rh_blood_array">
+        <item>Ayarlanmadı</item>
+        <item>Negatif</item>
+        <item>Pozitif</item>
+    </string-array>
+    <string-array name="userinfo_weight_unit">
+        <item>kg</item>
+    </string-array>
+    <string-array name="userinfo_yes_no_array">
+        <item>Ayarlanmadı</item>
+        <item>Evet</item>
+        <item>Hayır</item>
+    </string-array>
+    <string-array name="week_label">
+        <item>P</item>
+        <item>P</item>
+        <item>S</item>
+        <item>Ç</item>
+        <item>P</item>
+        <item>C</item>
+        <item>C</item>
+    </string-array>
+</resources>
