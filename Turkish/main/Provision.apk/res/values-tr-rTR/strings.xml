@@ -127,6 +127,8 @@
   <string name="other_settings_enhanced_lockscreen_summary_index">Son Kullanıcı Lisans Sözleşmesi</string>
   <string name="other_settings_location">Konum</string>
   <string name="other_settings_location_summary">Konum tabanlı hizmetler sağlamak için uygulamaların ve web sitelerinin konum bilgilerinize erişmesine izin verin</string>
+  <string name="other_settings_quality_service">MIUI Daemon izinleri</string>
+  <string name="other_settings_quality_service_summary">MIUI Daemon, sistem kararlılığını ve performansını iyileştirmek için kullanılır. Bu hizmetin normal olarak çalışabilmesi için öğelere erişme ve cihaz deposuna kayıt izinlerine ihtiyacı vardır.</string>
   <string name="other_settings_upload_debug_log_detail">"Xiaomi\'ye teşhis, cihaz ve uygulama kullanım verilerini otomatik olarak göndererek MIUI cihaz deneyiminizi iyileştirmeye yardımcı olun.  Bu, pil ömrünü, MIUI sistemini ve uygulama kararlılığını ve daha fazlasını iyileştirmeye yardımcı olacaktır.
 Göndereceğiniz veriler, cihazınız ve onu nasıl kullandığınız (ör. pil seviyesi, sistem ve uygulama etkinliği ve hatalar) hakkında genel bilgiler içerir. Veriler MIUI cihazlarını geliştirmek için kullanılacaktır.
 Bu özelliği kapatmak, cihazınızın sistem güncellemeleri ve güvenlik gibi temel hizmetler için gereken bilgileri gönderme yeteneğini etkilemez.

@@ -195,7 +195,7 @@
   <string name="icon_remove_confirm">Kaldır</string>
   <string name="icon_remove_description_content">"\"Hizmetler &amp; geri bildirim\" bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra da Ayarlar üzerinden kullanmaya devam edebilirsiniz.</string>
   <string name="icon_remove_description_title">\"Hizmetler &amp; geri bildirim\" Ana ekrandan kaldırılsın mı?</string>
-  <string name="miui_feedback_main_item_catch_full_log">Günlükleri alın</string>
+  <string name="miui_feedback_main_item_catch_full_log">Günlükler</string>
   <string name="miui_feedback_main_item_feedback_list">Geri bildirimim</string>
   <string name="miui_main_back">Geri</string>
   <string name="miui_main_continue">Sonraki</string>

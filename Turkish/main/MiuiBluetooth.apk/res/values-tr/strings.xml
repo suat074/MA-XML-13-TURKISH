@@ -39,6 +39,7 @@
   <string name="bt_plugin_update_dialog_cancle">Şimdi değil</string>
   <string name="bt_plugin_update_dialog_title">Bluetooth güncellemesi</string>
   <string name="bt_plugin_update_dialog_update">Güncelle</string>
+  <string name="bt_plugin_update_dialog_updating">Bluetooth %1$s sürümüne güncelleniyor…</string>
   <string name="bt_plugin_update_done_dialog_exit">Uygula</string>
   <string name="bt_plugin_update_done_dialog_msg">Değişiklikleri uygulamak için Ayarlar kapatılacak ve Bluetooth bağlantısı kesilecektir.</string>
   <string name="bt_plugin_update_done_dialog_title">Değişiklikleri uygula</string>

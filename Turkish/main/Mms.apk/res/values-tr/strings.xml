@@ -1414,4 +1414,6 @@ SIM kartınızı kontrol edin."</string>
   <string name="system_permission_declare_smart_message">Akıllı Mesajlaşma\'ya hoş geldiniz!</string>
   <string name="system_permission_declare_user_agree">Kabul et</string>
   <string name="system_permission_user_privacy">Devam etmeden önce aşağıdaki hüküm ve koşulları okuyun ve kabul edin.</string>
+  <string name="title_not_show_read_mms_perm_req">Gerekli izinler</string>
+  <string name="toast_not_show_read_mms_perm_req">Alınan mesajları görüntüleyebilmek için, Mesajlaşma için SMS ve MMS okuma izni vermeniz gerekir. Bu izni Ayarlar\'dan verebilirsiniz.</string>
 </resources>

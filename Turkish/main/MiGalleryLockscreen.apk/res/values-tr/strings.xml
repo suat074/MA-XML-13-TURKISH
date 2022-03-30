@@ -806,4 +806,38 @@ EEE"</string>
   <string name="not_agree_summary">Önce şartlar ve koşullarımızı kabul edin</string>
   <string name="privacy_update_title1">Güncellenen gizlilik politikası</string>
   <string name="privacy_update_title2">Dikkat</string>
+  <string name="lks_cta_dont_mention">Tekrar gösterme</string>
+  <string name="lks_cta_ok">Kabul et</string>
+  <string name="lks_cta_reject">Reddet</string>
+  <string name="lks_cta_summary1">Duvar Kağıdı Döngüsü aşağıdaki özellikleri sağlar:</string>
+  <string name="lks_cta_summary2">"1. Otomatik güncellenen duvar kağıtları&lt;br>2. Kilit ekranınıza gönderilen yeni görüntüler ve hikayeler&lt;br>3. Özelleştirme seçenekleri&lt;br>Bu özelliğin normal şekilde çalışması için internete bağlanması gerekir.&lt;br>&lt;br>Ek hizmetler sağlamak için, bu cihazın deposundaki öğelere erişmek ve bunları kaydetmek için izin isteyebiliriz. Devam etmeden önce &lt;font color ='#37A5FF'>&lt;a href='%1$s'>Kullanıcı Sözleşmemizi&lt;/font>&lt;/a> ve &lt;font color ='#37A5FF'>&lt;a href='%2$s'>Gizlilik Politikamızı&lt;/font>&lt;/a> okuyun ve kabul edin."</string>
+  <string name="lks_cta_title">Şartlar ve koşullar</string>
+  <string name="lks_current_lks_wallpaper">Geçerli Kilit ekranı</string>
+  <string name="lks_data_warning_toast_1">"Duvar kağıtlarına göz atmak için mobil veri kullanıyorsunuz.
+Bu ek ücretler oluşturabilir."</string>
+  <string name="lks_dislike">Beğenmedim</string>
+  <string name="lks_download">İndir</string>
+  <string name="lks_like">Favorilere ekle</string>
+  <string name="lks_liked">Favorilere eklendi</string>
+  <string name="lks_loop_icon_ask_cancle">İptal</string>
+  <string name="lks_loop_icon_ask_dlg">Kilit ekranınıza günlük olarak gönderilen yeni görüntüleri ve hikayeleri almak için Kilit ekranı slayt gösterisini açın.</string>
+  <string name="lks_loop_icon_ask_ok">Aç</string>
+  <string name="lks_loop_icon_ask_title">Kilit ekranı slayt gösterisi</string>
+  <string name="lks_loop_icon_close_cancle">İptal</string>
+  <string name="lks_loop_icon_close_dlg">Bu görüntüyü Kilit ekranınız olarak ayarlarsanız, Kilit ekranı slayt gösterisi kapatılacaktır. Şimdi Kilit ekranı olarak ayarlansın mı?</string>
+  <string name="lks_loop_icon_close_ok">Tamam</string>
+  <string name="lks_loop_icon_close_title">Dikkat</string>
+  <string name="lks_loop_icon_dlg_title">Kilit ekranı slayt gösterisi</string>
+  <string name="lks_loop_icon_open_dlg">Kilit ekranı slayt gösterisi açılır ve her gün Kilit ekranınıza yeni görüntüler ve hikayeler sunulur.</string>
+  <string name="lks_loop_icon_open_ok">Anladım</string>
+  <string name="lks_more">Daha fazla</string>
+  <string name="lks_more_pics_coming_toast">Yeni görüntüler yolda</string>
+  <string name="lks_new_user_help_anime">Duvar Kağıdı Döngüsü\'nden daha fazlasını görmek için yukarı kaydırın</string>
+  <string name="lks_no_network">Ağa bağlanılamadı</string>
+  <string name="lks_please_reload">Tekrar yükle</string>
+  <string name="lks_related_article">Makale</string>
+  <string name="lks_retry">Tekrar deneyin</string>
+  <string name="lks_set_as_lks_wallpaper">Kilit ekranı olarak ayarla</string>
+  <string name="lks_to_history">Geçmiş</string>
+  <string name="lks_to_setting">Duvar Kağıdı Döngüsü ayarları</string>
 </resources>

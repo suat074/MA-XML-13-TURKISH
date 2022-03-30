@@ -1120,7 +1120,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="cta_dialog_negative">Çıkış</string>
   <string name="cta_dialog_positive">Kabul</string>
   <string name="cta_dialog_title">Hükümler ve Koşullar</string>
-  <string name="cta_main_purpose">Güvenliğe Hoş Geldiniz! Güvenlik ve modüllerini (MIUI güvenlik bileşenleri ve sistem hizmetleri dahil) depolama alanını boşaltmak, cihazınızı virüslere karşı taramak, pil kullanımını kontrol etmek, oyun oynamak için optimize etmek, uygulamaları yönetmek, deprem erken uyarıları almak ve daha fazlası için kullanabilirsiniz.</string>
+  <string name="cta_main_purpose">Güvenliğe Hoş Geldiniz! Depolama alanını boşaltmak, cihazınızı virüslere karşı taramak, pil kullanımını kontrol etmek, cihazınızı oyun oynamak için optimize etmek, uygulamaları yönetmek, deprem erken uyarıları almak ve daha fazlasını yapmak için Güvenliği ve modüllerini (MIUI güvenlik bileşenleri ve sistem hizmetleri dahil) kullanabilirsiniz. MIUI güvenlik bileşenleri, uygulamaları yüklerken ve ödeme yaparken internete bağlanacak ve güvenlik taramaları gerçekleştirecektir.</string>
   <string name="cta_settings">İnternet bağlantısına ve konum erişimine izin verin</string>
   <string name="current_network_state_not_need_diagnose">İnternet bağlantısı normal.</string>
   <string name="custom_define_permission_desc_android.permission.CALL_PHONE">Engelli listesini kullanmak ve deprem uyarısı verildiğinde acil durum kişilerini aramak için</string>
@@ -5208,4 +5208,32 @@ sıcaklık sınırlarını düşürürken güç tasarrufu sağlar"</string>
   <string name="gtb_stop_accelerate">Durdur</string>
   <string name="gtb_timer">Zamanlayıcı</string>
   <string name="gtb_voice_changer">Ses değiştirici</string>
+  <string name="exit_dialog_release_memory_title_new"><Data>&lt;font color=#0099ff>%s&lt;/font> ile cihazınızı hızlandırın</Data></string>
+  <string name="function_auto_reject_detail_new">"Bu özellik hakkında:
+%1$d. Oyun oynarken, mobil veri hizmeti olmayan SIM karta gelen tüm çağrılar otomatik olarak reddedilecektir.
+%2$d. Cevapsız çağrılar hakkında bildirimler göreceksiniz ve diğer kişi şu anda meşgul olduğunuza dair bir sesli mesaj duyacaktır.
+%3$d. Bu özellik yalnızca Çin\'deki mobil operatörler tarafından desteklenir."</string>
+  <string name="function_gwsd_detail_new">"Bu özellik hakkında:
+ %1$d. Bir veri SIM\'inde veya bir VoLTE şebekesine bağlı normal bir SIM kartta mobil veri kullanırken, siz açana kadar bağlantı, gelen çağrılar tarafından kesilmeyecektir.
+ %2$d. Bu özellik açıkken, normal bir SIM kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen çağrılar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir.
+ %5$d. China Mobile ve China Unicom tarafından verilen Veri SIM kartları desteklenir. China Mobile, China Unicom ve China Telecom tarafından verilen normal SIM kartlar desteklenir."</string>
+  <string name="gb_dialog_record_way_ai_new">AI kayıtları oyun kutusuna kaydedilir ve orada %d gün boyunca saklanır.</string>
+  <string name="gb_dialog_record_way_manual_new">%d saniyeye kadar uzunluktaki videoları manuel olarak kaydedin</string>
+  <string name="gb_game_video_bottom_tips_new">Game Turbo\'daki oyun oturumlarınızdan önemli anları tekrar gözden geçirin. Videolar %d gün sonra otomatik olarak silinir.</string>
+  <string name="gb_xunyou_gift_type_one_new">Xunyou %d günlük artış</string>
+  <string name="gb_xunyou_gift_type_three_new">Xunyou %d günlük artış</string>
+  <string name="gb_xunyou_gift_type_two_new">Xunyou %d günlük artış</string>
+  <string name="gs_sign_notification_new">Günlük ÖS %d saatinde giriş yapmayı hatırlat</string>
+  <string name="gtb_setting_item_summary_smart_wlan_speed_new">Mi/Redmi yönlendiricilerine bağlanıldığında bağlantı hızını %1$s-%2$s artırın</string>
+  <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s serbest bırakıldı.
+Cihazınız artık %s daha hızlı."</string>
+  <string name="menu_item_notification_optimize_text_new">%s dolu</string>
+  <string name="menu_summary_garbage_cleanup_new_new">%s depolama alanı</string>
+  <string name="menu_summary_optimize_manage_1_new">Cihazınızı %s daha hızlı yapın</string>
+  <string name="notification_link_optimizemanage_1011_new">%s bellek dolu. Şimdi Temizle.</string>
+  <string name="notification_optimize_title_new">%s bellek dolu</string>
+  <string name="signed_rule_one_new">%1$d. Sırasıyla %5$d, %6$d veya %7$d gün boyunca Xunyou desteği almak için her ay arka arkaya %2$d, %3$d veya %4$d gün giriş yapın.</string>
+  <string name="signed_rule_three_new">%1$d. Giriş yaptığınız günler her ayın başında iptal edilir. Kalan günler devredilmez.</string>
+  <string name="signed_rule_two_new">%d. Ayda sadece 1 Xunyou takviyesi alabilirsiniz.</string>
+  <string name="superpower_notification_new_title_new">%s değerinden az pil kaldı</string>
 </resources>

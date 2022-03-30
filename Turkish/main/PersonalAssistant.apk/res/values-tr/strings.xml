@@ -1255,6 +1255,9 @@ Devam etmeden önce %s yeni sürümünü okuyun ve kabul edin."</string>
   <string name="notification_title_fail">Ödeme eklenemedi</string>
   <string name="notification_title_success">Ödeme başarıyla eklendi</string>
   <string name="opened">Aç</string>
+  <string name="pa_accessibility_picker_app_group_list_item">%1$s, toplam %2$d.</string>
+  <string name="pa_accessibility_picker_search_clear">Temizle</string>
+  <string name="pa_rtk_recommend_card_title">Öneriler</string>
   <string name="pa_accessibility_home_search">Arama, başlatmak için iki kez dokunun</string>
   <string name="pa_accessibility_home_widget_drag">Öğeyi sürükleme</string>
   <string name="pa_accessibility_home_widget_drag_move">%1$d satırına, %2$d konumuna git</string>
@@ -1271,8 +1274,8 @@ Devam etmeden önce %s yeni sürümünü okuyun ve kabul edin."</string>
   <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s seçili.</string>
   <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Widget mağazası Uygulama listesi. %s öğe uygulama listesinde. %s Seçildi, liste numarası %s. Öğe %s widget içeriyor, Widget açıklamasını açmak için iki kez dokunun.</string>
   <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s selected.</string>
-  <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu öğeyi Ana ekrana eklemek için iki kez dokunun.</string>
-  <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu öğeyi Uygulama kasasına eklemek için iki kez dokunun.</string>
+  <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu öğeyi Ana ekrana ekleyin.</string>
+  <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu öğeyi Uygulama kasasına ekleyin.</string>
   <string name="pa_accessibility_picker_widget_detail_edit">Düzenle</string>
   <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">Widget seçildi. Bu öğeyi Ana ekrana eklemek için sürükleyin.</string>
   <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">Widget seçildi. Bu öğeyi Uygulama kasasına eklemek için sürükleyin.</string>

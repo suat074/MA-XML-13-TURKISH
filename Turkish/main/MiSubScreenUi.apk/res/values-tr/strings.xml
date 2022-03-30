@@ -242,6 +242,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">"Mi Topluluğu'nda daha fazlasını öğrenin"</string>
     <string name="sub_screen_app_name">Arka ekran</string>
+	<string name="subscreen_brightness">Arka ekran parlaklığı</string>
     <string name="subscreen_other">Diğer</string>
     <string name="subscreen_other_dialog_cancel">İptal et</string>
     <string name="subscreen_other_dialog_confirm">Aç</string>

@@ -29,6 +29,14 @@
     <item quantity="other">%d dak önce</item>
     <item quantity="one">1 dak önce</item>
   </plurals>
+  <plurals name="circulate_audio_group_subtitle_format">
+    <item quantity="other">%1$d cihaz</item>
+    <item quantity="one">%1$d cihaz</item>
+  </plurals>
+  <plurals name="circulate_audio_group_title_format">
+    <item quantity="other">%1$d cihaz</item>
+    <item quantity="one">%1$d cihaz</item>
+  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Yarım saat önce</item>
   </plurals>

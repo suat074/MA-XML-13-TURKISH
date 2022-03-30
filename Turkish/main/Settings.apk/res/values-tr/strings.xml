@@ -2767,7 +2767,7 @@ Cihazınızı yeniden başlatıp tekrar deneyin."</string>
   <string name="error_mcc_not3">MCC alanında 3 rakam olmalıdır.</string>
   <string name="error_mnc_not23">MNC alanı 2 veya 3 rakam olmalıdır.</string>
   <string name="error_name_empty">Ad alanı boş olamaz.</string>
-  <string name="error_xcap_not_add">APN Türü, XCAP türü olamaz.</string>
+  <string name="error_xcap_not_add">Erişim noktası adı türü olarak XCAP kullanılamaz.</string>
   <string name="estimated_charging_time_left">Tamamen şarj olana kadar</string>
   <string name="estimated_time_description">Tahmini kullanıma göre değişebilir</string>
   <string name="estimated_time_left">Kalan tahmini süre</string>
@@ -9602,4 +9602,30 @@ Ayarları şu şekilde güncelle:
   <string name="bt_plugin_set_net_dialog_message">Ağ ayarlarınızı kontrol edin ve tekrar deneyin.</string>
   <string name="bt_plugin_set_net_dialog_retry">Tekrar deneyin</string>
   <string name="bt_plugin_set_net_dialog_title">Ağa bağlanılamadı</string>
+  <string name="adapt_embedded">Paralel pencereler mevcut</string>
+  <string name="application_mode_empty_text">Burada henüz uygulama yok</string>
+  <string name="application_mode_name">Uygulama görüntüleme modu</string>
+  <string name="bt_plugin_current_version">Geçerli sürüm</string>
+  <string name="fiveg_vonr_switch_summary">Arama deneyimini geliştirmek için 5G ağ ortamlarında VoNR kullanın. Bu özellik yalnızca test amacıyla sağlanmıştır.</string>
+  <string name="fiveg_vonr_switch_title">VoNR ayarları</string>
+  <string name="font_cta_alert_btn_negative">İptal</string>
+  <string name="font_cta_alert_btn_positive">Kabul et</string>
+  <string name="font_cta_alert_message">Devam etmek için Temaların hüküm ve koşullarını okuyun ve kabul edin.</string>
+  <string name="font_cta_alert_title">Şartlar ve koşullar</string>
+  <string name="rename_words_reached_limit">Yeni isim bundan daha uzun olamaz</string>
+  <string name="size_embedded">Paralel pencereler</string>
+  <string name="size_full">Tam ekran</string>
+  <string name="unadapt_embedded">Paralel pencereler kullanılamıyor</string>
+  <string name="vonr_switch_title">VoNR kullan</string>
+  <string name="guide_button_text">Anladım</string>
+  <string name="guide_text_center">"Ekranın ortasında sağa kaydırın.
+Ekran kilidinizi onaylayabileceğiniz alan ortaya hizalanacaktır."</string>
+  <string name="guide_text_left">"Sol alt köşeden düz yukarı kaydırın.
+Ekran kilidinizi onaylayabileceğiniz alan sola doğru hareket edecektir."</string>
+  <string name="guide_text_right">"Sağ alt köşeden düz yukarı kaydırın.
+Ekran kilidinizi onaylayabileceğiniz alan sağa hareket edecektir."</string>
+  <string name="guide_title_center">Ortadan yukarı kaydırın</string>
+  <string name="guide_title_left">Soldan yukarı kaydırın</string>
+  <string name="guide_title_right">Sağdan yukarı kaydırın</string>
+  <string name="search_application_count">Uygulama ara</string>
 </resources>

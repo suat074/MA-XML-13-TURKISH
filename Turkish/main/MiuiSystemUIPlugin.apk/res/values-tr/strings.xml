@@ -65,6 +65,10 @@
   <string name="clear_text_end_icon_content_description">Metni temizle</string>
   <string name="clearable_edittext_clear_description">Temizle</string>
   <string name="close">Kapat</string>
+  <string name="close_invisible_mode_dialog_cancel">İptal</string>
+  <string name="close_invisible_mode_dialog_message">Mi Smart Play şimdi kullanılamıyor. Bu özelliği kullanabilmek için Ayarlar\'dan Gizli modu kapatın.</string>
+  <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
+  <string name="close_invisible_mode_dialog_title">Gizlisin</string>
   <string name="control_center_notification_switch_guide">Kontrol merkezi ve Bildirim alanı arasında geçiş yapmak için kaydırın</string>
   <string name="controls_confirmation_message">%s için değişikliği onayla</string>
   <string name="controls_dialog_confirmation">Kontroller güncellendi</string>

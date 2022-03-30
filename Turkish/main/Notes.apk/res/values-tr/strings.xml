@@ -803,7 +803,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="setting_big_screen_layout_flat">Döşe</string>
   <string name="setting_big_screen_layout_title">Geniş ekran düzeni</string>
   <string name="setting_layout">Düzen</string>
-  <string name="setting_micloud_sync_title">Bulut ile eşitle</string>
+  <string name="setting_micloud_sync_title">Xiaomi Bulut</string>
   <string name="setting_note_list_layout_title">Düzen</string>
   <string name="warn_cannot_add_new_bullet">Not çok uzun olduğu için yeni madde işaretli liste eklenemiyor</string>
   <string name="warn_cannot_add_new_checkbox">Not çok uzun olduğu için yeni onay kutusu eklenemiyor</string>
@@ -814,4 +814,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="warn_cannot_add_new_style">Not çok uzun olduğu için yeni biçim eklenemiyor</string>
   <string name="warn_disable_edit_in_browse_mode">Salt okunur modda notları düzenleyemezsiniz</string>
   <string name="warn_enter_browse_mode">Salt okuma modundasınız</string>
+  <string name="menu_edit">Düzenle</string>
+  <string name="note_module_name">Notlar</string>
+  <string name="setting_cloud_service">Bulut hizmetleri</string>
 </resources>

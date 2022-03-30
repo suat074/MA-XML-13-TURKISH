@@ -595,4 +595,7 @@
     <item quantity="other">%d öğe seçildi</item>
     <item quantity="one">%d öğe seçildi</item>
   </plurals>
+  <plurals name="search_application_count">
+    <item quantity="other">Uygulama ara</item>
+  </plurals>
 </resources>

@@ -1049,7 +1049,7 @@ Favori listenize kişi eklemek için:
   <string name="preference_privacy_policy_title">Gizlilik Politikası</string>
   <string name="preference_remove_duplicate">Aynı kişileri birleştir</string>
   <string name="preference_show_firewall_calllog">Engellenen aramaları çağrı geçmişinde göster</string>
-  <string name="preference_show_yellowpage_tab_description">Bu özellik kapalı olduğunda Sarı sayfalar düzgün çalışmayabilir.</string>
+  <string name="preference_show_yellowpage_tab_description">Bu özelliği kapatırsanız Sarı sayfalar ve hizmetleri gösterilmez</string>
   <string name="preference_show_yellowpage_tab_title">Sarı sayfaları göster</string>
   <string name="preference_simple_mode_description">Fotoğrafları ve diğer kişi bilgilerini liste görünümünde görüntüleyin</string>
   <string name="preference_simple_mode_title">Fotoğrafları ve bilgileri görüntüleyin</string>
@@ -1541,4 +1541,7 @@ Favori listenize kişi eklemek için:
   <string name="new_saf_permission_dialog_grant_permission_immediately">Sonraki</string>
   <string name="new_saf_permission_dialog_title"><b>Gerekli izinler</b></string>
   <string name="this_folder">Bu klasörü kullan</string>
+  <string name="privacy_settings_blue_scan_connect">Yakındaki cihazlara bağlanın</string>
+  <string name="toast_not_show_blue_scan_connect_perm_req">Diğer cihazlardan kişileri içe aktarabilmek için, bu özelliğin Bluetooth aracılığıyla yakındaki cihazlara bağlanmasına izin verin.</string>
+  <string name="preference_yellowpage_function_setting">Sarı sayfa ayarları</string>
 </resources>

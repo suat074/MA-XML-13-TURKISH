@@ -38,10 +38,10 @@
   <string name="antispam_local_marked">Yerel olarak işaretlendi</string>
   <string name="antispam_notification_title">Bilinmeyen numara</string>
   <string name="antispam_provider">%s tarafından tespit edildi</string>
-  <string name="bluetooth_permission_content">Sistem yetkilendirme güncellemesi nedeniyle, Bluetooth cihaz listenizi almak için yetkilendirmeniz gerekiyor</string>
-  <string name="bluetooth_permission_grant_immediately">Hemen yetkilendir</string>
-  <string name="bluetooth_permission_later">Daha sonra</string>
-  <string name="bluetooth_permission_title">Bluetooth cihazlarına erişim izni verir</string>
+  <string name="bluetooth_permission_content">Sistem izinleri güncellendi. Bu uygulamanın, Bluetooth cihazlarınızı görüntüleyebilmesi için adlarına erişmesine izin verin.</string>
+  <string name="bluetooth_permission_grant_immediately">İzin ver</string>
+  <string name="bluetooth_permission_later">Şimdi değil</string>
+  <string name="bluetooth_permission_title">Gerekli izinler</string>
   <string name="callFailed_cb_enabled">Çağrı engelleme açıkken giden arama yapamazsınız.</string>
   <string name="callFailed_congestion">Ağ meşgul</string>
   <string name="callFailed_dialToDial">Arama isteği farklı numara çevirmek için değiştirildi.</string>
