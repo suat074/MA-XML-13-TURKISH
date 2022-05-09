@@ -101,6 +101,10 @@
   <string name="location_service_notice">*Konum hizmetleri, Amap tarafından sağlanmaktadır.</string>
   <string name="mi_loading_qr">QR kodu oluşturuluyor…</string>
   <string name="min">dak</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="mon">Pzt</string>
   <string name="my_qr">Kite Guard APk QR</string>
   <string name="need_network_when_bind">Cihaz eklemek için ağa bağlanın</string>

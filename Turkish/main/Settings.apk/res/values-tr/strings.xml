@@ -1021,7 +1021,7 @@ bir dakikadan az kullanıldı"</string>
   <string name="block_list_dialog_title">Bağlantı kesilsin mi?</string>
   <string name="block_list_no_device">Engelli listesinde bağlı cihaz yok</string>
   <string name="block_list_remove_dialog_content">Bu cihaz \"%s\" paylaşımına bağlanabilecek</string>
-  <string name="block_list_remove_dialog_title">“%s” engelli listesinden kaldırılsın mı?</string>
+  <string name="block_list_remove_dialog_title">Dikkat</string>
   <string name="block_list_summary">Bu paylaşıma bağlanmasına izin verilmeyen cihazları görüntüle</string>
   <string name="block_list_title">Engelli listesi</string>
   <string name="block_title">Bildirimleri göster</string>
@@ -9628,4 +9628,25 @@ Ekran kilidinizi onaylayabileceğiniz alan sağa hareket edecektir."</string>
   <string name="guide_title_left">Soldan yukarı kaydırın</string>
   <string name="guide_title_right">Sağdan yukarı kaydırın</string>
   <string name="search_application_count">Uygulama ara</string>
+  <string name="expand_card_action">Ek kartlar</string>
+  <string name="music_playback_control_cross_device_flow">Cihazlar arasında ses çalmasını aktarın</string>
+  <string name="music_video_flow_across_device">Cihazlar arasında ses çalmasını kontrol edin ve aktarın</string>
+  <string name="sos_privacy_dialog_message_old_version">"Acil SOS, konumunuzu gerçek zamanlı olarak paylaşmanıza ve acil durum kişilerinize metin mesajları göndermenize olanak tanır.
+Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız.
+Bu uygulamanın internete bağlanması ve kişisel bilgilerinizi toplamak için aşağıdaki izinleri alması gerektiğini unutmayın:
+• Depolama alanına erişim
+Acil durum kişilerini kaydetmek için
+• Kişilere erişim
+Kişileri, acil durum kişileri olarak işaretlemek için
+• SMS gönderme
+Acil durum kişilerine kısa mesaj göndermek için
+• Konuma erişim
+Konumunuzu acil durumda iletişime geçilecek kişilerle paylaşmak için
+Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi kabul etmezseniz, bu uygulamayı kullanamazsınız. Bu gibi durumlarda Acil SOS kapatmayı veya kullanmamayı seçebilirsiniz.
+Hizmetlerimizi kullanmadan önce %s okuyun ve kabul edin."</string>
+  <string name="freeform_guide_to_sidehide_summary">Uygulamayı gizlemek için hızlıca ekranın kenarına sürükleyin</string>
+  <string name="freeform_guide_to_sidehide_title">Yüzer pencereleri gizleme</string>
+  <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Yüzer bir pencerede açmak için kenar çubuğunda bir uygulamaya dokunun.
+· Bir uygulamayı yüzer bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranda kullanmak için yan tarafa sürükleyin."</string>
+    <string name="sidebar_setting">Kenar çubuğu ayarları</string>
 </resources>

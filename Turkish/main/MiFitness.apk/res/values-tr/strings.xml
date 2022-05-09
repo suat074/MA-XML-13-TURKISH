@@ -597,7 +597,7 @@ Fikrinizi değiştirirseniz, hizmetlerimizi kullanmadan önce Gizlilik Politikas
     <string name="device_language_setting">Dil</string>
     <string name="device_location_dialog_message">"Gerekli izinleri vermedikçe bu hizmeti kullanamayacaksınız ama bu, diğer hizmetleri kullanmanızı etkilemeyecektir. İstediğiniz zaman Ayarlar'da izinleri kısıtlayabilirsiniz."</string>
     <string name="device_location_dialog_title">İzin gerekli</string>
-    <string name="device_lock_off_wrist">Bilek algılama</string>
+    <string name="device_lock_off_wrist">PIN</string>
     <string name="device_manager">Cihazlar</string>
     <string name="device_mi_band">Bileklik</string>
     <string name="device_mi_watch">Saat</string>
@@ -889,7 +889,7 @@ Bu özelliği açmak pil ömrünü etkileyecektir, yine de devam edilsin mi?"</s
     <string name="device_settings_heart_rate_warning_unit">BPM</string>
     <string name="device_settings_helper_keep_alive">Arka plan izinleri</string>
     <string name="device_settings_high_hr_notify">Yüksek nabız</string>
-    <string name="device_settings_high_hr_notify_des">10 dakika hareketsiz kaldığınızda nabzınız belirlenen seviyenin üzerine çıktığında bildirim alın</string>
+    <string name="device_settings_high_hr_notify_des">Etkin değilken kalp atış hızınız ayarlanan seviyenin üzerinde kaldığında bildir</string>
     <string name="device_settings_high_hr_notify_threshold">Uyarı değeri</string>
     <string name="device_settings_high_pressure_notice_des">"Uyanık olduğunuz süreçte stres seviyeniz 80'in üzerinde kaldığında nefes egzersizi isteyin"</string>
     <string name="device_settings_high_pressure_notice_title">Rahatlatıcı hatırlatıcı</string>
@@ -918,7 +918,7 @@ Bu özelliği açmak pil ömrünü etkileyecektir, yine de devam edilsin mi?"</s
     <string name="device_settings_limit_bind_switch_tips">Giyilebilir cihazınızın farklı bir uygulamayla eşleşmesini kısıtlayın</string>
     <string name="device_settings_limit_hint">İpuçları</string>
     <string name="device_settings_load_data_failed">Bilgi yüklenemedi</string>
-    <string name="device_settings_lock_off_wrist">Bilek algılama</string>
+    <string name="device_settings_lock_off_wrist">PIN</string>
     <string name="device_settings_lock_off_wrist_set_pwd">PIN ayarla</string>
     <string name="device_settings_long_sit">Oturma uyarısı</string>
     <string name="device_settings_low_hr_warning_title">Düşük nabız</string>
@@ -1064,7 +1064,7 @@ Eşleşmeyi sonlandır seçeneğine dokunun"</string>
     <string name="device_settings_unlock_phone_unlock_distance">Mesafe</string>
     <string name="device_settings_unwear_alert">Takmadığınızda giyilebilir cihazınızı kilitleyin</string>
     <string name="device_settings_unwear_close_cofirm_msg">"PIN'i devre dışı bıraktıktan sonra bu özelliği kullanamayacaksınız, yine de devam edilsin mi?"</string>
-    <string name="device_settings_unwear_close_cofirm_title">PIN kodunu devre dışı bırak?</string>
+    <string name="device_settings_unwear_close_cofirm_title">PIN\'i kapat</string>
     <string name="device_settings_unwear_close_pwd">PIN kodunu devre dışı bırak</string>
     <string name="device_settings_unwear_no_set">Ayarlanmadı</string>
     <string name="device_settings_unwear_set_pwd">PIN</string>
@@ -4101,4 +4101,42 @@ Bilgilerinizi paylaşmak istemiyorsanız bu özelliği kapatabilirsiniz."</strin
     <string name="xms_thirdapp_revoke_auth">İzinleri, Profil > Cihaz izinleri menüsünden değiştirebilirsiniz.</string>
     <string name="year" />
     <string name="yesterday">Dün</string>
+	<string name="device_agree_all">Tümünü kabul ediyorum</string>
+    <string name="device_agree_to_terms">Şartlar ve koşullar</string>
+    <string name="device_required_agree_collect_info">&lt;Data>&lt;a href=\"%1$s\">Kişisel Bilgilerin Toplanmasını ve Kullanılmasını&lt;/a> kabul ediyorum (zorunlu)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>&lt;a href=\"%1$s\">Konum Bilgilerinin Toplanmasını&lt;/a> kabul ediyorum (zorunlu)&lt;/Data></string>
+    <string name="device_settings_contact">Favori kişiler</string>
+    <string name="device_settings_contact_add">Ekle</string>
+    <string name="device_settings_contact_add_fail">Favori kişilere eklenemedi. Tekrar deneyin.</string>
+    <string name="device_settings_contact_delete_fail">Silinemedi. Tekrar deneyin.</string>
+    <string name="device_settings_contact_edit">Düzenle</string>
+    <string name="device_settings_contact_list_fail">Kişi bilgisi alınamadı. Tekrar deneyin.</string>
+    <string name="device_settings_contact_list_tips1">1. Giyilebilir cihazınızda kişilerinizi aramak için, onları favori kişilerinize ekleyin.</string>
+    <string name="device_settings_contact_list_tips2">2. En fazla 10 favori kişi ekleyebilirsiniz.</string>
+    <string name="device_settings_contact_search">Kişileri ara</string>
+    <string name="device_settings_contact_select">Kişi seçin</string>
+    <string name="device_settings_contact_sort">Sırala</string>
+    <string name="device_settings_contact_sync_failt">Eşitlenemedi. Tekrar deneyin.</string>
+    <string name="device_settings_contact_sync_success">Başarıyla eşitlendi.</string>
+    <string name="device_settings_no_contact">Henüz favori yok</string>
+    <string name="device_settings_unwear_get_status_fail">Veriler eşitlenemedi</string>
+    <string name="health_spo2_abnormal_count">Uyarılar</string>
+    <string name="privacy_permission_record_audio">Ses kaydı</string>
+    <string name="privacy_permission_record_audio_des">Uyku döngünüzü analiz ederken konuşma ve horlamayı kaydetmek için</string>
+    <string name="success">Bitti</string>
+    <string name="sync_wifi_no_permission_desc">Giyilebilir cihazınızla Wi-Fi şifresi paylaşılsın mı?</string>
+    <string name="sync_wifi_no_permission_title">Şifreyi paylaş</string>
+    <string name="trail_map_style_common">Varsayılan</string>
+    <string name="trail_map_style_no_label">Hiçbiri</string>
+    <string name="trail_map_style_satillite">Uydu</string>
+    <string name="trail_open_mail_points">Kilometre işaretleri</string>
+    <string name="trail_sport_map_edit">Harita</string>
+    <string name="trail_sport_summary_speed">Hız (km/s)</string>
+    <string name="trail_summary_avg_back_swing_duration">Geri (s)</string>
+    <string name="trail_summary_avg_down_swing_duration">Aşağı (s)</string>
+    <string name="trail_summary_detail_fall_height">Yükseklik kaybı (m)</string>
+    <string name="trail_summary_detail_rise_height">Yükseklik kazancı (m)</string>
+    <string name="trail_summary_golf_avg_swing_speed">Hız (m/s)</string>
+    <string name="trail_summary_row_avg_freq">SPM</string>
+    <string name="trail_summary_row_energy_working">Çalışma (kJ)</string>
 </resources>

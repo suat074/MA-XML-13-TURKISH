@@ -41,6 +41,10 @@
   <string name="enter_garbage_clean">Dahili depolama alanını temizleyin</string>
   <string name="insufficient_space">Yeterli depolama alanı yok</string>
   <string name="mobile_recommended_title">Mobil Veri Kullanımı</string>
+  <string name="miuix_access_state_desc">Seçili</string>
+  <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
+  <string name="miuix_indexer_collect">Koleksiyonlar</string>
+  <string name="miuix_indexer_selected">%s seçili</string>
   <string name="notif_text_engine_off">Xunlei Hızlandırıcı kapalı</string>
   <string name="notif_text_engine_on">Hızlandırıcı açık</string>
   <string name="notif_title_file_size">Toplam: %1$d</string>
