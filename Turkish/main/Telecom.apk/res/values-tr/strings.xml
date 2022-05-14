@@ -47,7 +47,7 @@
   <string name="answering_ends_other_managed_call">Cevaplama devam eden görüşmenizi sonlandıracak</string>
   <string name="answering_ends_other_managed_calls">Cevaplama devam eden çağrılarınızı sonlandırır</string>
   <string name="answering_ends_other_managed_video_call">Cevaplama, devam eden görüntülü çağrınızı sonlandıracak</string>
-  <string name="answering_ends_other_video_call">Cevaplama, %1$S görüntülü çağrınızı sonlandıracak</string>
+  <string name="answering_ends_other_video_call">Cevaplama, %1$s görüntülü çağrınızı sonlandıracak</string>
   <string name="anti_fraud_notification_msg">Telekom dolandırıcılığından kaçınmak için bu çağrıya geri dönün</string>
   <string name="anti_fraud_notification_title">Dolandırıcılığa karşı uyarı</string>
   <string name="apn_settings_not_available">Erişim Noktası Adı ayarları bu kullanıcı için mevcut değil</string>
@@ -317,8 +317,8 @@
   <string name="notification_channel_missed_call">Cevapsız aramalar</string>
   <string name="notification_incallservice_not_responding_body">Çağrınız, cihazınızla birlikte gelen telefon uygulamasını kullandı</string>
   <string name="notification_incallservice_not_responding_title">%s yanıt vermeyi durdurdu</string>
-  <string name="notification_incoming_call">%2$s ile %1$S çağrısı</string>
-  <string name="notification_incoming_video_call">%2$s ile %1$S görüntülü çağrı</string>
+  <string name="notification_incoming_call">%2$s ile %1$s çağrısı</string>
+  <string name="notification_incoming_video_call">%2$s ile %1$s görüntülü çağrı</string>
   <string name="notification_missedCallTicker">Cevapsız çağrınız: %s</string>
   <string name="notification_missedCallTitle">Cevapsız Çağrı</string>
   <string name="notification_missedCall_call_back">Geri Ara</string>
@@ -365,10 +365,10 @@
   <string name="power_remaining_duration_only_short">%1$s kaldı</string>
   <string name="power_remaining_duration_only_shutdown_imminent">Telefon yakında kapanabilir</string>
   <string name="power_remaining_duration_shutdown_imminent">Telefon yakında kapanabilir (%1$s)</string>
-  <string name="power_remaining_less_than_duration">Kalan %1$ değerinden az (%2$s)</string>
-  <string name="power_remaining_less_than_duration_only">Kalan %1$ değerinden az</string>
-  <string name="power_remaining_more_than_subtext">Kalan %1$ değerinden fazla (%2$s)</string>
-  <string name="power_remaining_only_more_than_subtext">Kalan %1$ değerinden fazla</string>
+  <string name="power_remaining_less_than_duration">Kalan %1$s değerinden az (%2$s)</string>
+  <string name="power_remaining_less_than_duration_only">Kalan %1$s değerinden az</string>
+  <string name="power_remaining_more_than_subtext">Kalan %1$s değerinden fazla (%2$s)</string>
+  <string name="power_remaining_only_more_than_subtext">Kalan %1$s değerinden fazla</string>
   <string name="private_dns_mode_off">Kapalı</string>
   <string name="private_dns_mode_opportunistic">Otomatik</string>
   <string name="private_dns_mode_provider">Özel DNS sağlayıcı ana bilgisayar adı</string>
