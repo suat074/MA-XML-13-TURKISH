@@ -510,7 +510,7 @@ Fikrinizi değiştirirseniz, hizmetlerimizi kullanmadan önce Gizlilik Politikas
     <string name="device_add_discovery_paired">Eşleştirilmiş cihaz bulundu</string>
     <string name="device_add_failed">Eklenemedi</string>
     <string name="device_add_new">Cihaz ekle</string>
-    <string name="device_agree_all">Hepsini kabul ediyorum</string>
+    <string name="device_agree_all">Tümünü kabul ediyorum</string>
     <string name="device_agree_to_terms">Şartlar ve koşullar</string>
     <string name="device_alarm_notify">Alarmları telefondan eşitle</string>
     <string name="device_all_skills">Tüm özellikler</string>
@@ -625,8 +625,8 @@ Fikrinizi değiştirirseniz, hizmetlerimizi kullanmadan önce Gizlilik Politikas
     <string name="device_remove_device_in_other">Cihaz sayfasına gidin ve Eşleşmeyi sonlandır seçeneğine dokunun.</string>
     <string name="device_remove_fail">Kaldırılamadı</string>
     <string name="device_remove_fail_many_time">Cihazın eşleşmesini sonlandırmak için Cihaz sayfasına gidin ve Eşleşmeyi sonlandır seçeneğine dokunun.</string>
-    <string name="device_required_agree_collect_info">"&lt;Data>&lt;a href=\"%1$s\">Kişisel Bilgilerin Toplanması ve Kullanılması'nı&lt;/a> kabul ediyorum (zorunlu)&lt;/Data>"</string>
-    <string name="device_required_agree_use_location">"&lt;Data>&lt;a href=\"%1$s\">Konum Bilgisinin Toplanması'nı&lt;/a> kabul ediyorum (zorunlu)&lt;/Data>"</string>
+    <string name="device_required_agree_collect_info">&lt;Data>&lt;a href=\"%1$s\">Kişisel Bilgilerin Toplanmasını ve Kullanılmasını&lt;/a> kabul ediyorum (zorunlu)&lt;/Data></string>
+    <string name="device_required_agree_use_location">&lt;Data>&lt;a href=\"%1$s\">Konum Bilgilerinin Toplanmasını&lt;/a> kabul ediyorum (zorunlu)&lt;/Data></string>
     <string name="device_retry">Tekrar dene</string>
     <string name="device_scan_login">Tarayıcı</string>
     <string name="device_scan_qr_add_device">Cihaz ekle</string>
@@ -4101,10 +4101,6 @@ Bilgilerinizi paylaşmak istemiyorsanız bu özelliği kapatabilirsiniz."</strin
     <string name="xms_thirdapp_revoke_auth">İzinleri, Profil > Cihaz izinleri menüsünden değiştirebilirsiniz.</string>
     <string name="year" />
     <string name="yesterday">Dün</string>
-	<string name="device_agree_all">Tümünü kabul ediyorum</string>
-    <string name="device_agree_to_terms">Şartlar ve koşullar</string>
-    <string name="device_required_agree_collect_info">&lt;Data>&lt;a href=\"%1$s\">Kişisel Bilgilerin Toplanmasını ve Kullanılmasını&lt;/a> kabul ediyorum (zorunlu)&lt;/Data></string>
-    <string name="device_required_agree_use_location">&lt;Data>&lt;a href=\"%1$s\">Konum Bilgilerinin Toplanmasını&lt;/a> kabul ediyorum (zorunlu)&lt;/Data></string>
     <string name="device_settings_contact">Favori kişiler</string>
     <string name="device_settings_contact_add">Ekle</string>
     <string name="device_settings_contact_add_fail">Favori kişilere eklenemedi. Tekrar deneyin.</string>
