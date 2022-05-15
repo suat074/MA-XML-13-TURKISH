@@ -1186,7 +1186,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz."</string>
   <string name="deep_power_save_item_title_lock_screen_time">Ekranı uyku moduna al</string>
   <string name="deep_save_memory_clean_summary">Pil kullanıldığında cihazınız kilitlenirse ödeme verisi temizlenir</string>
   <string name="deep_save_ontime_boot_shutdown_summary">Cihaz açılıp/kapanma program zamanı</string>
-  <string name="default_condition_summary">Örn. \"Pil %s değerinden düşük\"</string>
+  <string name="default_condition_summary">Örn. \"Pil 20% değerinden düşük\"</string>
   <string name="default_condition_title">Koşul ekle</string>
   <string name="default_condition_title_continue">Koşul ekle</string>
   <string name="default_result_summary">Örn. \"Uçak modunu kapat\"</string>
