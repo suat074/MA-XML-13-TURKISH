@@ -1382,6 +1382,7 @@ Devam etmeden önce %s yeni sürümünü okuyun ve kabul edin."</string>
   <string name="pa_picker_detail_small_widget">Widget</string>
   <string name="pa_picker_detail_theme_app_cta">Ayarlar</string>
   <string name="pa_picker_detail_theme_app_cta_pre">Bu widget\'ı kullanabilmek için önce Temaların internete bağlanmasına izin verin.</string>
+  <string name="pa_picker_detail_vp2_indicator">Seçili sayfa %1$d / %2$d</string>
   <string name="pa_picker_detail_wait_wifi_download_maml">Bu öğe WLAN aracılığıyla indirilecek</string>
   <string name="pa_picker_home_app_group_title">Widget\'lı uygulamalar</string>
   <string name="pa_picker_home_group_more">Tümü</string>

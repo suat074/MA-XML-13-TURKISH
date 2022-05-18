@@ -79,5 +79,9 @@
   <plurals name="restoring_file_tile">
     <item quantity="other">%d dosya geri yükleniyor</item>
     <item quantity="one">%d dosya geri yükleniyor</item>
-  </plurals>  
+  </plurals>
+  <plurals name="session_time_remain">
+    <item quantity="other">Yaklaşık %s dakika kaldı</item>
+    <item quantity="one">Yaklaşık %s dakika kaldı</item>
+  </plurals>
 </resources>

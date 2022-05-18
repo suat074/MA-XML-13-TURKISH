@@ -18,6 +18,11 @@
   <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
   <string name="abc_toolbar_collapse_description">Daralt</string>
   <string name="actionbar_button_up_description">Geri</string>
+  <string name="bh_open_carrier_services_short">Mi Operatör Hizmetleri</string>
+  <string name="bh_open_carrier_services_short_reason">Bu özelliği kullanabilmek için Mi Operatör Hizmetlerini açın.</string>
+  <string name="bh_qualification_and_certificate">Lisanslar ve sertifika</string>
+  <string name="bh_system_recommend_des">Allow us to analyze your traffic and recommend digital products based on the results</string>
+  <string name="bh_system_recommend_des">Kişiselleştirilmiş öneriler kapalıyken, özelliğin açık olduğu zamankiyle aynı miktarda reklam görmeye devam edersiniz, ancak bunlar sizinle eskisi kadar alakalı olmaz</string>
   <string name="callrecordview_menu_aiphone">AI çağrıları</string>
   <string name="cancel">İptal</string>
   <string name="clearable_edittext_clear_description">Temizle</string>

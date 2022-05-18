@@ -21,7 +21,8 @@
   <string name="audio_relay_default_device_name">Mi AI Hoparlör</string>
   <string name="ble_device_address">Bluetooth Akıllı cihaz MAC</string>
   <string name="ble_device_profile">Bluetooth cihaz profili</string>
-  <string name="ble_device_profile_header_title">Ayarlar</string>
+  <string name="ble_device_profile_header_title">Daha fazla</string>
+  <string name="ble_device_profile_summary">Bu cihazı yönet</string>
   <string name="ble_device_profile_title">Bluetooth Akıllı cihaz eşleştirildi</string>
   <string name="ble_device_rename">Yeniden adlandır</string>
   <string name="bluetooth_connected">Eşleştirildi</string>
@@ -245,4 +246,8 @@ Daha hızlı bağlantı protokolü."</string>
   <string name="wifi_unsaved_network_linking_summary">SSID ve BSSID kısmi eşleşmesinde mevcut bağlanmış WPA/WPA2-PSK 2GHz SSID kimlik bilgileriyle yeni bir WPA/WPA2-PSK 5GHz SSID otomatik bağlantı girişimini etkinleştir</string>
   <string name="wifi_whitelist_roaming">SSID Köprüleme - Hızlı Devir Teslim</string>
   <string name="wifi_whitelist_roaming_summary">"Aynı ağ geçidi MAC adresine sahip farklı SSID WPA/WPA2-PSK AP'leri arasında dolaşımı etkinleştir"</string>
+  <string name="headset_incall_answer">Cevap</string>
+  <string name="headset_incall_reject">İptal</string>
+  <string name="headset_incall_summary">Kulaklıklarınızla %1$s üzerinden bir çağrı cevaplansın mı? Çağrı bittikten sonra kulaklığınız o cihazda bağlı kalacak.</string>
+  <string name="headset_incall_title">Çağrıyı kulaklıkla cevaplama</string>
 </resources>

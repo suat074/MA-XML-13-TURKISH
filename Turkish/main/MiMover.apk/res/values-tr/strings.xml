@@ -21,6 +21,12 @@
   <string name="app_update_64_dialog_confirm">Güncelle</string>
   <string name="app_update_64_dialog_title">64 bit mimariye güncelleme</string>
   <string name="app_update_64_notfication_body">Uygulama performansını artırmak için güncelleyin</string>
+  <string name="apple_install_background_downloading">Uygulamalar arka planda indiriliyor…</string>
+  <string name="apple_install_get_data_faild">Bir hata oluştu</string>
+  <string name="apple_install_install_immediately_default">Yükle</string>
+  <string name="apple_install_skip">Atla</string>
+  <string name="apple_install_sub_title">Seçilen uygulamalar GetApps\'ten indirilecek</string>
+  <string name="apple_install_title">Eski cihazınızdan uygulamalar</string>
   <string name="apps_cannot_be_transfered_confirm_button">Başlat</string>
   <string name="apps_cannot_be_transfered_next_button">Sonraki</string>
   <string name="apps_cannot_be_transfered_summary">Bu 64 bit uygulamalar 32 bit bir cihaza aktarılamaz. Aktarımdan sonra bunları doğrudan Getapps\'tan indirebilirsiniz.</string>

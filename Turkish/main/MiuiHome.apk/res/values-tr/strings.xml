@@ -859,4 +859,10 @@
   <string name="work_profile_title">İş profili</string>
   <string name="work_profile_toggle_label">İş profili</string>
   <string name="yesterday">Dün</string>
+  <string name="exit_overview_because_task_stack_changed">Arka planda meydana gelen değişiklikler nedeniyle Son kullanılanlar kapatıldı</string>
+  <string name="navigation_position_center">Merkez</string>
+  <string name="navigation_position_left">Sol</string>
+  <string name="navigation_position_right">Sağ</string>
+  <string name="navigation_position_summary">Gezinme düğmelerinin özel konumları yalnızca Ana ekrana uygulanabilir</string>
+  <string name="navigation_position_title">Gezinme düğmelerinin konumu</string>
 </resources>

@@ -607,4 +607,11 @@
   <string name="sleep_record_desc_detailed_new">Uyku takibi, Mi Fitness Uyku özelliği tarafından sağlanır. Bu özelliği açarsanız, Mi Fitness telefon kullanımınızı, aktivitelerinizi ve ayarladığınız uyku ve uyanma saatine göre uykunuzla ilgili verileri otomatik olarak toplar ve görüntüler. Uykunun daha doğru izlenmesi için Mi Fitness\'a otomatik başlatma izni verin.</string>
   <string name="update_health_app_desc_new">Uyku izleme özelliği Mi Fitness tarafından sağlanmaktadır. İlgili özelliklere erişmek için Mi Fitness\'ı en son sürümüne güncelleyin.</string>
   <string name="update_health_app_new">Mi Fitness\'ı güncelle</string>
+  <string name="add_timer_dialog_title">Zamanlayıcı ekle</string>
+  <string name="timer_alert_type_no">Hiçbiri</string>
+  <string name="timer_desc_use_brush_teeth">Diş fırçalama</string>
+  <string name="timer_desc_use_facial_mask">Yüz maskesi</string>
+  <string name="timer_desc_use_sleep">Şekerleme</string>
+  <string name="timer_item_edit">Düzenle</string>
+  <string name="white_noise_guide_desc">Odaklanmanızı sağlamak için bir arka plan sesi ekleyin</string>
 </resources>

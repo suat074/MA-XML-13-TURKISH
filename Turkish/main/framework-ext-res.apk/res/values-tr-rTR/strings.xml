@@ -353,6 +353,7 @@
   <string name="sc_notification_warning_content">Düzen, tam ekran modunda anormal olabilir. Geçişten önceki duruma dönebilir veya ayarlara gidebilirsiniz.</string>
   <string name="sc_notification_warning_restore">Geri yükle</string>
   <string name="sc_notification_warning_settings">Ayarlara git</string>
+  <string name="sc_notification_warning_title">Gösterim modunu değiştir</string>
   <string name="sc_relaunch_dialog_message">Uygulamayı kullanırken cihazı katlamak uygun olmaz. Tam ekran moduna geçmek için uygulamayı yeniden başlatabilirsiniz. Yeniden başlatılsın mı?</string>
   <string name="scanning_device_tips">Yakındaki cihazları aranıyor… Diğer cihazın keşfedilebilir modda olduğundan emin olun.</string>
   <string name="screen_button_notification_text">Açmak için, Ana Ekran ve Güç düğmelerine aynı anda basın.</string>

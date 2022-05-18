@@ -37,6 +37,7 @@
   <string name="app_name">Xiaomi Bulut</string>
   <string name="bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
   <string name="btn_return">Geri</string>
+  <string name="btn_revoke_permission">Onayı geri çekme</string>
   <string name="button_agree">Kabul et</string>
   <string name="button_cancel">İptal</string>
   <string name="button_quit">Çıkış</string>

@@ -329,6 +329,7 @@
 \"%1$s\" öğesine dokunun ve ardından \"%2$s\" öğesini seçin."</string>
   <string name="saf_permission_grant_permission_immediately">Sonraki</string>
   <string name="saf_permission_later">Şimdi değil</string>
+  <string name="saf_permission_recorder_unlock_screen_message">Kayıtları kaydedebilmek için önce cihazınızın kilidini açın. Şimdi açılsın mı?</string>
   <string name="saf_permission_refused">Eksik izinler nedeniyle çağrılar kaydedilemiyor</string>
   <string name="saf_permission_title">Gerekli izinler</string>
   <string name="saf_permission_use_this_folder">Bu klasörü kullan</string>
