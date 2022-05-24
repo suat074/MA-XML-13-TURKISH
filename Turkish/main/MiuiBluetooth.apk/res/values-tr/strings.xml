@@ -104,7 +104,7 @@ Daha hızlı bağlantı protokolü."</string>
   <string name="headset_device_error_disconnect">Her iki kulaklığın bağlantısı kesildi. Güncellemeyi baştan başlatmak için şarj kutusunu kapatın ve tekrar açın.</string>
   <string name="headset_device_error_failed">Güncellenemiyor</string>
   <string name="headset_device_error_multconnect">Birden çok cihaz bağlandığında güncellenemez</string>
-  <string name="headset_device_error_no_device">Şarj kutusunda en az bir kulaklık eksik</string>
+  <string name="headset_device_error_no_device">Her iki kulaklığı da kutuya koyun ve şarjda tutun</string>
   <string name="headset_device_error_single_device">Bir kulaklık güncellenemiyor. Tekrar eşleştirin.</string>
   <string name="headset_device_sync">Eşitleniyor…</string>
   <string name="headset_device_sync_donot_move_device">Eşitleniyor… Kulaklığı kullanmadan önce eşitlenmenin bitmesini bekleyin.</string>
@@ -250,4 +250,8 @@ Daha hızlı bağlantı protokolü."</string>
   <string name="headset_incall_reject">İptal</string>
   <string name="headset_incall_summary">Kulaklıklarınızla %1$s üzerinden bir çağrı cevaplansın mı? Çağrı bittikten sonra kulaklığınız o cihazda bağlı kalacak.</string>
   <string name="headset_incall_title">Çağrıyı kulaklıkla cevaplama</string>
+  <string name="miheadset_spatial_audio_change_to_phone">Bu cihazda boyutsal sese geçildi</string>
+  <string name="miheadset_spatial_audio_headset">Kulaklık</string>
+  <string name="miheadset_spatial_audio_not_support_headset">Kulaklıktaki boyutsal ses, çok kanallı kaynaklarla uyumlu değil</string>
+  <string name="miheadset_spatial_audio_phone">Bu cihaz</string>
 </resources>

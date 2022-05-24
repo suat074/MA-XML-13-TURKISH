@@ -41,6 +41,7 @@
   <string name="activity_not_unlocked">Uygulamaları açmadan önce cihazınızın tamamen yeniden başlatılmasını bekleyin</string>
   <string name="add_custom_category">Özelleştir</string>
   <string name="add_screen">Ekran ekle</string>
+  <string name="add_to_workspace">Ana ekrana ekle</string>
   <string name="added_all_category">Tüm uygulamalar başarıyla eklendi</string>
   <string name="afternoon">Öğleden sonra</string>
   <string name="agree_button">Kabul et</string>
@@ -80,6 +81,7 @@
   <string name="all_apps_setting_title">Ana ekran</string>
   <string name="all_apps_slide_up_tips">Yukarı kaydırma, Uygulama çekmecesini açmak için ayrılmıştır. Normal Ana ekran moduna geçin ve tekrar deneyin.</string>
   <string name="all_apps_suggestions">Uygulama önerileri</string>
+  <string name="animation_rate_title">Animasyon oranı</string>
   <string name="announce_for_app_move_in_folder">Klasördeki %1$d konumuna taşındı</string>
   <string name="announce_for_checked">%1$s, kontrol edildi</string>
   <string name="announce_for_choose_default_screen">%1$d ekranını varsayılan Ana ekran olarak ayarla</string>
@@ -865,4 +867,9 @@
   <string name="navigation_position_right">Sağ</string>
   <string name="navigation_position_summary">Gezinme düğmelerinin özel konumları yalnızca Ana ekrana uygulanabilir</string>
   <string name="navigation_position_title">Gezinme düğmelerinin konumu</string>
+  <string name="recnets_relay_device_info">%s</string>
+  <string name="upgrade_remove_small_window_in_recents">Uygulamaları yüzer pencerelerde açmak için kenar çubuğunu kullanabilirsiniz</string>
+  <string name="fold_pair_install_shortcut_long_click">Ana ekrana eklemek için basılı tutun</string>
+  <string name="fold_pair_installed_shortcut_launcher">Bu kısayol zaten var</string>
+  <string name="no_space_toast_fold">Burada yeterli alan yok</string>
 </resources>

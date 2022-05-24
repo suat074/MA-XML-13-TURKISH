@@ -63,6 +63,7 @@
   <string name="alarmclock_empty_text">Alarm yok</string>
   <string name="alarmclock_silent_hint">Alarm susturuldu</string>
   <string name="alert">Zil Sesi</string>
+  <string name="alert_page_desc">Basılı tutun, ardından alarmı kapatmak için yukarı kaydırın</string>
   <string name="alert_ringtone">Alarm zil sesi</string>
   <string name="alert_vibrate_enable_summary">Alarm çaldığında titreşim</string>
   <string name="alert_volume">Zil sesi seviyesi</string>

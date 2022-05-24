@@ -334,9 +334,9 @@
   <string name="redmi_note_7">Redmi Note7</string>
   <string name="redmi_note_7_pro">Redmi Note 7 Pro</string>
   <string name="relaunch_action">Uygulamayı yeniden başlat</string>
-  <string name="relaunch_fold_notification_content">Telefon katlandıktan sonra \"%s\" uygulaması anormal şekilde görüntülenebilir ve normale dönmesi için yeniden başlatılması gerekir.</string>
+  <string name="relaunch_fold_notification_content">Bu uygulama, telefon katlandıktan sonra anormal şekilde görüntülenebilir ve normale dönmesi için yeniden başlatılması gerekir.</string>
   <string name="relaunch_notification_title">\"%s\" uygulamasını yeniden başlatın</string>
-  <string name="relaunch_unfold_notification_content">Telefon açıldıktan sonra \"%s\" uygulaması anormal şekilde görüntülenebilir ve normale dönmesi için yeniden başlatılması gerekir.</string>
+  <string name="relaunch_unfold_notification_content">Bu uygulama, telefon açıldıktan sonra anormal şekilde görüntülenebilir ve normale dönmesi için yeniden başlatılması gerekir.</string>
   <string name="remain">Kalan: %s</string>
   <string name="replace">Değiştir</string>
   <string name="resolver_app_recommend_flag">Tavsiye</string>

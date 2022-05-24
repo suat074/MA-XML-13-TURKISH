@@ -218,7 +218,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
-	<string name="music_null">Oynatma yok</string>
+	<string name="music_null">Oynatılamıyor</string>
     <string name="night">Akşam</string>
     <string name="noon">Gün ortası</string>
     <string name="not_set">Ayarlanmadı</string>
@@ -242,7 +242,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="step_to_image_community">"Mi Topluluğu'nda daha fazlasını öğrenin"</string>
     <string name="sub_screen_app_name">Arka ekran</string>
-	<string name="subscreen_brightness">Arka ekran parlaklığı</string>
+	<string name="subscreen_brightness">Parlaklık</string>
     <string name="subscreen_other">Diğer</string>
     <string name="subscreen_other_dialog_cancel">İptal et</string>
     <string name="subscreen_other_dialog_confirm">Aç</string>

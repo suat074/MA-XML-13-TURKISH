@@ -2824,8 +2824,7 @@ Cihazınızı yeniden başlatıp tekrar deneyin."</string>
   <string name="face_data_siggesstion_next">Sonraki</string>
   <string name="face_data_siggesstion_next_time">Sonraki (%ds)</string>
   <string name="face_data_suggesstion_first">Yüz tanıma kilidi bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi, fotoğrafınızın yanı sıra benzer görünüme sahip kişiler veya nesneler tarafından da açılabilir.</string>
-  <string name="face_data_suggesstion_first_cn">"Yüz ile kilit açma özelliğini kullanabilmeniz için yüz verilerinizi toplamamız gerekiyor. Yüz verileri bu cihazda yerel olarak depolanacak. Silmek için Ayarlar\'da \"Yüz ile kilit aç\" ifadesini arayın ve ardından Yüz ile kilit açma > Yüz verileri\'ni seçin.
-Yüz ile kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi hem fotoğrafınızla hem de benzer görünüme sahip kişiler veya nesneler tarafından açılabilir."</string>
+  <string name="face_data_suggesstion_first_cn">Yüzle kilit açma özelliğini kullanabilmeniz için, daha sonra bu cihazda yerel olarak depolanacak olan yüz verilerinizi toplamamız gerekiyor. Silmek için, Ayarlar\'da Yüz ile kilit açma öğesini aratın ve ardından Yüz ile kilit açma > Yüz verileri\'ni seçin.</string>
   <string name="face_data_suggesstion_second">Yüzünüzün tüm bölümlerinin açıkça görülebildiğinden emin olun. Yüzünüzü kapatabilecek herhangi bir aksesuar takmayın. Yüzünüzü eşit şekilde aydınlatın ve doğrudan ışıktan kaçının.</string>
   <string name="face_password_unlock">Yüz verileri &amp; ekran kilidi</string>
   <string name="face_unlock">Yüz tanıma kilidi</string>
@@ -3269,7 +3268,7 @@ Otomatik yedekleme açıldığında veriler periyotik zaman aralıklarında sakl
   <string name="gxzw_anim_star">Yıldız ışığı</string>
   <string name="gxzw_anim_title">Parmak izi animasyonu</string>
   <string name="gxzw_anim_unlock_effect">%s parmak izi animasyonu</string>
-  <string name="gxzw_aod_show_summary">Parmak izi simgesinin görünmesini sağlamak için cihazı kaldırın veya ekrana dokunun. Bu özellik sistem güç tüketimini arttırır.</string>
+  <string name="gxzw_aod_show_summary">Parmak izi simgesinin görünmesi için cihazı kaldırın veya ekrana dokunun. Bu özellik, sistem güç tüketimini artırır ancak cihazın kilidini daha hızlı açmanıza olanak tanır.</string>
   <string name="gxzw_aod_show_tittle">Ekran kapalıyken parmak izi simgesini göster</string>
   <string name="gxzw_dialog_message">Ekrandaki parmak izi sensörünü normal şekilde kullanabilmek için ekran koruyucu kullanmayın. Ekran koruyucusunun hala gerekli olduğunu düşünüyorsanız, yetkili uyumlu seçenekler arasından seçim yapın.</string>
   <string name="gxzw_dialog_not_show_again">Tekrar gösterme</string>
@@ -8456,7 +8455,7 @@ Ekle butonunu (+) kullanarak kelime ekleyin."</string>
   <string name="virtual_sim_global_title">Mobil Veri Hizmeti</string>
   <string name="virtual_sim_title">Veri Ağı Dolaşımı</string>
   <string name="virtual_surround_sound_switch_summary">Ses ve video oynatma için kulaklıkta ses derinliğini zenginleştirin (Bu özellik ses %.1f ile oynatıldığında çalışmaz)</string>
-  <string name="virtual_surround_sound_switch_title">Sanal sürükleyici ses</string>
+  <string name="virtual_surround_sound_switch_title">Sürükleyici ses</string>
   <string name="virus_scan">Virüs Tara</string>
   <string name="virus_scan_app_continue">Taramaya devam et</string>
   <string name="virus_scan_app_finish">Tarama tamamlandı</string>
@@ -9647,5 +9646,22 @@ Hizmetlerimizi kullanmadan önce %s okuyun ve kabul edin."</string>
   <string name="freeform_guide_to_sidehide_title">Yüzer pencereleri gizleme</string>
   <string name="freeform_vedio_description_open_freeform_and_splitscreen">"· Yüzer bir pencerede açmak için kenar çubuğunda bir uygulamaya dokunun.
 · Bir uygulamayı yüzer bir pencerede açmak için ekranın ortasına veya Bölünmüş ekranda kullanmak için yan tarafa sürükleyin."</string>
-    <string name="sidebar_setting">Kenar çubuğu ayarları</string>
+  <string name="sidebar_setting">Kenar çubuğu ayarları</string>
+  <string name="device_mall_card_title">Mevcut avantajları kontrol edin</string>
+  <string name="face_data_suggesstion_first_cn_highlight">Yüzle kilit açma, bir PIN, şifre veya desenden daha az güvenlidir. Cihazınızın kilidi, fotoğrafınızla veya benzer görünüme sahip kişiler veya nesneler tarafından açılabilir.</string>
+  <string name="handy_mode_hint">Tek elle kullanım modu yalnızca dış ekranda kullanılabilir</string>
+  <string name="new_fingerprint_to_new_face_dialog_msg">Yüzle kilit açma özelliğini kullanabilmek için önce yüz verisi ekleyin. Şimdi eklensin mi?</string>
+  <string name="new_fingerprint_to_new_face_dialog_tittle">Yüz verisi ekle</string>
+  <string name="keep_screen_on_after_folding_off_summary">Çağrı sırasında veya kamerayı kullanılırken katladıktan sonra dış ekranı açık tutun</string>
+  <string name="keep_screen_on_after_folding_on_summary">Mevcut görevlerinize devam etmek için katladıktan sonra dış ekranı açık tutun</string>
+  <string name="keep_screen_on_after_folding_text">Mevcut görevlerinize devam etmek için katladıktan sonra dış ekranı açık tutun</string>
+  <string name="keep_screen_on_after_folding_title">Katladıktan sonra ekranı açık tutun</string>
+  <string name="miheadset_LEAudio_summary">LE Ses açıkken bazı özellikler kullanılamayacak.</string>
+  <string name="miheadset_LEAudio_title">LE Ses açılsın mı?</string>
+  <string name="miheadset_LE_on_toast">Bu özelliği açmadan önce her iki kulaklığın da şarjı olduğundan emin olun ve kutudan çıkarın.</string>
+  <string name="miheadset_feedback_summary">Günlükleri gönderebilmek için her iki kulaklığı da şarj kutusuna koyun ve kapağı açık tutun.</string>
+  <string name="miheadset_feedback_title">Günlükleri gönder</string>
+  <string name="miheadset_singleear_toast">Sadece bir kulaklık için desteklenmiyor</string>
+  <string name="miheadset_same_account_incall">Eşitlenmiş tüm cihazlardan gelen çağrıları yanıtlayın</string>
+  <string name="miheadset_same_account_incall_summary">Gelen çağrıları cevaplamak için kulaklıkları eşitlenmiş diğer cihazlara bağlayın</string>
 </resources>

@@ -332,8 +332,10 @@
   <string name="filter_popular_comic">Anime</string>
   <string name="filter_popular_dream">Hayal</string>
   <string name="filter_popular_freshfood">Obur</string>
+  <string name="filter_popular_qing_summer">Tepe</string>
   <string name="filter_popular_gingertea">Zencefil</string>
   <string name="filter_popular_grey_gold">Palladium</string>
+  <string name="filter_popular_haruno">Çiçek</string>
   <string name="filter_popular_hill">Tepeler</string>
   <string name="filter_popular_humanity">Belgesel</string>
   <string name="filter_popular_icesnow">Kar yağışı</string>
@@ -357,7 +359,7 @@
   <string name="filter_portrait_bright_blue">Gök mavisi</string>
   <string name="filter_portrait_cold_white">Yıldız ışığı</string>
   <string name="filter_portrait_greyish">Kül</string>
-  <string name="filter_portrait_haruno">Haruno</string>
+  <string name="filter_portrait_haruno">Tomurcuk</string>
   <string name="filter_portrait_hint">Renk odaklama</string>
   <string name="filter_portrait_holiday">Tatil</string>
   <string name="filter_portrait_light_oxygen">Oksijen</string>

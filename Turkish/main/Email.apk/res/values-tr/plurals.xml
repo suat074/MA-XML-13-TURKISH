@@ -80,6 +80,10 @@
         <item quantity="other">Taslaklar</item>
         <item quantity="one">Taslak</item>
     </plurals>
+	<plurals name="email_filter_rule_max_tips">
+        <item quantity="one">En fazla %1$d koşul ekleyebilirsiniz</item>
+        <item quantity="other">En fazla %1$d koşul ekleyebilirsiniz</item>
+    </plurals>
     <plurals name="empty_folder_dialog_message">
         <item quantity="other">%1$d içerik kalıcı olarak silinecek.</item>
         <item quantity="one">%1$d içerik kalıcı olarak silinecek.</item>

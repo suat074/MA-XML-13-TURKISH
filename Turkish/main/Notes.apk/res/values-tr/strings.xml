@@ -807,6 +807,7 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="setting_note_list_layout_title">Düzen</string>
   <string name="warn_cannot_add_new_bullet">Not çok uzun olduğu için yeni madde işaretli liste eklenemiyor</string>
   <string name="warn_cannot_add_new_checkbox">Not çok uzun olduğu için yeni onay kutusu eklenemiyor</string>
+  <string name="warn_cannot_add_new_content">Not çok uzun olduğu için yeni içerik eklenemiyor</string>
   <string name="warn_cannot_add_new_doodle">Not çok uzun olduğu için yeni doodle eklenemiyor</string>
   <string name="warn_cannot_add_new_element">Not çok uzun olduğu için yeni öğe eklenemiyor</string>
   <string name="warn_cannot_add_new_link_card">Not çok uzun olduğu için yeni bağlantı eklenemiyor</string>

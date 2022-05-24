@@ -271,6 +271,9 @@
   <string name="login_check_find_device">Cihazın güvenlik bilgisi alınıyor…</string>
   <string name="login_check_find_device_failed_title">Cihaz güvenlik bilgisi kontrol edilemedi</string>
   <string name="login_find_device_bind">Bu cihaz mevcut Mi Hesap Kimliği (%s) ile ilişkilidir.</string>
+  <string name="login_notification_button_text">Giriş yap</string>
+  <string name="login_notification_desc">Bulut hizmetlerinin, aile depolama alanının ve daha fazlasının keyfini çıkarın</string>
+  <string name="login_notification_title">Mi Hesabınızda oturum açın</string>
   <string name="login_with_other">Daha fazla seçenek</string>
   <string name="logout_account">Oturumu kapat</string>
   <string name="logout_failed">Oturum açılamıyor</string>

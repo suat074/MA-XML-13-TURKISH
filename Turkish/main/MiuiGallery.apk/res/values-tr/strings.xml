@@ -2358,7 +2358,7 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="operation_pic_to_pdf">PDF oluştur</string>
   <string name="photodetail_failed_already_exist">Bu dosya zaten var</string>
   <string name="photodetail_rename_failed">Yeniden adlandırılamadı</string>
-  <string name="photodetail_rename_invalid">"Dosya adları bu karakterleri içeremez: /\\:*?&lt;&gt;|."</string>
+  <string name="photodetail_rename_invalid">"Dosya adları şu karakterleri içeremez: /\\:*?&lt;>|.\""</string>
   <string name="photodetail_rename_success">Başarıyla yeniden adlandırıldı</string>
   <string name="photodetail_rename_title">Yeniden adlandır</string>
   <string name="photodetail_rename_too_long">Girdiğiniz dosya adı çok uzun</string>
@@ -3154,4 +3154,8 @@ Bu özelliği ilk kez kullandığınızda kod dönüştürme işlemi biraz zaman
   <string name="cloud_full_space_tip_title_completely">Bulut depolama alanı dolu</string>
   <string name="last_some_performance_title">Gördüğüm şeyler</string>
   <string name="operation_upgrade_gallery">Güncelle</string>
+  <string name="create_album_failed_because_dup">Bu albüm zaten var. Bu albüme öğeler şimdi eklensin mi?</string>
+  <string name="grant_permission_manage_storage">Gerekli izinler</string>
+  <string name="grant_permission_manage_storage_unlock">Cihazınızın kilidini açın ve öğeleri görüntüleyebilmek için bu uygulamanın tüm dosyalara erişmesine izin verin.</string>
+  <string name="lenovo_phone">Lenovo telefon</string>
 </resources>
