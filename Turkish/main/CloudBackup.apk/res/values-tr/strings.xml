@@ -326,7 +326,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="btn_restore_cancel_app_app">WeChat verilerini geri yükleme</string>
   <string name="cloud_backup_detail_app_data">Tüm WeChat verileri</string>
   <string name="cloud_backup_detail_app_data_summary">Sohbet geçmişleri ve dosyaları dahil</string>
-  <string name="confirm_restore_app_data">Wechat\'in yüklü olduğu algılandı, geri yükleme başlatılamıyor</string>
+  <string name="confirm_restore_app_data">WeChat bu cihazda zaten yüklü. WeChat verileri geri yüklenemiyor.</string>
   <string name="confirm_restore_app_data_summary">Görünüşe göre WeChat bu cihazda zaten veri oluşturmuş. Yedekleme verileri üzerine yazılsın mı?</string>
   <string name="dialog_backup_failed">Yedeklenemedi</string>
   <string name="dialog_buy_cloud_space">Yükselt</string>
@@ -451,7 +451,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="restore_detail_category_apps_size">Boyut: %s</string>
   <string name="restore_detail_category_settings_size">Boyut: ＜%.1f GB</string>
   <string name="restore_file_empty">Burada yedekleme yok</string>
-  <string name="restore_header_backup_size">Yedek veri boyutu：%s</string>
+  <string name="restore_header_backup_size">Yedekleme boyutu: %s</string>
   <string name="restore_header_msg">WeChat verilerini geri yüklemeden önce, bu cihazda WeChat\'in kurulu olmadığından emin olun. Veriler geri yüklenirken WeChat\'i açmayın veya kullanmayın.</string>
   <string name="restore_header_title">Toplam boyut: %s</string>
   <string name="restore_header_title2">Toplam yedekleme: %s</string>
@@ -514,4 +514,14 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin."</string>
   <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
   <string name="temporary_not_available">geçici mevcut değil</string>
   <string name="unknown_error_info">Bilinmeyen hata</string>
+  <string name="backup_action_long_time_not_backup_action">Yedekle</string>
+  <string name="backup_action_long_time_not_backup_title">Yakınlarda yedekleme yok</string>
+  <string name="dialog_content_cancel_backup">Yedeklemeyi iptal ederseniz, önceden yüklenmiş olan veriler kaybolacaktır. Yine de iptal edilsin mi?</string>
+  <string name="dialog_content_cancel_restore">Geri yüklemeyi durdurursanız, zaten geri yüklenen veriler korunur. Geri yükleme durdurulsun mu?</string>
+  <string name="dialog_negative_btn_cancel_backup">Yedeklemeyi iptal et</string>
+  <string name="dialog_negative_btn_cancel_restore">Geri yüklemeyi durdur</string>
+  <string name="dialog_positive_btn_cancel_backup">İptal etme</string>
+  <string name="dialog_positive_btn_cancel_restore">Durdurma</string>
+  <string name="dialog_title_cancel_backup">Yedeklemeyi iptal et</string>
+  <string name="dialog_title_cancel_restore">Geri yüklemeyi durdur</string>
 </resources>

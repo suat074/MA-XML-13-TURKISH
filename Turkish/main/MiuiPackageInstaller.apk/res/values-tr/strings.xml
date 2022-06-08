@@ -313,6 +313,8 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="replace_app_des_text">Uygulama bu sürümle değiştirilsin mi?</string>
   <string name="review_button_cancel">İptal</string>
   <string name="review_button_continue">Devam</string>
+  <string name="risk_app">Risk oluşturur</string>
+  <string name="risk_close_tip_des">Bu özelliği kapatırsanız, yüklemeye çalıştığınız uygulamalar artık güvenlik sorunları açısından kontrol edilmeyecek ve riskli uygulamalar sizin yetkiniz olmadan doğrudan yüklenecektir. Daha önce ayarladıysanız, ekran kilidinizi veya parmak izinizi doğrulamamız gerekecek.</string>
   <string name="risk_warning_title">Risk tespit edildi</string>
   <string name="risk_warning_msg">Bu yükleme paketindeki imza orijinal görünmüyor. Olası riskleri önlemek için, bu uygulamayı güvenilir bir kaynaktan yükleyin.</string>
   <string name="risk_warning_top_button">Yükleme</string>
@@ -490,4 +492,15 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="risk_install_no_open">Kapalı</string>
   <string name="verify_account_close_title">Kapat</string>
   <string name="verify_and_install">Yükle</string>
+  <string name="isntall_failed_verification">Bu yükleme paketi kontrol edilemedi. Bu uygulama, Android mevcut sürümüyle uyumlu olmayabilir.</string>
+  <string name="isntall_failed_verification_resolve_uggestion">Getapps üzerinden bu uygulama için bir yedek bulmaya çalışın</string>
+  <string name="server_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
+  <string name="app_install_safe_check">Yüklemeden önce uygulamaları kontrol edin</string>
+  <string name="app_non_put_on_the_shelf">Mevcut değil</string>
+  <string name="app_safe_check_tip">Tespit edilen risklere sahip uygulamaların yüklenmesi için doğrulama yöntemi:</string>
+  <string name="install_abi_error">Bu uygulama 32 bit mimariyle uyumlu değil</string>
+  <string name="install_abi_error_des">Bunun yerine bu uygulamanın 32 bit sürümünü yükleyin</string>
+  <string name="install_abi_error_des_market">Bu uygulamanın 32 bit sürümünü Getapps üzerinden indirin</string>
+  <string name="open_app_install_safe_check">Yüklemeden önce uygulamaları kontrol edin</string>
+  <string name="open_app_install_safe_des">Yüklemeden önce olası riskler ve güvenlik sorunları için uygulamaları kontrol edin</string>
 </resources>

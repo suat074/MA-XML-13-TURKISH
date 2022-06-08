@@ -102,6 +102,9 @@
   <string name="catch_full_log_privacy_content_signal">Günlükleri oluşturuyorsunuz ve bunları cihazınıza kaydediyorsunuz. Günlükler, mesajlarınızı, arama geçmişinizi, şebeke bilgilerinizi ve iletişim verilerinizi içerebilir. Dikkatli olun ve bu günlükleri başkalarıyla paylaşmayın. Aşağıdaki \"Kabul\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından raporlayıp bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
   <string name="catch_full_log_privacy_content_wifi">Günlükleri oluşturuyorsunuz ve bunları cihazınıza kaydediyorsunuz. Günlükler, kişisel bilgilerinizi, konum bilgilerinizi ve ayrıca cihazınızın IP ve MAC adreslerini içerebilir. Şifrelenmemiş bir Wi-Fi ağına bağlıysanız, iletişim verilerinizin bazı bölümlerine de erişebiliriz. Dikkatli olun ve bu günlükleri başkalarıyla paylaşmayın. Aşağıdaki \"Kabul\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından raporlayıp bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
   <string name="catch_full_log_privacy_content_wifi_china">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler kişisel bilgilerinizi, konum bilgilerinizi ve cihazınızın IP ve MAC adreslerini içerebilir. Şifrelenmemiş bir WLAN ağına bağlıysanız, iletişim verilerinizin bölümlerine de erişilebilir. Dikkatli olun ve bu günlükleri diğer insanlara ifşa etmeyin. Aşağıdaki \"Kabul et\" seçeneğine dokunarak, günlükler oluşturulurken yukarıdaki verileri toplayacağımızı ve daha sonra bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
+  <string name="catch_full_log_dialog_content_pad">Bu, cihazınızın genel performansını etkileyebilir. Bildirmek istediğiniz sorunu yeniden oluşturamıyorsanız günlüklere geri dönün ve \"İptal\" öğesine dokunun.</string>
+  <string name="catch_full_log_privacy_content_audio_pad">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, oynatma geçmişi ve kayıt geçmişi dahil olmak üzere cihazınızdaki sesle ilgili bilgileri içerebilir. Dikkatli olun ve bu günlükleri diğer kişilerle paylaşmayın. Aşağıdaki \"Kabul et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
+  <string name="catch_full_log_privacy_content_sensor_pad">Günlükler oluşturuyor ve bunları cihazınıza kaydediyorsunuz. Günlükler, cihazınızın sensörleri (ortam ışığı sensörü, barometre, adımsayar, manyetometre vb. dahil) tarafından toplanan bilgileri içerebilir. Dikkatli olun ve bu günlükleri diğer kişilerle paylaşmayın. Aşağıdaki \"Kabul et\" seçeneğine dokunarak, günlükleri oluştururken yukarıdaki verileri toplayacağımızı ve ardından bildirdiğiniz sorunları bulmak ve çözmek için günlükleri sunucularımıza yükleyeceğimizi kabul edersiniz.</string>
   <string name="catch_full_log_start_dump_hprof">Gecikme günlüğü oluştur</string>
   <string name="catch_full_log_submit_directly">Gönder</string>
   <string name="change_activate_email">E-Posta adresini değiştir</string>
@@ -208,7 +211,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_package_log_failed">Sıkıştırma günlüğü başarısız oldu</string>
   <string name="feedback_remind_login_btn">Oturum Aç</string>
   <string name="feedback_report_remind_login_desc">Mi Hesabıyla oturum açıp, mühendislerimizle iletişime geçebilirsiniz.</string>
-  <string name="feedback_report_remind_login_desc2">Raporunuz durumunu \"Raporlarım\" altından takip edebilirsiniz.</string>
+  <string name="feedback_report_remind_login_desc2">Raporunuzun ilerlemesini Geri bildirimim bölümünde de görüntüleyebilirsiniz.</string>
   <string name="feedback_reproductivity_everytime">Her zaman</string>
   <string name="feedback_reproductivity_occasionally">Bazen</string>
   <string name="feedback_reproductivity_often">Genellikle</string>
@@ -244,7 +247,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="feedback_submit_failed_notification_title">Rapor gönderilemedi</string>
   <string name="feedback_submit_hint">Problemleri daha hızlı çözmemize yardımcı olmak için problemlerle karşılaştığınızda hataları bildirin.</string>
   <string name="feedback_submit_hint1">Raporunuzun durumunu takip edin</string>
-  <string name="feedback_submit_hint2">Detayları görüntülemek için \"Raporlarım\" bölümüne gidin</string>
+  <string name="feedback_submit_hint2">Ayrıntıları görüntülemek için Geri bildirimim bölümüne gidin</string>
   <string name="feedback_submit_succ">Başarıyla gönderildi</string>
   <string name="feedback_submit_succ_button">Tamam</string>
   <string name="feedback_submitting">Gönderiliyor…</string>
@@ -287,6 +290,7 @@ Lütfen bu kodu teknisyene gönderin."</string>
   <string name="kr_authorization_log_protocol_desc">Size sunulan hizmetleri geliştirmek için kullanım istatistiklerini ve sistem kayıtlarını sunucularımıza yükleyeceğiz. Bu öğeler, kişisel bilgilerinizin yanı sıra cihazınız ve şebekeleriniz hakkındaki bilgileri içerebilir. Sistemdeki sorunları bulmak ve analiz etmek için yüklenen öğeleri kullanacağız.</string>
   <string name="kr_authorization_phone">Telefon</string>
   <string name="kr_authorization_phone_desc">Sorunları bulmak ve çözmek için cihaz modeline, IMEI ve cihaz kimliğine erişmek için</string>
+  <string name="kr_authorization_phone_desc_pad">Sorunları bulmak ve çözmek için cihaz modeline, IMEI ve cihaz kimliğine erişmek için</string>
   <string name="kr_authorization_privacy_policy">Gizlilik Politikası (zorunlu)</string>
   <string name="kr_authorization_select_all">Tümünü seç</string>
   <string name="kr_authorization_storage">Depolama</string>

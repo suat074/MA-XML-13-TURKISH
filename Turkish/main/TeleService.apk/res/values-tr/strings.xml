@@ -2110,4 +2110,22 @@ Lütfen operatörünüzle iletişime geçin"</string>
 Mevcut SIP hesaplarınız %s kaldırıldı.
 Lütfen varsayılan arama hesabı ayarınızı onaylayın."</string>
   <string name="sip_accounts_removed_notification_title">Kullanımdan kaldırılmış SIP hesapları bulundu ve kaldırıldı</string>
+  <string name="disable_esim_dialog_summary">"eSIM\'i şimdi devre dışı bırakırsanız, SIM%s etkinleştirilir.
+Yine de eSIM devre dışı bırakılsın mı?"</string>
+  <string name="disable_esim_dialog_title">eSIM devre dışı bırakılıyor</string>
+  <string name="disable_esim_error_toast_message">eSIM devre dışı bırakılamadı</string>
+  <string name="disable_esim_progress_activating_message">eSIM devre dışı bırakılıyor…</string>
+  <string name="enable_esim_dialog_summary">"eSIM\'i şimdi etkinleştirirseniz, SIM%s devre dışı bırakılır.
+eSIM yine de etkinleştirilsin mi?"</string>
+  <string name="enable_esim_dialog_title">eSIM etkinleştiriliyor</string>
+  <string name="enable_esim_error_toast_message">eSIM etkinleştirilemedi</string>
+  <string name="enable_esim_progress_activating_message">eSIM etkinleştiriliyor…</string>
+  <string name="enable_esim_title">eSIM kullan</string>
+  <string name="enter_esim_manager_title">eSIM\'i yönet</string>
+  <string name="esim_inactive_notification_message_global">SIM kart algılanmadı. eSIM\'i etkinleştirmek için dokunun</string>
+  <string name="esim_inactive_notification_title_global">Çift SIM &amp; mobil ağlar</string>
+  <string name="esim_setting_title">eSIM ayarları</string>
+  <string name="no_active_esim_text">Etkin olmayan eSIM</string>
+  <string name="set_esim_toast_phone_in_call">Çağrılar sırasında bu eylem gerçekleştirilemiyor</string>
+  <string name="switch_cancel_btn_text">İptal</string>
 </resources>

@@ -29,6 +29,10 @@
     <item quantity="other">%d dak önce</item>
     <item quantity="one">1 dak önce</item>
   </plurals>
+  <plurals name="backup_action_long_time_not_backup_content">
+    <item quantity="other">Öğeleri %s haftadır yedeklememişsiniz gibi görünüyor. Önemli şeylerinizi kaybetmemek için yedek oluşturun.</item>
+    <item quantity="one">Öğeleri %s haftadır yedeklememişsiniz gibi görünüyor. Önemli şeylerinizi kaybetmemek için yedek oluşturun.</item>
+  </plurals>
   <plurals name="half_hour_ago">
     <item quantity="other">Yarım saat önce</item>
   </plurals>

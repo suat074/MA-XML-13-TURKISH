@@ -1897,7 +1897,34 @@ kaydetmenizi ve düzenlemenizi sağlar"</string>
   <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
   <string name="miuix_indexer_selected">%s seçili</string>
   <string name="pref_camera_volumekey_function_entry_timer_new">Zamanlayıcı (%ds)</string>
-  <string name="pref_video_quality_entry_1080p_24fps">FHD 1080p, 24fps</string>
-  <string name="pref_video_quality_entry_4kuhd_24fps">UHD 4K, 24fps</string>
-  <string name="camcorder_tip_super_night_video_4k_max_video_duration" formatted="false">%dK, %d dakikaya kadar kayıt yapabilir</string>
+  <string name="pref_video_quality_entry_1080p">FHD 1080p, %dfps</string>
+  <string name="pref_video_quality_entry_1080p_24fps">Tam yüksek çözünürlüklü, 1080p, saniyede 24 kare</string>
+  <string name="pref_video_quality_entry_1080p_60fps">FHD 1080p, %dfps</string>
+  <string name="pref_video_quality_entry_4kuhd">UHD 4K, %dfps</string>
+  <string name="pref_video_quality_entry_4kuhd_24fps">Ultra yüksek çözünürlüklü, 4K, saniyede 24 kare</string>
+  <string name="pref_video_quality_entry_4kuhd_60fps">UHD 4K, %dfps</string>
+  <string name="pref_video_quality_entry_720p">HD 720p, %dfps</string>
+  <string name="camcorder_tip_super_night_video_4k_max_video_duration">4K ile %d dakikaya kadar kayıt yapabilirsiniz</string>
+  <string name="beauty_makeups_danyan">Ten rengi</string>
+  <string name="beauty_makeups_qianjin">Kumral</string>
+  <string name="beauty_makeups_ruanmei">Genç</string>
+  <string name="beauty_makeups_subeffect_filter">Filtreler</string>
+  <string name="beauty_makeups_subeffect_makeup">Makyaj</string>
+  <string name="beauty_makeups_xiazhi">Göz altı farı</string>
+  <string name="beauty_makeups_yanku">Buz kraliçesi</string>
+  <string name="beauty_makeups_yuanqi">Taze</string>
+  <string name="beauty_mutex_toast_tip">Önce makyaj efektlerini &lt;a href=>Kapat&lt;/a></string>
+  <string name="custom_content_unavailable_alert">Girdiğiniz metni kullanamazsınız. Bunun yerine başka bir şey deneyin.</string>
+  <string name="edit_cheekbone">Elmacık kemiği</string>
+  <string name="edit_head_narrow">Kafa boyutu</string>
+  <string name="edit_jaw">Alt çene</string>
+  <string name="edit_nose_tip">Burun ucu</string>
+  <string name="edit_temple">Tapınaklar</string>
+  <string name="edit_touch_up">Makyaj</string>
+  <string name="pref_beauty_me_mp_switch_desc">Grup fotoğraflarında erkekler için makyaj efektlerini ayarlayın</string>
+  <string name="pref_beauty_me_mp_switch_title">Erkekler için makyaj efektlerini ayarla</string>
+  <string name="pref_beauty_nvs_wp_desc">Cilt güzelleştirme efektleri kullanıldığında benleri kaldırın</string>
+  <string name="pref_beauty_nvs_wp_title">Benleri kaldır</string>
+  <string name="pref_focus_view_bg_tip">AE/AF kilitli</string>
+  <string name="pref_true_colour_video_mode_description">Videolarınızı gerçeğe yakın ayrıntılar, çarpıcı renkler ve çarpıcı kontrastla zenginleştirin</string>
 </resources>
