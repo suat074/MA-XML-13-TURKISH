@@ -468,7 +468,6 @@ Alternatif olarak Basit modu kapatabilir ve tekrar deneyebilirsiniz."</string>
   <string name="open_install_authorization">Riskli uygulamaları yüklemeden önce yetkilendirme iste</string>
   <string name="risk_app_install_authorization">Riskli uygulamalar yükle</string>
   <string name="risk_close_tip">Yetkilendirmeyi kapat</string>
-  <string name="risk_close_tip_des">Bu özelliği kapatırsanız, riskli uygulamalar izniniz olmadan doğrudan yüklenir. Daha önce ayarladıysanız ekran kilidinizi veya parmak izinizi doğrulamamız gerekecek</string>
   <string name="second_recomment_ad_title">&lt;font color=#0BAE73>%1$s&lt;/font> yükleyen kişiler şunlarıda beğendi</string>
   <string name="verify_to_sure_close">Kapat</string>
   <string name="virus_safe_install_mode_security_tips">Bu uygulamaya güveniyorsanız, Ayarlar > Uygulamalar > Güvenli mod bölümünden yüklenmesine izin verebilirsiniz.</string>
