@@ -270,6 +270,7 @@
   <string name="month_september_shortest">Eyl</string>
   <string name="more">Daha fazla</string>
   <string name="morning">Sabah</string>
+  <string name="msim_select_default_last">Son kullanılan</string>
   <string name="msim_select_default_time_left">(%d s)</string>
   <string name="night">Akşam</string>
   <string name="noon">Öğlen</string>

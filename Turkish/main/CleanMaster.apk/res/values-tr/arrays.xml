@@ -17,6 +17,10 @@
     <item>Boyut</item>
     <item>Ad</item>
   </string-array>
+  <string-array name="reset_app_sort_type">
+    <item>Boyuta göre sırala</item>
+    <item>Kullanım sıklığına göre sırala</item>
+  </string-array>
   <string-array name="uninstalled_app_sort_type">
     <item>Boyut</item>
     <item>Kullanım sıklığı</item>

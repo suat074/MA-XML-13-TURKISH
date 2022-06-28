@@ -722,6 +722,7 @@
   <string name="sponsored">Sponsorlu</string>
   <string name="start_downloading_app">İndirmeye başlıyor：%1$s</string>
   <string name="start_install">Şimdi yükle</string>
+  <string name="storage_system_log">Sistem günlükleri</string>
   <string name="summary_delete_apk">Seçili APK\'lar kalıcı olarak silinsin mi?</string>
   <string name="summary_delete_cache">Seçili uygulamaların önbelleği temizlensin mi?</string>
   <string name="summary_delete_large_file">Seçili dosyalar kalıcı olarak silinsin mi?</string>

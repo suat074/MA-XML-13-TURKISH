@@ -167,5 +167,21 @@
   <string-array name="priority_storage_entries">
     <item>Dahili depolama</item>
     <item>Harici depolama</item>
-  </string-array>  
+  </string-array>
+  <string-array name="cache_sort_type">
+    <item>Boyut</item>
+    <item>İsim</item>
+  </string-array>
+  <string-array name="sort_title_new">
+    <item>Uygulama adına göre sırala</item>
+    <item>Kullanım sıklığına göre sırala</item>
+    <item>Kullanılan depolamaya göre sırala</item>
+    <item>Yükleme zamanına göre sırala</item>
+  </string-array>
+  <string-array name="sort_type_new">
+    <item>Uygulama adı</item>
+    <item>Kullanım sıklığı</item>
+    <item>Kullanılan depolama</item>
+    <item>Yükleme zamanı</item>
+  </string-array>
 </resources>

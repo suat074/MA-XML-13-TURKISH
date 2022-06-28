@@ -303,9 +303,9 @@ engelli listesine eklendi"</string>
   <string name="favorite_at_time">Favorilere eklendi: %1s</string>
   <string name="fdn_check_failure">Yalnızca sabit arama numaralarınıza mesaj gönderebilirsiniz.</string>
   <string name="feature_mx">Mi Mesaj</string>
-  <string name="feature_mx_summary"><b>Mi Mesaj, diğer Mi Mesaj kullanıcılarına internet üzerinden ücretsiz mesaj göndermenizi sağlar</b>. Bu servisi etkinleştirmek için giden bir SMS mesajı gerekir. Operatörünüz bu mesaj için sizden ücret alacaktır. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Kullanıcı Sözleşmemizi</a></font> ve <font color="#B3000000"><a href="http://url2">Gizlilik Politikamızı</a></font> okuyun ve kabul edin.</string>
+  <string name="feature_mx_summary"><b>Mi Mesaj, diğer Mi Mesaj kullanıcılarına internet üzerinden ücretsiz mesaj göndermenizi sağlar</b>. Bu servisi etkinleştirmek için giden bir SMS mesajı gerekir. Operatörünüz bu mesaj için sizden ücret alacaktır. Bu özelliği kullanmadan önce <a href="http://url1"><font color="#B3000000">Kullanıcı Sözleşmemizi</font></a> ve <a href="http://url2"><font color="#B3000000">Gizlilik Politikamızı</font></a> okuyun ve kabul edin.</string>
   <string name="feature_smart_sms">Akıllı Mesajlaşma</string>
-  <string name="feature_smart_sms_summary"><b>Akıllı mesajlaşma Gönderen kimliği tanıma ve akıllı menüler sağlar</b>. Akıllı Mesajlaşma kısmen Yulore tarafından sağlanır. Bu özelliği kullanmadan önce Yulore <font color="#B3000000"><a href="http://url3">Gizlilik Politikasını</a></font> okuyun ve kabul edin.</string>
+  <string name="feature_smart_sms_summary"><b>Akıllı mesajlaşma Gönderen kimliği tanıma ve akıllı menüler sağlar</b>. Akıllı Mesajlaşma kısmen Yulore tarafından sağlanır. Bu özelliği kullanmadan önce Yulore <a href="http://url3"><font color="#B3000000">Gizlilik Politikası</font></a> okuyun ve kabul edin.</string>
   <string name="festival_sms_loading">Yükleniyor...</string>
   <string name="fetion_prefix">[Fetion]</string>
   <string name="file_create_time">Oluşturuldu:</string>
@@ -1215,7 +1215,7 @@ Bu tür izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi 
   <string name="banner_btn_open">Aç</string>
   <string name="default_google_message_promo_content">"Google Mesajlar\'ı varsayılan mesajlaşma uygulamanız olarak ayarladınız. Mesajlaşmaya başlamak için \"Aç\" öğesine dokunun."</string>
   <string name="enable_classify_tip_dialog_content">Bu işlem Mesajlaşma uygulamasını yeniden başlatır. Yine de devam edilsin mi?</string>
-  <string name="google_message_promo_content">Xiaomi, Google Mesajlar\'a yükseltmenizi önerir. Yüksek kaliteli fotoğraf paylaşımı, Wi-Fi üzerinden sohbet ve daha fazlası için şimdi yükleyin. <font color="#B3000000"><a href="https://support.google.com/messages/answer/6089066">Daha fazla bilgi edin</a></font></string>
+  <string name="google_message_promo_content">Xiaomi, Google Mesajlar\'a yükseltmenizi önerir. Yüksek kaliteli fotoğraf paylaşımı, Wi-Fi üzerinden sohbet ve daha fazlası için şimdi yükleyin. <a href="https://support.google.com/messages/answer/6089066"><font color="#B3000000">Daha fazla bilgi edin</font></a></string>
   <string name="google_message_promo_title">Mesajlaşma uygulamanızı yükseltin</string>
   <string name="installed_google_message_promo_content">Xiaomi, Google Mesajlar kullanılmasını önerir. Yüksek kaliteli fotoğraf paylaşımı, Wi-Fi üzerinden sohbet ve daha fazlası için Mesajlar\'ı açın.</string>
   <string name="installed_google_message_promo_title">Daha iyi sohbet için Mesajlar\'ı açın</string>
