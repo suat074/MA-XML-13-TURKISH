@@ -708,4 +708,11 @@
   <string name="weixin">WeChat</string>
   <string name="weixin_login">WeChat ile oturum açın</string>
   <string name="xiao_mi_vip">Mi VIP</string>
+  <string name="about_mi_account">Mi Hesabı hakkında</string>
+  <string name="check_apk_update">Güncellemeleri kontrol et</string>
+  <string name="find_new_apk_version">Güncelleme mevcut</string>
+  <string name="has_no_new_version">Güncel</string>
+  <string name="new_version">Yeni sürüm</string>
+  <string name="update_apk_version_later">Şimdi değil</string>
+  <string name="update_apk_version_now">Güncelle</string>
 </resources>

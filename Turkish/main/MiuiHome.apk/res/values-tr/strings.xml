@@ -81,7 +81,7 @@
   <string name="all_apps_setting_title">Ana ekran</string>
   <string name="all_apps_slide_up_tips">Yukarı kaydırma, Uygulama çekmecesini açmak için ayrılmıştır. Normal Ana ekran moduna geçin ve tekrar deneyin.</string>
   <string name="all_apps_suggestions">Uygulama önerileri</string>
-  <string name="animation_rate_title">Animasyon oranı</string>
+  <string name="animation_rate_title">Animasyon hızı</string>
   <string name="announce_for_app_move_in_folder">Klasördeki %1$d konumuna taşındı</string>
   <string name="announce_for_checked">%1$s, kontrol edildi</string>
   <string name="announce_for_choose_default_screen">%1$d ekranını varsayılan Ana ekran olarak ayarla</string>
@@ -166,7 +166,7 @@
   <string name="bad_wallpaper_source_prompt">Duvar kağıdı yüklenemiyor</string>
   <string name="branch_core_version">Branch Çekirdek Sürümü</string>
   <string name="branch_feature_description">Hızlı Bulucu, uygulamaların yanı sıra uygulama içi içeriği ve öğeleri çevrimiçi olarak bulabilir.</string>
-  <string name="branch_guide_attention">Gelişmiş aramayı kullanmak için arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics Inc. ile paylaşmanız gerekir. Bu özelliği kullanmadan önce Son Kullanıcı Bulgu Şartları ve Koşulları ve Branch Bulgu Gizlilik Politikası\'nı okuyun ve kabul edin.</string>
+  <string name="branch_guide_attention">Gelişmiş aramayı kullanmak için arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics Inc. ile paylaşmanız gerekir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşfi Şartları ve Koşulları</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşfi Gizlilik Politikası</a></font> okuyun ve kabul edin.</string>
   <string name="branch_guide_description_one">Tüm uygulamalarınızı Uygulama çekmecesine koyacağız. Ana ekranınız düzgün ve düzenli görünecek.</string>
   <string name="branch_guide_description_three">Yerleşik arama ile ihtiyacınız olan her şeyi anında bulabileceksiniz!</string>
   <string name="branch_guide_description_two">Uygulama çekmecesi, uygulamaları otomatik olarak kategorilere ayırır.</string>
@@ -181,7 +181,7 @@
   <string name="branch_new_feature">Yeni özellik</string>
   <string name="branch_privacy_policy">Gizlilik Politikası</string>
   <string name="branch_search_guide_description">Arama sonuçlarımız artık çok daha kapsamlı</string>
-  <string name="branch_search_guide_privacy">Bu hizmet Branch Metrics Inc tarafından desteklenmektedir. Konum bilgileriniz, arama sorgularınız ve Google Reklam kimliğiniz Branch ile paylaşılacaktır. Bu hizmeti kullanmadan önce Branch Hüküm ve Koşullarını ve Gizlilik Politikasını okuyun ve kabul edin.</string>
+  <string name="branch_search_guide_privacy">"Bu hizmet Branch Metrics Inc tarafından desteklenmektedir. Konum bilgileriniz, arama sorgularınız ve Google Reklam kimliğiniz Branch ile paylaşılacaktır. Bu hizmeti kullanmadan önce Branch "<font color="#B3000000"><a href="http://url1">Hüküm ve Koşulları</a></font> ve <font color="#B3000000"><a href="http://url2">Gizlilik Politikası</a></font> okuyun ve kabul edin.</string>
   <string name="branch_search_guide_title">Favori uygulamalarınızda aradığınızı bulun</string>
   <string name="branch_terms_condition">Şartlar ve Koşullar</string>
   <string name="branch_tip_title">Hızlı Bulucu ile ihtiyacınız olan her şeyi anında bulabilirsiniz.</string>
@@ -308,6 +308,7 @@
   <string name="encryption">Şifreleme</string>
   <string name="enter_search_setting_title">Uygulama çekmecesini açtıktan sonra aramayı açın</string>
   <string name="evening">Öğleden sonra</string>
+  <string name="exit_overview_because_task_stack_changed">Arka planda meydana gelen değişiklikler nedeniyle Son kullanılanlar kapatıldı</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
   <string name="failed_to_drop">Taşınamıyor</string>
@@ -324,6 +325,8 @@
   <string name="fmt_time_minute">"m'dak'"</string>
   <string name="fmt_time_minute_second">"m'dak' s's'"</string>
   <string name="fmt_time_minute_second_millis">"m'dak' s.S's'"</string>
+  <string name="fold_pair_install_shortcut_long_click">Ana ekrana eklemek için basılı tutun</string>
+  <string name="fold_pair_installed_shortcut_launcher">Bu kısayol zaten var</string>
   <string name="folder_name">Klasör</string>
   <string name="frame_load_failed">Çerçeve yüklenemiyor</string>
   <string name="free_style_apps_title">Uygulamayı seç</string>
@@ -576,6 +579,11 @@
   <string name="navigation_guide_recent_summary">Ekranın altından yukarı doğru kaydırın ve duraklatın</string>
   <string name="navigation_guide_recent_title">Son kullanılanları aç</string>
   <string name="navigation_guide_settings">Hareket önizlemeleri</string>
+  <string name="navigation_position_center">Merkez</string>
+  <string name="navigation_position_left">Sol</string>
+  <string name="navigation_position_right">Sağ</string>
+  <string name="navigation_position_summary">Gezinme düğmelerinin özel konumları yalnızca Ana ekrana uygulanabilir</string>
+  <string name="navigation_position_title">Gezinme düğmelerinin konumu</string>
   <string name="navigation_set_miui_home_as_default_dialog_cancel">İptal</string>
   <string name="navigation_set_miui_home_as_default_dialog_message">Üçüncü taraf başlatıcılarla tam ekran hareketlerini kullanamazsınız. Sistem başlatıcısına geçip tam ekran hareketleri açılsın mı?</string>
   <string name="navigation_set_miui_home_as_default_dialog_ok">Tamam</string>
@@ -592,15 +600,18 @@
   <string name="night">Akşam</string>
   <string name="no_detail_page">Ayrıntı sayfası yok</string>
   <string name="no_space_toast">Yeterli alan yok</string>
+  <string name="no_space_toast_fold">Burada yeterli alan yok</string>
   <string name="no_space_toast_when_click_widget">Bu sayfada yeterli yer yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin.</string>
   <string name="noon">Öğlen</string>
   <string name="normal_wallpaper">Duvar kağıdı</string>
   <string name="not_set">Ayarlanmadı</string>
+  <string name="notification_channel_alerts">Uyarılar</string>
   <string name="notification_installed">Başarıyla yüklendi</string>
   <string name="notification_open_button">Aç</string>
   <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>
   <string name="one_key_call_title">Aramak için dokunun</string>
   <string name="online_wallpaper">Çevrimiçi</string>
+  <string name="open_pad_personal_assistant_settings">Ana ekran widget\'ları</string>
   <string name="open_personal_assistant_dialog_btn_cancel">İptal</string>
   <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
   <string name="open_personal_assistant_dialog_desc">Uygulama kasasını kapattıktan sonra, Uygulama kasası widget\'larını göremeyecek veya kullanamayacaksınız. Güncellenmiş sürümlerde sizin için kullanılabilir olmayacaktır. Yine de kapatılsın mı?</string>
@@ -689,8 +700,10 @@
   <string name="recents_title_security_scan">Güvenlik taraması</string>
   <string name="recents_tv_small_window_text">Yüzer pencereler</string>
   <string name="recents_worldcirculate_text">Seçmek için bırakın</string>
+  <string name="recnets_relay_device_info">%s</string>
   <string name="recnets_worldcirculate_display_computer_info">Uygulama %s üzerinde çalışıyor.</string>
   <string name="recnets_worldcirculate_display_default_info">Buraya geri getirmek için dokunun.</string>
+  <string name="recnets_worldcirculate_display_default_info_pad">Buraya geri getirmek için dokunun.</string>
   <string name="recnets_worldcirculate_display_pad_info">Uygulama %s üzerinde çalışıyor.</string>
   <string name="recommend_app">Uygulama önerileri</string>
   <string name="recommend_apps_default_title">Boş</string>
@@ -737,7 +750,7 @@
   <string name="select_photo">Resim</string>
   <string name="send">Gönder</string>
   <string name="server_error">Bir sunucu hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
-  <string name="service_double_attention">Gelişmiş arama işlevselliği Branch Metrics Inc. tarafından sağlanmaktadır. Bu özelliğin çalışması için arama isteklerinizi, Google Reklam kimliğinizi ve IP adresinizi Branch Metrics Inc. ile paylaşmamız gerekir. Bu özelliği kullanmadan önce Son Kullanıcı Bulgu Şartlarını ve Koşullarını ve Branch Bulgu Gizlilik Politikasını okuyun ve kabul edin.</string>
+  <string name="service_double_attention">Gelişmiş arama işlevselliği Branch Metrics Inc. tarafından sağlanmaktadır. Bu özelliğin çalışması için arama isteklerinizi, Google Reklam kimliğinizi ve IP adresinizi Branch Metrics Inc. ile paylaşmamız gerekir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşfi Şartlarını ve Koşulları</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşfi Gizlilik Politikası</a></font> okuyun ve kabul edin.</string>
   <string name="setting_wallpaper_tip">Ayarlamak için sıkıştır veya kaydır</string>
   <string name="settings">Ayarlar</string>
   <string name="settings_shortcut">Ayarlar</string>
@@ -789,9 +802,9 @@
   <string name="system_text">Oto.</string>
   <string name="task_access_locked_app_msg">Uygulama kilidi açık</string>
   <string name="term_of_service">Şartlar ve koşullar</string>
-  <string name="terms_of_services_one">Uygulama çekmecesine ve Hızlı Bulucu\'ya hoş geldiniz. Hızlı Bulucu, uygulamaları, uygulama içi içeriği ve öğeleri çevrimiçi olarak daha hızlı bulmanızı sağlar. Bu özellikleri kullanmadan önce Xiaomi Gizlilik Politikasını okuyun ve kabul edin.</string>
+  <string name="terms_of_services_one">"Uygulama çekmecesine ve Hızlı Bulucu\'ya hoş geldiniz. Hızlı Bulucu, uygulamaları, uygulama içi içeriği ve öğeleri çevrimiçi olarak daha hızlı bulmanızı sağlar. Bu özellikleri kullanmadan önce Xiaomi "<font color="#B3000000"><a href="http://url1">Gizlilik Politikası</a></font> okuyun ve kabul edin.</string>
   <string name="terms_of_services_three">Bu özelliği Ayarlar\'dan kapatabilirsiniz.</string>
-  <string name="terms_of_services_two">Gelişmiş aramayı kullanmak, arama sorgularınız, Google Reklam Kimliğiniz ve IP adresiniz dahil olmak üzere gerekli kişisel bilgilerin Branch Metrics Inc. ile paylaşılmasını gerektirir. Branch, kişisel bilgilerinizi Branch Bulgu Gizlilik Politikasına uygun olarak işleyecektir. Bu özelliği kullanmadan önce Son Kullanıcı Bulgu Hüküm ve Koşulları ile Branch Bulgu Gizlilik Politikası\'nı okuyun ve kabul edin.</string>
+  <string name="terms_of_services_two">Gelişmiş aramayı kullanmak, arama sorgularınız, Google Reklam Kimliğiniz ve IP adresiniz dahil olmak üzere gerekli kişisel bilgilerin Branch Metrics Inc. ile paylaşılmasını gerektirir. Branch, kişisel bilgilerinizi <font color="#B3000000"><a href="http://url1">Branch Keşfi Gizlilik Politikasına</a></font> uygun olarak işleyecektir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url2">Son Kullanıcı Keşfi Hüküm ve Koşulları</a></font> ve <font color="#B3000000"><a href="http://url3">Branch Keşfi Gizlilik Politikası</a></font> okuyun ve kabul edin.</string>
   <string name="thursday">Perşembe</string>
   <string name="thursday_short">Prş</string>
   <string name="thursday_shortest">Prş</string>
@@ -833,6 +846,7 @@
   <string name="uninstall_xspace_dialog_title_format">Klonlu \"%s\" kaldırılsın mı?</string>
   <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
   <string name="unnamed_folder_name">Klasör</string>
+  <string name="upgrade_remove_small_window_in_recents">Uygulamaları yüzer pencerelerde açmak için kenar çubuğunu kullanabilirsiniz</string>
   <string name="v7_preference_off">KAPALI</string>
   <string name="v7_preference_on">AÇIK</string>
   <string name="wallpaper">Duvar Kağıdı</string>
@@ -861,15 +875,4 @@
   <string name="work_profile_title">İş profili</string>
   <string name="work_profile_toggle_label">İş profili</string>
   <string name="yesterday">Dün</string>
-  <string name="exit_overview_because_task_stack_changed">Arka planda meydana gelen değişiklikler nedeniyle Son kullanılanlar kapatıldı</string>
-  <string name="navigation_position_center">Merkez</string>
-  <string name="navigation_position_left">Sol</string>
-  <string name="navigation_position_right">Sağ</string>
-  <string name="navigation_position_summary">Gezinme düğmelerinin özel konumları yalnızca Ana ekrana uygulanabilir</string>
-  <string name="navigation_position_title">Gezinme düğmelerinin konumu</string>
-  <string name="recnets_relay_device_info">%s</string>
-  <string name="upgrade_remove_small_window_in_recents">Uygulamaları yüzer pencerelerde açmak için kenar çubuğunu kullanabilirsiniz</string>
-  <string name="fold_pair_install_shortcut_long_click">Ana ekrana eklemek için basılı tutun</string>
-  <string name="fold_pair_installed_shortcut_launcher">Bu kısayol zaten var</string>
-  <string name="no_space_toast_fold">Burada yeterli alan yok</string>
 </resources>

@@ -2128,4 +2128,10 @@ eSIM yine de etkinleştirilsin mi?"</string>
   <string name="no_active_esim_text">Etkin olmayan eSIM</string>
   <string name="set_esim_toast_phone_in_call">Çağrılar sırasında bu eylem gerçekleştirilemiyor</string>
   <string name="switch_cancel_btn_text">İptal</string>
+  <string name="fiveg_nrca_switch_summary">Daha iyi bağlantı için 5G operatör toplamasını kullanın</string>
+  <string name="fiveg_nrca_switch_title">5G operatör toplaması</string>
+  <string name="nrca_switch_summary">Daha iyi bağlantı için 5G operatör toplamasını kullanın</string>
+  <string name="nrca_switch_title">NRCA kullan</string>
+  <string name="unfold_show_bublle_pref_summary">Çağrıları yüzer pencerelerde göstermek için cihazı açın</string>
+  <string name="unfold_show_bublle_pref_title">Çağrıları en aza indirmek için açın</string>
 </resources>

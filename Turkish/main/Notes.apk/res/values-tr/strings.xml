@@ -815,6 +815,8 @@ Notlar\'ın ses kaydetmesine izin verin."</string>
   <string name="warn_cannot_add_new_style">Not çok uzun olduğu için yeni biçim eklenemiyor</string>
   <string name="warn_disable_edit_in_browse_mode">Salt okunur modda notları düzenleyemezsiniz</string>
   <string name="warn_enter_browse_mode">Salt okuma modundasınız</string>
+  <string name="widget_size_item_super_big">Ekstra büyük</string>
+  <string name="widget_size_not_support">Bu cihazda ekstra büyük widget\'lar desteklenmiyor</string>
   <string name="menu_edit">Düzenle</string>
   <string name="note_module_name">Notlar</string>
   <string name="setting_cloud_service">Bulut hizmetleri</string>

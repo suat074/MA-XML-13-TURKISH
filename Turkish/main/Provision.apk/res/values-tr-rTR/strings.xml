@@ -2,6 +2,7 @@
 <resources>
   <string name="accessibility_enabled">Erişilebilirlik etkin.</string>
   <string name="activate_esim_tips">Etkinleştirilemedi. Tekrar deneyin.</string>
+  <string name="activating_esim_tips">Etkinleştiriliyor…</string>
   <string name="agree">Kabul</string>
   <string name="agree_and_next">Kabul</string>
   <string name="agree_terms">Kullanıcı Sözleşmesini ve Gizlilik Politikasını okudum ve kabul ediyorum.</string>

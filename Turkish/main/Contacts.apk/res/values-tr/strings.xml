@@ -1326,6 +1326,7 @@ Favori listenize kişi eklemek için:
   <string name="unknown_contact_name">Bilinmeyen kişi</string>
   <string name="unknown_details_add_to_contact">Mevcut</string>
   <string name="unknown_details_new_contact">Yeni</string>
+  <string name="unshow_qr_code_in_narrow_screen_split">Bölünmüş ekran kullanılırken QR kodları gösterilemiyor</string>
   <string name="update_sim_contact_photo_toast">SIM kartvizitleri için profil fotoğrafları ayarlanamıyor</string>
   <string name="upgrade_in_progress">Kişi listesi güncelleniyor.</string>
   <string name="upgrade_out_of_memory">Kişiler yükseltilme sürecinde.\n\nYükseltme işlemi yaklaşık %s MB dahili depolama gerektirir.\n\nAşağıdaki seçeneklerden birini seçin:</string>

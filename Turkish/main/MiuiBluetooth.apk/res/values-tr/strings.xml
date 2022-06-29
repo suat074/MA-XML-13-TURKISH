@@ -62,6 +62,7 @@
   <string name="fast_connect_anti_lost_content">"Kulaklıklarınızdan biri eksik olduğunda alınacak bir uyarı ayarlayın.
 Ayrıntılar için Ayarlar\'a bakın."</string>
   <string name="fast_connect_bt_speaker2_name">MI Taşınabilir Hoparlör</string>
+  <string name="fast_connect_connection_fail">Bağlanılamadı</string>
   <string name="fast_connect_device_battery">Pil</string>
   <string name="fast_connect_device_box">Kutu</string>
   <string name="fast_connect_device_box_name">%1$s kutusu</string>

@@ -26,7 +26,7 @@
   <string name="miservice_notification_open_feedback_title">\"Hizmetler &amp; geri bildirim\" ile tanışın</string>
   <string name="miservice_notification_scan_content">Sözcükleri ve ifadeleri çevirmek için Tarayıcı\'yı kullanın</string>
   <string name="miservice_notification_scan_title">Hızlı çeviri</string>
-  <string name="miui_feedback_answer_detail_community">Sorularınızın cevaplarını Mi Community üzerinde bulabilirsiniz</string>
+  <string name="miui_feedback_answer_detail_community">Sorularınızın cevaplarını Xiaomi Topluluğu\'nda bulabilirsiniz.</string>
   <string name="miui_feedback_answer_detail_feedback_resolved">Evet</string>
   <string name="miui_feedback_answer_detail_feedback_result">Geri bildiriminiz için teşekkürler!</string>
   <string name="miui_feedback_answer_detail_feedback_title">Bu bilgi yardımcı oldu mu?</string>

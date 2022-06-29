@@ -17,8 +17,8 @@
         <item quantity="one">%d indirme silinsin mi?</item>
     </plurals>
     <plurals name="download_info_count_deleted_tasks">
-        <item quantity="other">%s indirme başarıyla silindi</item>
-        <item quantity="one">%s indirme başarıyla silindi</item>
+        <item quantity="other">%1$d indirme başarıyla silindi</item>
+        <item quantity="one">%1$d indirme başarıyla silindi</item>
     </plurals>
     <plurals name="durationDays">
         <item quantity="other">%1$d gün</item>
@@ -37,7 +37,7 @@
         <item quantity="one">%1$d san.</item>
     </plurals>
     <plurals name="number_items">
-        <item quantity="other">%s öğe</item>
-        <item quantity="one">%s öğe</item>
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
     </plurals>	
 </resources>
