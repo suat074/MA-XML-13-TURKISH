@@ -487,7 +487,6 @@ Bu kodu yöneticiye gönderin."</string>
     <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar çift dokunun</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Desteklenmeyen kare hızı. Normal hıza geri dönün.</string>
     <string name="galleryplus_gallery_fold_tags">İşaretleri gizle</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Yalnızca 960fps videolar destekleniyor</string>
     <string name="galleryplus_gallery_video_adjust_text">Ayarla</string>
     <string name="galleryplus_gallery_video_default_music_text">Otomatik</string>
     <string name="galleryplus_gallery_video_item3_default_text">İfadeler</string>

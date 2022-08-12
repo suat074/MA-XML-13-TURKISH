@@ -375,8 +375,6 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
     <string name="alarms_and_reminders_title">Alarmlar ve hatırlatıcılar</string>
     <string name="allow_mock_location">Sahte konumlara izin ver</string>
     <string name="allow_mock_location_summary">Sahte konumlara izin ver</string>
-    <string name="always_use_accessory">Bu USB aksesuar için varsayılan olarak kullan</string>
-    <string name="always_use_device">Bu USB cihazı için varsayılan olarak kullan</string>
     <string name="animator_duration_scale_title">Animatör süre ölçeği</string>
     <string name="anniversary_status">Yıl dönümü</string>
     <string name="anniversary_status_content_description">%1$s adlı kişinin yıl dönümü</string>
@@ -432,12 +430,10 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
     <string name="battery_info_status_unknown">Bilinmiyor</string>
     <string name="battery_low_button_not_open_power_save">Şimdi değil</string>
     <string name="battery_low_button_open_power_save">Aç</string>
-    <string name="battery_low_percent_format">%d%% kaldı</string>
-    <string name="battery_low_percent_format_hybrid">%1$s kaldı (kullanımınıza göre yaklaşık %2$s)</string>
-    <string name="battery_low_percent_format_hybrid_short">%1$s (yaklaşık %2$s) kaldı</string>
-    <string name="battery_low_percent_format_save_mode_closed">Kalan pil %d%% değerinden az. Cihazınızı şarj edin.</string>
-    <string name="battery_low_percent_format_save_mode_open">Kalan pil %d%% değerinden az. Gücü korumak için Pil tasarrufunu açın.</string>
-    <string name="battery_low_percent_format_saver_started">%s kaldı. Pil tasarrufu açık.</string>
+    <string name="battery_low_percent_format">%s remaining</string>
+    <string name="battery_low_percent_format_hybrid">%1$s remaining, about %2$s left based on your usage</string>
+    <string name="battery_low_percent_format_hybrid_short">%1$s remaining, about %2$s left</string>
+    <string name="battery_low_percent_format_saver_started">%s remaining. Battery Saver is on.</string>
     <string name="battery_low_title">Pil seviyesi düşük</string>
     <string name="battery_low_title_power_save">Pil tasarrufu</string>
     <string name="battery_low_why">Ayarlar</string>
@@ -1255,10 +1251,10 @@ Yalnızca desteklenen şarj cihazlarını kullanın."</string>
     <string name="keyguard_enter_your_password">Şifrenizi girin</string>
     <string name="keyguard_enter_your_pattern">Deseninizi girin</string>
     <string name="keyguard_enter_your_pin">PIN kodunuzu girin</string>
-    <string name="keyguard_indication_charging_time">Şarj oluyor (Tam doluma %s)</string>
-    <string name="keyguard_indication_charging_time_fast">Hızlı şarj (Tam doluma %s)</string>
-    <string name="keyguard_indication_charging_time_slowly">Yavaş şarj (Tam doluma %s)</string>
-    <string name="keyguard_indication_charging_time_wireless">%2$s • Kablosuz olarak şarj ediliyor (tam şarj olmasına %1$s kaldı)</string>
+    <string name="keyguard_indication_charging_time">%2$s • Charging • Full in %1$s</string>
+    <string name="keyguard_indication_charging_time_fast">%2$s • Charging rapidly • Full in %1$s</string>
+    <string name="keyguard_indication_charging_time_slowly">%2$s • Charging slowly • Full in %1$s</string>
+    <string name="keyguard_indication_charging_time_wireless">%2$s • Charging wirelessly • Full in %1$s</string>
     <string name="keyguard_indication_trust_disabled">Kilidi manuel açana kadar cihaz kilitli kalır</string>
     <string name="keyguard_indication_trust_unlocked">TrustAgent tarafından kilit açık tutuldu</string>
     <string name="keyguard_instructions_when_pattern_disabled">"Kilidi açmak için Menü'ye basın."</string>
@@ -1290,11 +1286,11 @@ Yalnızca desteklenen şarj cihazlarını kullanın."</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"SIM kartınız kalıcı olarak devre dışı bırakıldı.
  Başka bir SIM kart için kablosuz servis sağlayıcınıza başvurun."</string>
     <string name="keyguard_permanent_disabled_sim_message_short">SIM kart kullanılamıyor.</string>
-    <string name="keyguard_plugged_in">Şarj oluyor</string>
-    <string name="keyguard_plugged_in_charging_fast">Hızlı şarj</string>
-    <string name="keyguard_plugged_in_charging_limited">%s • Şarj etme geçici olarak sınırlı</string>
-    <string name="keyguard_plugged_in_charging_slowly">Yavaş şarj oluyor</string>
-    <string name="keyguard_plugged_in_wireless">%s • Kablosuz olarak şarj ediliyor</string>
+    <string name="keyguard_plugged_in">%s • Charging</string>
+    <string name="keyguard_plugged_in_charging_fast">%s • Charging rapidly</string>
+    <string name="keyguard_plugged_in_charging_limited">%s • Charging temporarily limited</string>
+    <string name="keyguard_plugged_in_charging_slowly">%s • Charging slowly</string>
+    <string name="keyguard_plugged_in_wireless">%s • Charging wirelessly</string>
     <string name="keyguard_quick_charging_info_click_to_detail">Hızlı şarj ediliyor. Ayrıntıları görüntülemek için dokunun.</string>
     <string name="keyguard_sim_error_message_short">Geçersiz Kart.</string>
     <string name="keyguard_sim_locked_message">SIM kart kilitlendi.</string>
@@ -1797,7 +1793,6 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="nav_guide_ok">Yapılandır</string>
     <string name="nav_guide_title">Sanal tuşları gizle</string>
     <string name="new_notification_image_content_description">%1$s bir resim gönderdi</string>
-    <string name="new_notification_text_content_description">%1$s bir mesaj gönderdi</string>
     <string name="new_story_status">Yeni hikaye</string>
     <string name="new_story_status_content_description">%1$s yeni bir hikaye paylaştı</string>
     <string name="night">Akşam</string>
@@ -1818,7 +1813,7 @@ Sorularınız varsa %2$s ile iletişime geçin."</string>
     <string name="notification_aggregate_text">%1$s tarafından gelen bildirimleri önemsiz olarak işaretle</string>
     <string name="notification_alert_title">Varsayılan</string>
     <string name="notification_all_categories">Tüm kategoriler</string>
-    <string name="notification_app_settings">Özelleştirme: %1$s</string>
+    <string name="notification_app_settings">Özelleştirme</string>
     <string name="notification_appops_ok">Tamam</string>
     <string name="notification_appops_settings">Ayarlar</string>
     <string name="notification_automatic_title">Otomatik</string>
@@ -2782,8 +2777,6 @@ Telefonunuz çok sıcak olabilir:
     <string name="unlockscreen_recharging_message">Şarj %d%%</string>
     <string name="upcoming_birthday_status">Yaklaşan doğum günü</string>
     <string name="upcoming_birthday_status_content_description">%1$s adlı kişinin doğum günü yaklaşıyor</string>
-    <string name="usb_accessory_confirm_prompt">Bu USB aksesuarı bağlandığında %1$s açılsın mı?</string>
-    <string name="usb_accessory_permission_prompt">%1$s uygulamasına USB aksesuarına erişim izni verilsin mi?</string>
     <string name="usb_accessory_uri_prompt">Bu USB aksesuarı ile çalışan yüklü uygulama yok. Bu aksesuar hakkında daha fazla bilgi edinmek için %1$s adresini ziyaret edin</string>
     <string name="usb_audio_disable_routing">USB ses yönlendirmesini kapat</string>
     <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi kapat</string>
@@ -2798,9 +2791,6 @@ USB bağlantı noktasını tekrar sorunsuz kullanabileceğiniz zaman bilgilendir
     <string name="usb_debugging_secondary_user_message">Bu cihazda şu anda oturum açmış olan kullanıcı USB hata ayıklamasını açamaz. Bu özelliği kullanmak için Yönetici kullanıcısına geçin.</string>
     <string name="usb_debugging_secondary_user_title">USB hata ayıklamaya izin verilmiyor</string>
     <string name="usb_debugging_title">USB hata ayıklama moduna izin ver?</string>
-    <string name="usb_device_confirm_prompt">Bu USB cihazı bağlandığında %1$s açılsın mı?</string>
-    <string name="usb_device_confirm_prompt_warn">"%2$s için %1$s uygulaması açılsın mı?
- Bu uygulamaya kayıt izni verilmemiş, ancak bu USB cihazı aracılığıyla sesleri yakalabilir."</string>
     <string name="usb_device_permission_prompt">%1$s uygulamasına USB cihazına erişim izni verilsin mi?</string>
     <string name="usb_device_permission_prompt_warn">"%1$s uygulamasının %2$s cihazına erişmesine izin verilsin mi?
 Bu uygulamaya kayıt izni verilmemiş ancak bu USB cihazı aracılığıyla sesleri yakalayabilir."</string>

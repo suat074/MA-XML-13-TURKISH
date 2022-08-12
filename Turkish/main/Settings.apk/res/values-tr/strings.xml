@@ -678,9 +678,9 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
   <string name="auto_brightness_very_low_title">Çok düşük</string>
   <string name="auto_caps">Otomatik büyük harf</string>
   <string name="auto_caps_summary">Cümlelerde ilk harfi büyük yaz</string>
-  <string name="auto_clean_description">"Bu özellik hakkında
-1. Hoparlörünüzün tozdan hafifçe tıkandığını tespit ederseniz, bu özelliği bir veya iki kez çalıştırın.
-2. Hoparlör çok fazla tıkalıysa, bu özelliği  hoparlör aşağı bakacak şekilde cihazınızı sallayarak %1$d-%2$d kez çalıştırın."</string>
+    <string name="auto_clean_description">"About this feature
+%3$d. Run this feature once or twice if you find that your speaker is lightly blocked by dust.
+%4$d. If the speaker is blocked heavily, run this feature %1$d-%2$d times while shaking your device with the speaker facing downwards."</string>
   <string name="auto_clean_summary">Hoparlörü temizlemek için 30 saniyelik bir ses çalın</string>
   <string name="auto_clean_summary_new">Hoparlörü temizlemek için %d-saniyelik bir ses çalın. Önemli miktarda kir için bu özelliği arka arkaya birden çok kez kullanın.</string>
   <string name="auto_clean_title">Hoparlörü temizle</string>
@@ -1650,7 +1650,6 @@ Bu özelliği, Ayarlar &gt; Bluetooth &gt; Eşleşmiş cihazlar bölümünden ka
   <string name="choose_sim_activating">Etkinleştiriliyor…</string>
   <string name="choose_sim_could_not_activate">Şu anda etkinleştirilemedi</string>
   <string name="choose_sim_item_summary_unknown">Bilinmeyen numara</string>
-  <string name="choose_sim_text">Bu cihazda %1$d numara var, ancak aynı anda yalnızca biri kullanılabilir</string>
   <string name="choose_sim_title">Kullanılacak bir numara seçin</string>
   <string name="choose_smartcover_type">Kapak tipini seçin</string>
   <string name="choose_spell_checker">Yazım denetleyicisini seçin</string>
@@ -4650,7 +4649,7 @@ Ek ayarlara erişmeye devam edin."</string>
   <string name="miui_sos_emergency_delivered_sms">%1$s (%2$s) mesajı aldı</string>
   <string name="miui_sos_emergency_delivered_sms_noname">%1$s mesajı aldı</string>
   <string name="miui_sos_emergency_failed_sms">%1$s (%2$s) adresine mesaj gönderilemedi</string>
-  <string name="miui_sos_emergency_failed_sms_noname">%1ssos mesaj gönderilemedi.</string>
+  <string name="miui_sos_emergency_failed_sms_noname">%1s sos mesaj gönderilemedi.</string>
   <string name="miui_sos_enable_switch_summary">Acil durum kişilerinize bulunduğunuz konumla ilgili SOS metin mesajı göndermek için Güç düğmesine 5 kez hızlıca basın</string>
   <string name="miui_sos_enable_switch_title">Acil durum SOS</string>
   <string name="miui_sos_exit_dialog_cancel">İptal</string>
@@ -9374,7 +9373,6 @@ diğer kullanıcıların ağlarını da kullanabilirsiniz."</string>
   <string name="zen_mode_duration_summary_always_prompt">Her zaman sor (otomatik olarak açılmadıkça)</string>
   <string name="zen_mode_duration_summary_forever">Kapatıncaya kadar (otomatik olarak açılmadıkça)</string>
   <string name="zen_mode_duration_summary_time_hours">{count,plural, =1{1 saat}other{# saat}}</string>
-  <string name="zen_mode_duration_summary_time_minutes">%d dakika (otomatik olarak açılmadığı sürece)</string>
   <string name="zen_mode_enable_dialog_turn_on">Aç</string>
   <string name="zen_mode_end_time">Bitiş zamanı</string>
   <string name="zen_mode_end_time_next_day_summary_format">%s sonraki gün</string>
@@ -9532,7 +9530,6 @@ Ayarları şu şekilde güncelle:
   <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_2">Dengeli ses ve bağlantı kalitesi (%1$dkbps/%2$dkbps)</string>
   <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_3">Bağlantı kalitesi için optimize edildi (%1$dkbps/%2$dkbps)</string>
   <string name="bluetooth_a2dp_codec_ldac_playback_quality_titles_4">En iyi etki (Uyarlanabilir bit hızı)</string>
-  <string name="force_msaa_new">%dx MSAA\'yı zorla</string>
   <string name="force_msaa_summary_new">OpenGL ES %1$.1f uygulamalarında %2$dx MSAA\'yı etkinleştirin</string>
   <string name="max_number_of_processes">En fazla %d işlem</string>
   <string name="no_background_processes">Arka planda işlem yok</string>

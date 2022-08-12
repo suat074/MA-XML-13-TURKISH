@@ -109,7 +109,6 @@ Not: Yüklediğiniz uygulamaların verileri, Xiaomi Bulut\'a yedeklenmez."</stri
 *  MIUI ve sistem ayarları 
 Not: Yüklediğiniz uygulamaların verileri Xiaomi Bulut\'a yedeklenmez."</string>
   <string name="cloud_back_up_frequence_choice_title">Yedekleme Planı</string>
-  <string name="cloud_back_up_frequence_long">Her 7 günde bir</string>
   <string name="cloud_back_up_frequence_short">Hergün</string>
   <string name="cloud_back_up_no_network_warn">Wi-Fi ağına bağlanamadı</string>
   <string name="cloud_back_up_ok_btn">Tamam</string>

@@ -221,7 +221,6 @@
   <string name="friday">Cuma</string>
   <string name="friday_short">Cum</string>
   <string name="friday_shortest">Cum</string>
-  <string name="ftp_account_req_notice">" 4-16 karakter, harf ve rakamlar, büyük-küçük harfe duyarlı"</string>
   <string name="ftp_anonymous_login">Anonim oturum aç</string>
   <string name="ftp_anonymous_warning_msg">Anonimleştirme özellikleri güvenlik riskleri oluşturabilir. Yine de özelliği kullan?</string>
   <string name="ftp_anonymous_warning_title">Dikkat</string>

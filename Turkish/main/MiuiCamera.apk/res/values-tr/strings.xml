@@ -1380,7 +1380,7 @@ Arka planı bulanıklaştırırken nesneyi net tutun."</string>
   <string name="pref_video_time_lapse_frame_interval_entry_240">240X(%d-saniye aralık)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_30">30X(%d-saniye aralık)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_300">300X(%d-saniye aralık)</string>
-  <string name="pref_video_time_lapse_frame_interval_entry_4">4X(%d-saniye aralık)</string>
+  <string name="pref_video_time_lapse_frame_interval_entry_4">4X(%.2f-saniye aralık)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_450">450X(%d-saniye aralık)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_60">60X(%d-saniye aralık)</string>
   <string name="pref_video_time_lapse_frame_interval_entry_90">90X(%d-saniye aralık)</string>

@@ -66,7 +66,6 @@
   <string name="equalizer">Ekolayzer</string>
   <string name="expand_button_title">Gelişmiş</string>
   <string name="first_note">Ses düzeyini buna göre ayarlamak için işitsel algılamanızı test edin.</string>
-  <string name="four_note">Testin tamamlanması yaklaşık 3 dakika sürer.</string>
   <string name="headset_use_long_time">Görünüşe göre kulaklıklarını önerilenden daha uzun süredir takıyorsun. Onları çıkarın ve biraz mola verin.</string>
   <string name="headset_use_loud_volume">Kulaklık sesi uzun süredir yüksek. İşitme duyunuzu korumak için önerilen seviyeye düşürüldü.</string>
   <string name="headset_use_not_support_noise_reduction">Mevcut ortamınız çok gürültülü görünüyor. Şimdi kulaklık takmak işitmenizi etkileyebilir.</string>
@@ -121,7 +120,6 @@
   <string name="music_audio_effect_settings">Efekt ayarları</string>
   <string name="music_audio_visual_wake_lock">Ekranı açık tut</string>
   <string name="music_audio_visual_wake_lock_summary">Görsel efektler görüntülendiğinde ekranı kapatmayın</string>
-  <string name="music_below_thirty_years">30 yaşa kadar</string>
   <string name="music_customized_sound_summary">Ses düzeyini işitsel algılamanıza göre özelleştirin</string>
   <string name="music_customized_sound_title">Ses ayarı</string>
   <string name="music_delete">Sil</string>
@@ -212,10 +210,8 @@
   <string name="music_sound_num">Özel hazır ayar %s</string>
   <string name="music_sound_sample">Sistem hazır ayarları</string>
   <string name="music_sure_to_delete_sound_msg">Seçili hazır ayarlar şimdi silinsin mi?</string>
-  <string name="music_thirty_to_sixty_years">30-60 yaşında</string>
   <string name="music_title_dolby_control">Dolby Digital Plus</string>
   <string name="music_unsupport_effect_summary">Desteklenmeyen USB Kulaklık</string>
-  <string name="music_upper_sixty_years">60 yaşından fazla</string>
   <string name="name">İsim</string>
   <string name="not_set">Ayarlanmadı</string>
   <string name="not_support_sound_transmission_content">Bu özellik, bağlı cihaz tarafından desteklenmiyor. Başka bir Bluetooth cihazı deneyin.</string>
